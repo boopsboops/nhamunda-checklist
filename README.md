@@ -1,4 +1,1 @@
-nhamunda-checklist
-==================
-
-This is a checklist of fishes of the Rio Nhamundá.
+This is a checklist of fishes of the Rio Nhamundá. Manuscript is also written in markdown.

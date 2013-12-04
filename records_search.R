@@ -2,23 +2,19 @@
 #library(devtools)
 #install_github("rgbif", "ropensci")
 library(rgbif)
+library(rjson)
 
 #?occ_search
-key <- name_backbone(name='Tapirus terrestris')$speciesKey
-se <- occ_search(taxonKey=key, return='all', limit=10000, minimal=FALSE)# ?occ_search
-tail(se)
-dat <- occ_search(scientificname = "Tapirus terrestris", coordinatestatus = TRUE)
-gbifmap_list(dat)
-
-
-
 
 key <- name_backbone(name='Siluriformes')$orderKey
-se <- occ_search(taxonKey=key, return='all', minimal=FALSE, limit=100000)# ?occ_search #country = 'BR', 
+se <- occ_search(taxonKey=key, return='data', minimal=FALSE, limit=10000)# ?occ_search #country = 'BR', 
 head(se)
-length(se$data$species)
-se$data$locality
-se$data$species[grep('Columbia', se$data$locality)]
+nrow(se)
+se$locality
+se$species[grep('Columbia', se$locality)]
+
+fy <- occ_search(search="Nhamund", return='data', minimal=FALSE, limit=100)
+
 
 #Rfishbase analysis
 library(rfishbase)
