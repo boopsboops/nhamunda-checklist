@@ -7,11 +7,11 @@ library(rjson)
 #?occ_search
 
 key <- name_backbone(name='Siluriformes')$orderKey
-se <- occ_search(taxonKey=key, return='data', minimal=FALSE, limit=10000)# ?occ_search #country = 'BR', 
+se <- occ_search(taxonKey=key, return='data', minimal=FALSE, limit=150000)# ?occ_search #country = 'BR', 
 head(se)
 nrow(se)
 se$locality
-se$species[grep('Columbia', se$locality)]
+se$species[grep('Trombetas', se$locality)]
 
 fy <- occ_search(search="Nhamund", return='data', minimal=FALSE, limit=100)
 
