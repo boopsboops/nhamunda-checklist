@@ -35,19 +35,21 @@ DNA barcodes were generated for one individual per species collected.
 
 ##### Auchenipteridae
 
+###### *Auchenipterichthys longimanus* (Günther 1864)
+
 ###### *Trachycorystes trachycorystes* (Valenciennes 1840)
 
 ###### *Tatia musaica* Royero, 1992
 
-###### *Tatia xxx*
+###### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
 
 ##### Doradidae
 
-###### *Scorpiodoras xxx*
+###### *Astrodoras xxx*
 
 ##### Heptapteridae
 
-###### *Goeldiella eques*
+###### *Goeldiella eques* (Müller & Troschel, 1849)
 
 ###### *Pimelodella megalops* Eigenmann, 1912
 
