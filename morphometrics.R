@@ -26,7 +26,7 @@ body <- tab[tab$Percents=="body",]
 body <- subset(body, select=-Percents)
 tab <- subset(tab, select=-Percents)
 
-
+body[1:21,]
 
 apply(body, 2, function(x) x/tab[1,])
 
