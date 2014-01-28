@@ -2,10 +2,9 @@
 #clear memory
 rm(list = ls())
 #read in morphho table
-tab <- read.table("/home/rupert/LaTeX/nhamunda-checklist/pseudolithoxus_morphometrics_table.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE, row.names="Measurement")#?read.table
+tab <- read.table("/home/rupert/LaTeX/nhamunda-checklist/pseudolithoxus_morphometrics_table.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE, row.names="Measurement")#?read.table , 
 #remove landmark number, keep abbreviations and convert to Matrix
 tab <- subset(tab, select=-Landmarks)
-
 
 #tab <- tab[,-1]#?as.matrix
 
@@ -26,22 +25,23 @@ body <- tab[tab$Percents=="body",]
 body <- subset(body, select=-Percents)
 tab <- subset(tab, select=-Percents)
 
-body[1:21,]
-
-apply(body, 2, function(x) x/tab[1,])
+apply(as.matrix(body), 1, function(xx) xx / tab["Standard_length",])
 
 
+#working!
+mat <- apply(hj, 1, function(xx) (xx / pc)*100)
 
+hj <- as.matrix(body)
+pc <- as.matrix(tab["Standard_length",])
 
-tg <- names(body) %in% "Percents"
-body <- body[!tg]
-#body <- as.matrix(body)
+rownames(hj) <- NULL
+rownames(pc) <- NULL
 
+colnames(hj) <- NULL
+colnames(pc) <- NULL
 
-th <- names(tab) %in% "Percents"
-tab <- tab[!th]
+colnames(mat) <- rownames(body)
 
-is.list(tab)
 
 kk <- tab[== "PL", "HL",] / tab["SL",]
 class(kk)
@@ -61,17 +61,22 @@ tab$Landmarks
 
 percs <- 
 
-apply(subm, 2, function(x) (x/tab["Standard_length", ])*100)	
+apply(subm, 1:2, function(x) x / tab[1, 2:11])	
 
-sub1 <- tab[2:24,3:12]
+sub1 <- tab[2:24,2:11]
 
 subm <- as.matrix(sub1)
 
-rownames(subm)
+subm[1,]
+
+rownames(subm) <- NULL
 colnames(subm)
 
 dim(percs)
 
-transpose(percs)
 
-boxplot(percs, use.cols = FALSE)#?boxplot
+boxplot(mat, use.cols = TRUE, cex.axis=0.4)#?boxplot?plot
+
+
+31.6/72.6
+22.1/98.9
