@@ -1,0 +1,36 @@
+Landmarks,Measurement
+1--20,SL (mm)
+1--10,Predorsal L.
+1--7,Head L. (HL)
+7--10,Head-dorsal L.
+8--9,Cleithral W.
+1--12,Head-pectoral L.
+12--13,Thorax L.
+12--29,Pectoral-spine L.
+13--14,Abdominal L.
+13--30,Pelvic-spine L.
+14--15,Postanal L.
+14--31,Anal-fin spine L.
+10--12,Dorsal-pectoral D.
+10--11,Dorsal spine L.
+10--13,Dorsal-pelvic D.
+10--16,Dorsal-fin base L.
+16--17,Dorsal-adipose D.
+17--18,Adipose-spine L.
+17--19,Dorsal Adipose-caudal D.
+15--19,Caudal peduncle Dp.
+15--17,Ventral adipose-caudal D.
+14--17,Adipose-anal D.
+14--16,Dorsal-anal D.
+13--16,Pelvic-dorsal D.
+5--7,Head-eye L.
+4--5,Orbit Dia.
+1--4,Snout L.
+2--3,Internares W.
+5--6,Interorbital W.
+7--12,Head Dp.
+1--24,Mouth L.
+21--22,Mouth W.
+22--23,Barbel L.
+25--26,Dentary tooth cup L.
+27--28,Premaxillary tooth cup L.
