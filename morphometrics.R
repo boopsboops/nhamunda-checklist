@@ -1,82 +1,48 @@
-#library(ggplot2)
+
 #clear memory
 rm(list = ls())
-#read in morphho table
+#read in morpho table
 tab <- read.table("/home/rupert/LaTeX/nhamunda-checklist/pseudolithoxus_morphometrics_table.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE, row.names="Measurement")#?read.table , 
 #remove landmark number, keep abbreviations and convert to Matrix
 tab <- subset(tab, select=-Landmarks)
 
-#tab <- tab[,-1]#?as.matrix
-
-
+##check data is read in correctly
 #class(tab)
 #dim(tab)
-#check data is read in correctly
-head(tab)
-tab$CTGA_14486
-tab["Standard_length",]
-rownames(tab)
-colnames(tab)
+#head(tab)
+#tab$CTGA_14486
+#tab["Standard_length",]
+#rownames(tab)
+#colnames(tab)
 
 
-#subset body measurements
-#yes, yes, I know this can be done easier with [x:y,] but there's less scope for mistakes
+#subset body measurements, remove percents, and convert to matrix
 body <- tab[tab$Percents=="body",]
-body <- subset(body, select=-Percents)
-tab <- subset(tab, select=-Percents)
+body2 <- as.matrix(subset(body, select=-Percents))
+#selects the correct row with standard lengths
+sl <- as.matrix(subset(tab["Standard_length",], select=-Percents))
 
-apply(as.matrix(body), 1, function(xx) xx / tab["Standard_length",])
+#perform a 'sweep' over the columns to get the % of SL for each
+slp <- sweep(body2, 2, sl, FUN="/") *100#?sweep
 
+#plot
+boxplot(slp, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
 
-#working!
-mat <- apply(hj, 1, function(xx) (xx / pc)*100)
+#for head lengths
+head <- tab[tab$Percents=="head",]
+head2 <- as.matrix(subset(head, select=-Percents))
+hl <- as.matrix(subset(tab["Head_length",], select=-Percents))
+hlp <- sweep(head2, 2, hl, FUN="/") *100
+boxplot(hlp, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
 
-hj <- as.matrix(body)
-pc <- as.matrix(tab["Standard_length",])
+#combined boxplot
+com <- rbind(slp, hlp)
+boxplot(com, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
 
-rownames(hj) <- NULL
-rownames(pc) <- NULL
-
-colnames(hj) <- NULL
-colnames(pc) <- NULL
-
-colnames(mat) <- rownames(body)
-
-
-kk <- tab[== "PL", "HL",] / tab["SL",]
-class(kk)
-str(kk)
-#subset to smaller frame
-tabsm <- tab[, 3:12]
-
-divs <- (tab[2,]/tab[1,3:12])*100
-
-tab[1, 1:10]/2
-tab[, ]
-
-
-tab$Landmarks
-
-
-
-percs <- 
-
-apply(subm, 1:2, function(x) x / tab[1, 2:11])	
-
-sub1 <- tab[2:24,2:11]
-
-subm <- as.matrix(sub1)
-
-subm[1,]
-
-rownames(subm) <- NULL
-colnames(subm)
-
-dim(percs)
-
-
-boxplot(mat, use.cols = TRUE, cex.axis=0.4)#?boxplot?plot
-
-
-31.6/72.6
-22.1/98.9
+#boxplot ordered by range
+ran <- as.vector(apply(com, 1, sd))
+ex <- as.data.frame(cbind(com,ran))
+ex <- ex[order(ex$"ran", decreasing=TRUE),]
+ex <- as.matrix(subset(ex, select=-ran))
+par(mar=c(10,5,2,2))
+boxplot(ex, use.cols = FALSE, cex.axis=0.6, las=2, ylab="percent of SL/HL sorted by standard devation")
