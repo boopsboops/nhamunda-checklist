@@ -46,3 +46,17 @@ ex <- ex[order(ex$"ran", decreasing=TRUE),]
 ex <- as.matrix(subset(ex, select=-ran))
 par(mar=c(10,5,2,2))
 boxplot(ex, use.cols = FALSE, cex.axis=0.6, las=2, ylab="percent of SL/HL sorted by standard devation")
+
+
+
+#?par
+
+library(car)
+library(reshape2)
+mex <- melt(ex)#?melt
+par(mar=c(10,5,2,2))
+Boxplot(mex$value~mex$Var1, data=mex, labels=as.character(mex$Var2), cex.axis=0.6, las=2)#?Boxplot
+
+
+ex["Abdominal_length",]
+
