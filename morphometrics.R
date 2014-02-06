@@ -1,4 +1,3 @@
-
 #clear memory
 rm(list = ls())
 #read in morpho table
@@ -26,18 +25,18 @@ sl <- as.matrix(subset(tab["Standard_length",], select=-Percents))
 slp <- sweep(body2, 2, sl, FUN="/") *100#?sweep
 
 #plot
-boxplot(slp, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
+#boxplot(slp, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
 
 #for head lengths
 head <- tab[tab$Percents=="head",]
 head2 <- as.matrix(subset(head, select=-Percents))
 hl <- as.matrix(subset(tab["Head_length",], select=-Percents))
 hlp <- sweep(head2, 2, hl, FUN="/") *100
-boxplot(hlp, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
+#boxplot(hlp, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
 
 #combined boxplot
 com <- rbind(slp, hlp)
-boxplot(com, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
+#boxplot(com, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
 
 #boxplot ordered by range
 ran <- as.vector(apply(com, 1, sd))
@@ -48,15 +47,15 @@ par(mar=c(10,5,2,2))
 boxplot(ex, use.cols = FALSE, cex.axis=0.6, las=2, ylab="percent of SL/HL sorted by standard devation")
 
 
-
-#?par
-
+#libraries to melt and use new boxplot
 library(car)
 library(reshape2)
+#form data into 3 cols
 mex <- melt(ex)#?melt
 par(mar=c(10,5,2,2))
-Boxplot(mex$value~mex$Var1, data=mex, labels=as.character(mex$Var2), cex.axis=0.6, las=2)#?Boxplot
+#boxplot with outliers annotated
+Boxplot(mex$value~mex$Var1, data=mex, labels=as.character(mex$Var2), cex.axis=0.6, las=2)#?Boxplot #?par
 
-
+#check the individual values
 ex["Abdominal_length",]
 
