@@ -16,7 +16,7 @@ tab <- subset(tab, select=-Landmarks)
 
 
 #subset body measurements, remove percents, and convert to matrix
-body <- tab[tab$Percents=="body",]
+body <- na.omit(tab[tab$Percents=="body",])
 body2 <- as.matrix(subset(body, select=-Percents))
 #selects the correct row with standard lengths
 sl <- as.matrix(subset(tab["Standard_length",], select=-Percents))
@@ -28,7 +28,7 @@ slp <- sweep(body2, 2, sl, FUN="/") *100#?sweep
 #boxplot(slp, use.cols = FALSE, cex.axis=0.6, las=2)#?boxplot?plot
 
 #for head lengths
-head <- tab[tab$Percents=="head",]
+head <- na.omit(tab[tab$Percents=="head",])
 head2 <- as.matrix(subset(head, select=-Percents))
 hl <- as.matrix(subset(tab["Head_length",], select=-Percents))
 hlp <- sweep(head2, 2, hl, FUN="/") *100
