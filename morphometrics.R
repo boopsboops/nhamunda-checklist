@@ -59,3 +59,15 @@ Boxplot(mex$value~mex$Var1, data=mex, labels=as.character(mex$Var2), cex.axis=0.
 #check the individual values
 ex["Abdominal_length",]
 
+##get some summaries
+#drop percents
+tab <- subset(tab, select=-Percents)
+#apply summary over the rows
+apply(tab, 1, summary)
+apply(tab, 1, Mode)
+apply(tab, 1, median)
+
+Mode <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
