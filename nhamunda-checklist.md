@@ -64,17 +64,40 @@ The species is currently only known from one location on the main river stem of 
 
 ### Checklist of Siluriformes
 
-##### Auchenipteridae
+#### *Auchenipterichthys longimanus* (Günther, 1864)
 
-###### *Auchenipterichthys longimanus* (Günther 1864)
+##### Notes
+Identification to species level follows <u>Ferraris et al. (2005)</u> based on the following characters: coracoid not exposed ventrally; pelvic fin with branched rays; anterior teeth on premaxilla not visible when mouth closed; caudal fin emarginate; and body uniform dark colouration without dark spots.
 
-###### *Trachycorystes trachycorystes* (Valenciennes 1840)
+Fishes were caught by hand from their lodgements in both woody and rocky substrates. Location? Example is shown in Figure YYY.
 
-###### *Tatia musaica* Royero, 1992
+##### Figure
+*Auchenipterichthys longimanus* INPA CTGA. 130.0 mm SL <!--biggest one-->. Pictured preserved and alive. <!-- medium sized one is ctga14502-->
 
-###### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
+#### *Trachycorystes trachycorystes* (Valenciennes, 1840)
 
-##### Doradidae
+##### Notes
+Identification to species level follows <u>Britski and Akama (2011)</u> based on the following characters: prognathous lower jaw; skull roof covered by thin integument; inner mental barbel reaching base of outer mental barbel; dorsal-fin spine serrated only along anterior margin; and caudal fin emarginate (our specimens had suffered damage to the lobes of the caudal fin, presumably due to piranhas). 
+
+Fishes were caught at night using gill nets off the main river channel? Location? Example is shown in Figure YYY.
+
+##### Figure
+*Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->. Pictured preserved and alive.
+
+#### *Tatia musaica* Royero, 1992
+
+##### Notes
+##### Figure
+
+#### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
+
+##### Notes
+Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> based on the following characters: dark brown body color; and short postcleithral process (about 60% of head length) not reaching vertical through origin of dorsal fin. 
+
+Fishes were caught by hand from their lodgements in mainlyrocky substrates. Location? Example is shown in Figure YYY.
+
+##### Figure
+INPA CTGA. 101.0 mm SL <!--biggest one-->. Pictured preserved and alive. <!-- need to check INPA specimens of C. musaica  (INPA 35087)-->
 
 ###### *Astrodoras xxx*
 
