@@ -69,24 +69,24 @@ The species is currently only known from one location on the main river stem of 
 ##### Notes
 Identification to species level follows <u>Ferraris et al. (2005)</u> based on the following characters: coracoid not exposed ventrally; pelvic fin with branched rays; anterior teeth on premaxilla not visible when mouth closed; caudal fin emarginate; and body uniform dark colouration without dark spots.
 
-Fishes were caught by hand from their lodgements in both woody and rocky substrates. Location? Example is shown in Figure YYY.
+Fishes were caught by hand from their lodgements in both woody and rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-*Auchenipterichthys longimanus* INPA CTGA. 130.0 mm SL <!--biggest one-->. Pictured preserved and alive. <!-- medium sized one is ctga14502-->
+*Auchenipterichthys longimanus* INPA CTGA. 130.0 mm SL <!--biggest one-->.<!-- medium sized one is ctga14502-->
 
 #### *Trachycorystes trachycorystes* (Valenciennes, 1840)
 
 ##### Notes
 Identification to species level follows <u>Britski and Akama (2011)</u> based on the following characters: prognathous lower jaw; skull roof covered by thin integument; inner mental barbel reaching base of outer mental barbel; dorsal-fin spine serrated only along anterior margin; and caudal fin emarginate (our specimens had suffered damage to the lobes of the caudal fin, presumably due to piranhas). 
 
-Fishes were caught at night using gill nets off the main river channel? Location? Example is shown in Figure YYY.
+Fishes were caught at night using gill nets off the main river channel? Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-*Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->. Pictured preserved and alive.
+*Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->. 
 
 #### *Tatia musaica* Royero, 1992
 
-##### Notes
+##### Notes  <!-- need to check INPA specimens of Centromochlus sp. (musaica?) (INPA 35087) collected from the Nhamunda -->
 ##### Figure
 
 #### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
@@ -94,12 +94,53 @@ Fishes were caught at night using gill nets off the main river channel? Location
 ##### Notes
 Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> based on the following characters: dark brown body color; and short postcleithral process (about 60% of head length) not reaching vertical through origin of dorsal fin. 
 
-Fishes were caught by hand from their lodgements in mainlyrocky substrates. Location? Example is shown in Figure YYY.
+Fishes were caught by hand from their lodgements in mainly rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. 101.0 mm SL <!--biggest one-->. Pictured preserved and alive. <!-- need to check INPA specimens of C. musaica  (INPA 35087)-->
+INPA CTGA. 101.0 mm SL <!--biggest one-->.
 
-###### *Astrodoras xxx*
+###### *Astrodoras asterifrons* (Kner, 1853)
+
+##### Notes
+
+Identification to species level follows <u>Sousa (2010)</u> based on the following characters: flattened body shape; upper limit of pre-opercular canal not reaching lateral border of the cranium; seven branched rays in the dorsal lobe of the caudal fin; dorsal margin of the orbit high; procurrent rays of the caudal fin expanded into bony shields; and diverticula of the swim bladder simple, with tapered rear end.
+
+Fishes were caught by hand at night over a sandy/muddy substrate on the Lower Nhamundá. Water current was minimal. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA. 69.7 mm SL <!--biggest one CTGA14540 (labelled wrong as 14440)-->.
+
+<!-- 
+
+4. Corpo relativamente achatado (sua altura menor que 57% da largura); limite superior do canal do pré-opérculo não atingindo borda lateral do cranio. . . . . 5
+
+- Corpo relativamente alto (sua altura maior que 65% da largura); limite superior do pré-opérculo alcançando a borda lateral do cranio. . . . . 6
+
+5. Um escudo ósseo mediano imediatamente anterior a nadadeira adiposa; seis raios ramificados no lobo superior da nadadeira caudal. HYPODORAS.
+ 
+- Sem escudo ósseo mediano anterior a nadadeira adiposa; sete raios ramificados no lobo superior da nadadeira caudal. ASTRODORAS.
+
+6. Nadadeira caudal bifurcada; borda do etmóide lateral serrilhado. SCORPIODORAS.
+
+- Nadadeira caudal truncada; borda do etmóide lateral liso ou com granulaçoes. AMBLYDORAS.
+
+#############################
+4. Relatively flat body (a height less than 57% of the width), upper limit of channel pre-operculum not reaching lateral border of the skull.. . . . . 5
+
+- Body relatively high (a height greater than 65% of the width), upper limit of pre-operculum reaching the lateral edge of the skull. . . . . 6
+
+5. Immediately prior to adipose fin median bony shell and six branched rays in the upper lobe of the caudal fin. HYPODORAS.
+ 
+- No anterior median bone shield the adipose fin, seven branched rays in the upper lobe of the caudal fin. ASTRODORAS.
+
+6. Forked caudal fin; serrated edge of the lateral ethmoid. SCORPIODORAS.
+
+- Caudal fin truncated; edge of  lateral ethmoid smooth or with granulations. AMBLYDORAS.
+
+####################
+Astrodoras sp. "fulcro" pode ser diferenciado de Astrodoras sp. "sem fulcro" por possuir os raias procorrentes da nadadeira caudal expandidos em escudos ósseos (vs. raias procorrentes finos nao formando escudos) e a borda superior da órbita bastante elevada (vs  borda superior da órbita pouco elevada). Pode ainda ser distinguido de A. asterifrons pelos divertículos terminais da bexiga natatória possuírem a extremidade posterior truncada, geralmente com extremidades divergentes, cada uma orientada lateralmente (vs. divertículos terminais com a extremidade posterior afilada).
+
+Astrodoras sp. "Fulcrum" can be differentiated from Astrodoras sp. "Without fulcro "by possessing procurrent rays of the caudal fin expanded in bone shields (vs. thin procurrent rays not forming shields) and the upper edge of the orbit quite high (vs upper edge of orbit slightly elevated). Can still be distinguished from A. asterifrons by bladder diverticula terminals possessing the truncated rear end, usually with divergent ends, each oriented laterally (vs. diverticula terminals with tapered rear end).-->
 
 ##### Heptapteridae
 
@@ -147,7 +188,16 @@ INPA CTGA. 101.0 mm SL <!--biggest one-->. Pictured preserved and alive. <!-- ne
 
 ##### Pseudopimelodidae
 
-###### *Batrochoglanis villosus* (Eigenmann, 1912)
+#### *Batrochoglanis villosus* (Eigenmann, 1912)
+
+##### Notes
+
+Identification to species level follows <u>Shibatta & Pavanelli (2005)</u> based on the following characters: caudal fin light with dark irregular dots 
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA. 176.0 mm SL <!--biggest one CTGA14497 -->.
 
 ### Conclusions
 
