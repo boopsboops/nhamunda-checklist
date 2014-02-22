@@ -64,6 +64,8 @@ The species is currently only known from one location on the main river stem of 
 
 ### Checklist of Siluriformes
 
+
+
 #### *Auchenipterichthys longimanus* (Günther, 1864)
 
 ##### Notes
@@ -72,7 +74,11 @@ Identification to species level follows <u>Ferraris et al. (2005)</u> based on t
 Fishes were caught by hand from their lodgements in both woody and rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12865&mode=view" alt="" width="500">
+
 *Auchenipterichthys longimanus* INPA CTGA. 130.0 mm SL <!--biggest one-->.<!-- medium sized one is ctga14502-->
+
+
 
 #### *Trachycorystes trachycorystes* (Valenciennes, 1840)
 
@@ -82,22 +88,47 @@ Identification to species level follows <u>Britski and Akama (2011)</u> based on
 Fishes were caught at night using gill nets off the main river channel? Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-*Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->. 
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12862&t=1" alt="" width="400">
 
-#### *Tatia musaica* Royero, 1992
+*Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->.
 
-##### Notes  <!-- need to check INPA specimens of Centromochlus sp. (musaica?) (INPA 35087) collected from the Nhamunda -->
+
+
+#### *Tatia* aff. *musaica* Royero, 1992
+
+##### Notes 
+<!-- need to check INPA specimens of Centromochlus sp. (musaica?) (INPA 35087) collected from the Nhamunda -->
+
+Identification to species level follows <u>Royero (1993)</u>, <u>Sarmento-Soares (2008)</u> and Vari & Ferraris (2013)
+based on the following characters: irregular, mosaic-like black and white colour pattern; bifid third nuchal plate; and long post-cleithral process reaching past the nuchal plates. Our specimens, however, differ from those described/pictured by Royero (1993) in a number of aspects: unpigmented area dorso-posteriorly to the orbit (slightly elongated and smaller than orbit diameter); third nuchal plate larger than that figured by Royero (1993); third nuchal plate unpigmented (including some of the surrounding skin); caudal fin hyaline with oblique dark stripes reaching to tips of upper and lower lobes.
+
+Fishes were mostly caught using a hand net at the surface after attracting insects&mdash;on which they were feeding&mdash;with a light. They were abundant at the locality on the lower Nhamundá.
+
+<!-- El cuerpo es gris oscuro, o casi negro hacia la región dorsal del cuerpo y en los flancos, con una serie de proyeciones de pigmentación oscura hacia el vientre, a manera de mosaico (Fig. I y 6). La parte subterminal de la mandíbula inferior y toda la región ventral, hasta el origen de la aleta anal, no tiene pigmentación; en el material preservado es de color  blanco. La pigmentación que se proyecta sobre el víentre presenta variaciones, pero en todos los ejemplares examinados dos existe una proyección anterior a la aleta pélvica, otra en la parte anterior de la aleta  anal y otros sobre os pedúnculo caudal.
+
+La cabeza es completamente oscura, extendiéndose los pigmentos desde la región dorsal hasta debajo de la órbita. En la mandíbula inferior, y debajo de la barbillas, aparece una franja de pigmentos oscuros. La porción membranosa del opérculo no ostenta pigmentación.
+
+La aleta dorsal es oscura a nivel de la base y tiene numerosos pigmentos en la espina. Los dos primeros radios ramifícados son oscuros bacia la región media. La aleta pectoral es hialina, sólo la espina y el primer radio tienen pigmentacion. Las aletas pélvicas y anal solo están pigmentadas en la base. La aleta adiposa es hialina, con pocos pigmentos en la base. La aleta caudal es oscura, con varíaciones en diferentes individuos, aunque en la mayoría se presenta una banda oscura tenue hacia la región distal. -->
+
 ##### Figure
+ <img src="http://www.planetcatfish.com/forum/download/file.php?id=12866&t=1" alt="" width="500"> 
+
+INPA CTGA.  ??? mm SL. <!--need to find specimen pictured-->
 
 #### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
 
 ##### Notes
-Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> based on the following characters: dark brown body color; and short postcleithral process (about 60% of head length) not reaching vertical through origin of dorsal fin. 
+Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> based on the following characters: dark brown body color; and short post-cleithral process (about 60% of head length) not reaching vertical through origin of dorsal fin. 
 
 Fishes were caught by hand from their lodgements in mainly rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
+ <img src="http://www.planetcatfish.com/forum/download/file.php?id=12864&t=1" alt="" width="500"> 
+
 INPA CTGA. 101.0 mm SL <!--biggest one-->.
+
+
+
 
 ###### *Astrodoras asterifrons* (Kner, 1853)
 
@@ -109,6 +140,8 @@ Fishes were caught by hand at night over a sandy/muddy substrate on the Lower Nh
 
 ##### Figure
 INPA CTGA. 69.7 mm SL <!--biggest one CTGA14540 (labelled wrong as 14440)-->.
+
+ <img src="http://www.planetcatfish.com/forum/download/file.php?id=12869&mode=view" alt="" width="500"> 
 
 <!-- 
 
@@ -192,11 +225,13 @@ Astrodoras sp. "Fulcrum" can be differentiated from Astrodoras sp. "Without fulc
 
 ##### Notes
 
-Identification to species level follows <u>Shibatta & Pavanelli (2005)</u> based on the following characters: caudal fin light with dark irregular dots 
+Identification to species level follows <u>Shibatta & Pavanelli (2005)</u> and <u>Eigenmann (1912)</u> based on the following characters: head large and rounded in dorsal view; insertion of pelvic fin though vertical of posterior base of dorsal; short caudal peduncle; rounded caudal fin; post-cleithral process not reaching vertical through dorsal-fin origin; axillary pore absent; premaxillary dentigerous plates with lateral margins posteriorly prolonged; caudal fin with dark dots irregularly distributed. <u>Shibatta & Pavanelli (2005)</u> state that the lateral line should be incomplete for *Batrochoglanis*, never reaching caudal fin, but the lateral lines of the specimens presented here terminated at the end of the caudal peduncle. <u>Eigenmann (1912)</u> mentions that the species is covered with fine, hair-like filaments, but these were not present in our specimens.<!-- Eigenmann pdf page 186, plate X page 631--><!-- check out holotype at http://acsi.acnatsci.org/base/image_list.html?mode=genus&genus=Pseudopimelodus --> <!-- remember there is info in Mol -->
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
+ <img src="http://www.planetcatfish.com/forum/download/file.php?id=12873&t=1" alt="" width="500"> 
+
 INPA CTGA. 176.0 mm SL <!--biggest one CTGA14497 -->.
 
 ### Conclusions
