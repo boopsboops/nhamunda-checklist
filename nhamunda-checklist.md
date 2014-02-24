@@ -130,7 +130,7 @@ INPA CTGA. 101.0 mm SL <!--biggest one-->.
 
 
 
-###### *Astrodoras asterifrons* (Kner, 1853)
+#### *Astrodoras asterifrons* (Kner, 1853)
 
 ##### Notes
 
@@ -175,57 +175,89 @@ Astrodoras sp. "fulcro" pode ser diferenciado de Astrodoras sp. "sem fulcro" por
 
 Astrodoras sp. "Fulcrum" can be differentiated from Astrodoras sp. "Without fulcro "by possessing procurrent rays of the caudal fin expanded in bone shields (vs. thin procurrent rays not forming shields) and the upper edge of the orbit quite high (vs upper edge of orbit slightly elevated). Can still be distinguished from A. asterifrons by bladder diverticula terminals possessing the truncated rear end, usually with divergent ends, each oriented laterally (vs. diverticula terminals with tapered rear end).-->
 
-##### Heptapteridae
+####*Goeldiella eques* (Müller & Troschel, 1849)
 
-###### *Goeldiella eques* (Müller & Troschel, 1849)
+##### Notes
 
-###### *Pimelodella megalops* Eigenmann, 1912
+Identification to species level follows <u>Eigenmann & Norris (1990)</u> and <u>Eigenmann (1912)</u> based on the following characters: rounded caudal fin with larger lower lobe; distinct cranial fontanelle; maxillary barbels long, extending to caudal (extended only to caudal peduncle in our specimen); dorsal spine notched anteriorly; dark stripe along lateral line (in our specimen this comprised just a elongated blotch under the dorsal fin); base of caudal with dark bar; and obliquely angled dark saddle behind head (from dorsal insertion to base of opercle); body and fins irregularly mottled.
 
-##### Loricariidae
+Fishes were caught . Location? Piracutu? Examples are pictured preserved and alive in Figure YYY.
 
-###### *Ancistrus dolichopterus* 
+##### Figure
+INPA CTGA. 134.0 mm SL.
 
-###### *Ancistrus* sp. 'busetta' 
+ <img src="http://www.planetcatfish.com/forum/download/file.php?id=12870&t=1" alt="" width="500"> 
 
-###### *Dekeyseria xxx* 
 
-###### *Farlowella xxx* 
 
-###### *Hypancistrus xxx* 
 
-###### *Hypoptopoma xxx* 
+#### *Pimelodella megalops* Eigenmann, 1912
 
-###### *Hypostomus carinatus* 
+#### *Ancistrus dolichopterus* 
 
-###### *Lasiancistrus schomburgkii* (Günther, 1864)
+#### *Ancistrus* sp. 'busetta' 
+
+#### *Dekeyseria xxx* 
+
+#### *Farlowella xxx* 
+
+#### *Hypancistrus xxx* 
+
+#### *Hypoptopoma xxx* 
+
+#### *Hypostomus carinatus* 
+
+#### *Lasiancistrus schomburgkii* (Günther, 1864)
 
 + [http://www.planetcatfish.com/lasiancistrus_schomburgkii](http://www.planetcatfish.com/lasiancistrus_schomburgkii)
 
-###### *Leporacanthicus galaxias* Isbrücker & Nijssen, 1989
+#### *Leporacanthicus galaxias* Isbrücker & Nijssen, 1989
 
-###### *Loricaria xxx* 
+#### *Loricaria xxx* 
 
-###### *Peckoltia vittata* 
+#### *Peckoltia vittata* 
 
-###### *Pseudoloricaria laeviuscula* (Valenciennes, 1840)
+#### *Pseudoloricaria laeviuscula* (Valenciennes, 1840)
 
-###### *Rineloricaria xxx* 
+#### *Rineloricaria xxx* 
 
-##### Pimelodidae
+#### *Calophysus macropterus* (Lichtenstein, 1819)
 
-###### *Calophysus macropterus* (Lichtenstein, 1819)
+#### *Phractocephalus hemioliopterus* (Bloch & Schneider, 1801)
 
-###### *Phractocephalus hemioliopterus* (Bloch & Schneider, 1801)
+##### Notes
 
-###### *Pseudoplatystoma tigrinum* (Valenciennes, 1840)
+Identification to species level follows <u>Lundberg & Aguilera (2003)</u> and <u>Mol (2012)</u> based on the following characters: dermal bones of the skull coarsely sculpted with reticulated ridges surrounding rounded pits; supraoccipital process greatly expanded laterally; anterior nuchal plate enlarged; colour pattern comprises dark upper and white/yellow lower parts of flank; and caudal fin bright red/orange.
 
-##### Pseudopimelodidae
+Fishes were caught. Location? Specimen not preserved. Pictured alive in Figure YYY.
+
+##### Figure
+INPA CTGA. ??? mm SL.
+
+ <img src="https://dl.dropboxusercontent.com/u/28709051/pirarara.jpg" alt="" width="500"> 
+
+#### *Pseudoplatystoma tigrinum* (Valenciennes, 1840)
+
+##### Notes
+
+Identification to species level follows <u></u> and <u></u> based on the following characters: .
+
+Fishes were caught. Location? Specimen not preserved. Pictured alive in Figure YYY.
+
+##### Figure
+INPA CTGA. ??? mm SL.
+
+ <img src="https://dl.dropboxusercontent.com/u/28709051/sorubim.jpg" alt="" width="500"> 
 
 #### *Batrochoglanis villosus* (Eigenmann, 1912)
 
 ##### Notes
 
-Identification to species level follows <u>Shibatta & Pavanelli (2005)</u> and <u>Eigenmann (1912)</u> based on the following characters: head large and rounded in dorsal view; insertion of pelvic fin though vertical of posterior base of dorsal; short caudal peduncle; rounded caudal fin; post-cleithral process not reaching vertical through dorsal-fin origin; axillary pore absent; premaxillary dentigerous plates with lateral margins posteriorly prolonged; caudal fin with dark dots irregularly distributed. <u>Shibatta & Pavanelli (2005)</u> state that the lateral line should be incomplete for *Batrochoglanis*, never reaching caudal fin, but the lateral lines of the specimens presented here terminated at the end of the caudal peduncle. <u>Eigenmann (1912)</u> mentions that the species is covered with fine, hair-like filaments, but these were not present in our specimens.<!-- Eigenmann pdf page 186, plate X page 631--><!-- check out holotype at http://acsi.acnatsci.org/base/image_list.html?mode=genus&genus=Pseudopimelodus --> <!-- remember there is info in Mol -->
+Identification to species level follows <u>Shibatta & Pavanelli (2005)</u>, <u>Mees (1974)</u> and <u>Eigenmann (1912)</u> based on the following characters: lower jaw not projecting beyond upper jaw; head large and rounded in dorsal view; head and body with numerous small papillae; insertion of pelvic fin though vertical of posterior base of dorsal; short caudal peduncle; rounded caudal fin; post-cleithral process short, not reaching vertical through dorsal-fin origin; axillary pore absent; lateral-line canal terminating on caudal peduncle; premaxillary dentigerous plates with lateral margins posteriorly prolonged; colour brown, with dark mottled appearance; and caudal fin with dark dots irregularly distributed. 
+
+An important inconsistency should be noted regarding the caudal fin shape. <u>Eigenmann (1912)</u> described the caudal fin of *B. villosus* as being "notched", but figured a specimen with a rounded caudal fin (<u>Mees, 1974</u>). The photograph of the holotype (FMNH 53219) on the All Species Catfish Inventory Web page ([http://acsi.acnatsci.org/base/image_list.html?mode=genus&genus=Pseudopimelodus](http://acsi.acnatsci.org/base/image_list.html?mode=genus&genus=Pseudopimelodus)) shows a fish lacking most of the caudal fin. The specimens we collected had a  rounded caudal fin. 
+
+<!-- Eigenmann pdf page 186, plate X page 631--><!-- remember there is info in Mol -->
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
