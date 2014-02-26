@@ -74,7 +74,7 @@ Identification to species level follows <u>Ferraris et al. (2005)</u> based on t
 Fishes were caught by hand from their lodgements in both woody and rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12865&mode=view" alt="" width="500">
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12865&mode=view" alt="" width="500"></br></br></br>
 
 *Auchenipterichthys longimanus* INPA CTGA. 130.0 mm SL <!--biggest one-->.<!-- medium sized one is ctga14502-->
 
@@ -88,7 +88,7 @@ Identification to species level follows <u>Britski and Akama (2011)</u> based on
 Fishes were caught at night using gill nets off the main river channel? Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12862&t=1" alt="" width="400">
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12862&t=1" alt="" width="400"></br></br></br>
 
 *Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->.
 
@@ -111,7 +111,7 @@ La cabeza es completamente oscura, extendiéndose los pigmentos desde la región d
 La aleta dorsal es oscura a nivel de la base y tiene numerosos pigmentos en la espina. Los dos primeros radios ramifícados son oscuros bacia la región media. La aleta pectoral es hialina, sólo la espina y el primer radio tienen pigmentacion. Las aletas pélvicas y anal solo están pigmentadas en la base. La aleta adiposa es hialina, con pocos pigmentos en la base. La aleta caudal es oscura, con varíaciones en diferentes individuos, aunque en la mayoría se presenta una banda oscura tenue hacia la región distal. -->
 
 ##### Figure
- <img src="http://www.planetcatfish.com/forum/download/file.php?id=12866&t=1" alt="" width="500"> 
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12866&t=1" alt="" width="500"></br></br></br>
 
 INPA CTGA.  ??? mm SL. <!--need to find specimen pictured-->
 
@@ -123,7 +123,7 @@ Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2
 Fishes were caught by hand from their lodgements in mainly rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
- <img src="http://www.planetcatfish.com/forum/download/file.php?id=12864&t=1" alt="" width="500"> 
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12864&t=1" alt="" width="500"></br></br></br>
 
 INPA CTGA. 101.0 mm SL <!--biggest one-->.
 
@@ -141,7 +141,7 @@ Fishes were caught by hand at night over a sandy/muddy substrate on the Lower Nh
 ##### Figure
 INPA CTGA. 69.7 mm SL <!--biggest one CTGA14540 (labelled wrong as 14440)-->.
 
- <img src="http://www.planetcatfish.com/forum/download/file.php?id=12869&mode=view" alt="" width="500"> 
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12869&mode=view" alt="" width="500"></br></br></br>
 
 <!-- 
 
@@ -186,7 +186,7 @@ Fishes were caught . Location? Piracutu? Examples are pictured preserved and ali
 ##### Figure
 INPA CTGA. 134.0 mm SL.
 
- <img src="http://www.planetcatfish.com/forum/download/file.php?id=12870&t=1" alt="" width="500"> 
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12870&t=1" alt="" width="500"></br></br></br>
 
 
 
@@ -197,7 +197,19 @@ INPA CTGA. 134.0 mm SL.
 
 #### *Ancistrus* sp. 'busetta' 
 
-#### *Dekeyseria xxx* 
+#### *Dekeyseria scaphirhyncha* (Kner, 1854) 
+
+##### Notes
+
+Identification to species level follows <u>Armbruster (2004)</u>, <u>Rapp-Py Daniel (1985)</u> and <u>La Monte (1929)</u> based on the following characters: lateral plates with well-developed keels; hypertrophied odontodes present along snout margin; three rows of lateral plates on the caudal peduncle; large interorbital distance; pronounced medial ridge on snout; head plates with sinuous rows of odontodes; interopercular plate with between 15 and 20 strong and distally hooked odontodes; pectoral spine roughly same length as head, with long odontodes; and spots on body roughly same size as those on head.
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA. ??? mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12905&t=1" alt="" width="500"></br></br></br>
+
 
 #### *Farlowella xxx* 
 
@@ -223,31 +235,45 @@ INPA CTGA. 134.0 mm SL.
 
 #### *Calophysus macropterus* (Lichtenstein, 1819)
 
+##### Notes
+
+Identification to species level follows <u>Eigenmann & Eigenmann (1890)</u> based on the following characters: two rows of maxillary teeth (posterior row very small and hidden within the skin folds) and one row of dentary teeth; first dorsal and pectoral rays not spinous; adipose fin long; barbels flattened; upper jaw slightly prognathous; and dark spots on flanks and adipose fin.
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA. 254.0 mm SL.
+
+<img src="https://dl.dropboxusercontent.com/u/28709051/piracatinga.jpg" alt="" width="500"></br></br></br>
+
+
 #### *Phractocephalus hemioliopterus* (Bloch & Schneider, 1801)
 
 ##### Notes
 
 Identification to species level follows <u>Lundberg & Aguilera (2003)</u> and <u>Mol (2012)</u> based on the following characters: dermal bones of the skull coarsely sculpted with reticulated ridges surrounding rounded pits; supraoccipital process greatly expanded laterally; anterior nuchal plate enlarged; colour pattern comprises dark upper and white/yellow lower parts of flank; and caudal fin bright red/orange.
 
-Fishes were caught. Location? Specimen not preserved. Pictured alive in Figure YYY.
+Fishes were caught. Location? Specimen not retained as a voucher. Pictured alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. ??? mm SL.
+CTGA. ??? mm SL.
 
- <img src="https://dl.dropboxusercontent.com/u/28709051/pirarara.jpg" alt="" width="500"> 
+<img src="https://dl.dropboxusercontent.com/u/28709051/pirarara.jpg" alt="" width="500"></br></br></br>
 
-#### *Pseudoplatystoma tigrinum* (Valenciennes, 1840)
+#### *Pseudoplatystoma reticulatum* Eigenmann & Eigenmann, 1889
 
 ##### Notes
 
-Identification to species level follows <u></u> and <u></u> based on the following characters: .
+Identification to species level follows <u>Buitrago-Suárez & Burr (2007)</u> and based on the following characters: head strongly depressed with extended cranial fontanelle; loop-like dark bars forming reticulated pattern which extends far below lateral line and connects dorsally; no clear demarcation between dark dorsal and pale ventral regions; and caudal fin with fewer than 45 spots.
 
-Fishes were caught. Location? Specimen not preserved. Pictured alive in Figure YYY.
+While we follow the taxonomy of <u>Buitrago-Suárez & Burr (2007)</u>, we also consider the possibility that *P. reticulatum* Eigenmann & Eigenmann, 1889 is a junior subjective synonym of *P. fasciatum* (Linnaeus), in light of the study of <u>Carvalho-Costa et al. (2011)</u>, who reported minimal genetic differentiation among the taxa considered conspecific with *P. fasciatum* previous to the study of <u>Buitrago-Suárez & Burr (2007)</u>.
+
+Fishes were caught. Location? Specimens not retained as vouchers. Pictured alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. ??? mm SL.
+CTGA. ??? mm SL.
 
- <img src="https://dl.dropboxusercontent.com/u/28709051/sorubim.jpg" alt="" width="500"> 
+<img src="https://dl.dropboxusercontent.com/u/28709051/sorubim.jpg" alt="" width="500"></br></br></br>
 
 #### *Batrochoglanis villosus* (Eigenmann, 1912)
 
@@ -262,7 +288,7 @@ An important inconsistency should be noted regarding the caudal fin shape. <u>Ei
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
- <img src="http://www.planetcatfish.com/forum/download/file.php?id=12873&t=1" alt="" width="500"> 
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12873&t=1" alt="" width="500"></br></br></br>
 
 INPA CTGA. 176.0 mm SL <!--biggest one CTGA14497 -->.
 
