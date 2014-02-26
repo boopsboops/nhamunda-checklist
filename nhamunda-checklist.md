@@ -113,7 +113,7 @@ La aleta dorsal es oscura a nivel de la base y tiene numerosos pigmentos en la e
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12866&t=1" alt="" width="500"></br></br></br>
 
-INPA CTGA.  ??? mm SL. <!--need to find specimen pictured-->
+INPA CTGA.  47.8 mm SL.
 
 #### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
 
@@ -193,7 +193,20 @@ INPA CTGA. 134.0 mm SL.
 
 #### *Pimelodella megalops* Eigenmann, 1912
 
-#### *Ancistrus dolichopterus* 
+#### *Ancistrus dolichopterus*  Kner, 1854
+
+##### Notes
+
+Identification to species level follows <u>Armbruster (2004)</u>, <u></u> and <u></u> based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; black with small white dots (apparent in life, but only apparent on belly in preserved matterial). <!-- 3 with 9 rays and 7 with 8 rays --> <!-- kner PDF page 31 -->
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA14490. 87.8 mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12912&t=1" alt="" width="500"></br></br></br>
+
+
 
 #### *Ancistrus* sp. 'busetta' 
 
@@ -206,7 +219,7 @@ Identification to species level follows <u>Armbruster (2004)</u>, <u>Rapp-Py Dan
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. ??? mm SL.
+INPA CTGA14311. 178.3 mm SL.
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12905&t=1" alt="" width="500"></br></br></br>
 
@@ -217,13 +230,35 @@ INPA CTGA. ??? mm SL.
 
 #### *Hypoptopoma xxx* 
 
-#### *Hypostomus carinatus* 
+#### *Hypostomus carinatus* (Steindachner, 1881)
+
+##### Notes
+
+Identification to species level follows <u>Zawadzki et al. (2013)</u> and <u>Rapp Py-Daniel (1988)</u> based on the following characters: greater than three (around eight to ten) predorsal plates limiting the posterior border of the supraoccipital; elongated caudal peduncle; caudal fin strongly emarginated; dark spots on lighter background; and lower lobe of caudal fin darker than upper lobe.<!-- Steindachner, 1881 plate on PDF page 101 (named Taf. IV. 2.-->
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA14317. 196.4 mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12886&t=1" alt="" width="500"></br></br></br>
+
 
 #### *Lasiancistrus schomburgkii* (Günther, 1864)
 
-+ [http://www.planetcatfish.com/lasiancistrus_schomburgkii](http://www.planetcatfish.com/lasiancistrus_schomburgkii)
-
 #### *Leporacanthicus galaxias* Isbrücker & Nijssen, 1989
+
+##### Notes
+
+Identification to species level follows <u>Armbruster (2004)</u>, <u>Armbruster (2008)</u> and <u>Isbrücker & Nijssen (1989)</u> based on the following characters: premaxilla with three teeth, the inner being very long; lips oval, lacking fimbriae on the upper lip; more than four predorsal plates; tall and narrow supraoccipital crest; and dark body with numerous white dots. 
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA. 207.0 mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12891&t=1" alt="" width="500"></br></br></br>
+
 
 #### *Loricaria xxx* 
 
