@@ -197,7 +197,7 @@ INPA CTGA. 134.0 mm SL.
 
 ##### Notes
 
-Identification to species level follows <u>Armbruster (2004)</u>, <u></u> and <u></u> based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; black with small white dots (apparent in life, but only apparent on belly in preserved matterial). <!-- 3 with 9 rays and 7 with 8 rays --> <!-- kner PDF page 31 -->
+Identification to species level follows <u>Armbruster (2004)</u>, and <u>Kner (1854)</u> based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; 8-9 branched dorsal-fin rays (three individuals with nine rays and seven individuals with eight rays); and black colour with small white dots (apparent in life, but only apparent on belly in preserved material). We also note that *Ancistrus* (and particularly the Amazonian species) are a group in dire need of taxonomic revision. <!-- 3 with 9 rays and 7 with 8 rays --> <!-- kner PDF page 31 -->
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
@@ -226,9 +226,48 @@ INPA CTGA14311. 178.3 mm SL.
 
 #### *Farlowella xxx* 
 
+##### Notes
+
+Identification to species level follows <u>Retzer & Page (1997)</u> based on the following characters: seven predorsal plates; dorsal fin located opposite anal fin. 
+<!-- HL 56.0 mm .
+SnoutMouthLen 30.5 mm.
+Anterior lateral plates 11.
+Body depth 11.4 mm.
+pelvic fin length 15.9 mm.
+pectoral fin length 24.7 mm
+distance from pectoral fin origin to pelvic fin origin 25.5
+3 rows of abdominal scutes. 
+Five rows of anterior lateral scutes, middle row may be complete or incomplete. 
+Snout-mouth length/head length > 0.5. 
+Body depth/pelvic fin length <0.86 
+
+
+-->
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA14331. 199.8 mm SL.
+
 #### *Hypancistrus xxx* 
 
-#### *Hypoptopoma xxx* 
+#### *Hypoptopoma incognitum* Aquino & Schaefer, 2010
+
+##### Notes
+
+Identification to species level follows <u>Aquino & Schaefer (2010)</u> based on the following characters: flattened head
+with eyes placed ventrolaterally and visible from below; laterally expanded nuchal plate; six pairs of lateral abdominal plates
+posterior to coracoids; thoracic plates present; three midventral plates between cleithral posterior process and first plate of
+ventral series; anal shield composed of single plate; second infraorbital laterally contacting to two ventral dermal plates; patch of odontodes present on anterolateral aspect of cleithrum at opening to branchial chamber; and caudal fin with series of around three dark bands (irregular in our specimens). 
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA. ??? mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12877&t=1" alt="" width="500"></br></br></br>
+
+
 
 #### *Hypostomus carinatus* (Steindachner, 1881)
 
@@ -246,6 +285,18 @@ INPA CTGA14317. 196.4 mm SL.
 
 #### *Lasiancistrus schomburgkii* (Günther, 1864)
 
+##### Notes
+
+Identification to species level follows <u>Armbruster (2005)</u> based on the following characters: three rows of lateral plates on the caudal peduncle; bar-shaped opercle; snout plates present; lateral plates not keeled; &gt; 30 teeth per jaw ramus; body and fins (except dorsal and caudal) dark with small pale dots; plates not outlined with dark pigment; and caudal fin with darker lower lobe. We note that the whisker-like odontodes characteristic of the genus were not apparent in our single, juvenile specimen of 45.2 mm, but we did observe bifurcating tentacules on the interopercular plate, and combined with the other characters, are confident that the specimen belongs to *Lasiancistrus schomburgkii* as proposed by <u>Armbruster (2005)</u>.
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA14329. 45.2 mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12906&t=1" alt="" width="500"></br></br></br>
+
+
 #### *Leporacanthicus galaxias* Isbrücker & Nijssen, 1989
 
 ##### Notes
@@ -262,7 +313,21 @@ INPA CTGA. 207.0 mm SL.
 
 #### *Loricaria xxx* 
 
-#### *Peckoltia vittata* 
+#### *Peckoltia vittata* (Steindachner, 1881)
+
+##### Notes
+
+Identification to species level follows <u>Armbruster (2008)</u> based on the following characters: evertible cheek plates with &gt; 10 hypertrophied odontodes; dentaries forming angle of &lt; 90&deg;; deep body, not dorso-ventrally flattened; lips lacking fimbriae; villiform teeth of equal size in premaxilla and dentary; colour pattern of four irregular dorsal saddles (first and second are usually combined in small specimens); dorsal and caudal fins without orange margin (in life); head plates not outlined in black; dark bar between eyes, and e-shaped dark blotch on the snout (broken in some specimens); and fins with dark and light bands of approximately equal width (irregular in some specimens). 
+
+An interesting observation is that our specimens exhibited a great deal of variation in terms if the degree of abdomen squamation and markings: some specimens were almost completely scaled, while others lacked scales, and some in between (<!-- for specimens above 90 mm in the first bag (dymo tags): 2 almost fully scaled and 3 partially scaled-->). The specimens with a scaled abdomen also had markings comprising spots or slightly coalesced spots. 
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA14316. 115.6 mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12895&t=1" alt="" width="500"></br></br></br>
+
 
 #### *Pseudoloricaria laeviuscula* (Valenciennes, 1840)
 
