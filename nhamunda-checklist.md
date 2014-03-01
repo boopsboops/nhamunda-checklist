@@ -23,7 +23,7 @@ Fishes were collected in the November 2013 dry season using a combination of met
 
 #### Measurement and meristic techniques
 
-Measurements were taken with dial callipers to a precision of 0.1 mm. All measurements and counts for symmetrical features were taken from the left side of the specimen.  For loricariids, morphometric measurements and meristic counts follow <u>Armbruster (2003)</u>, and terminology for lateral plate rows follows Schaefer (1997). Counts of cheek plate odontodes included only the long, highly hypertrophied odontodes on the posterior part of the plate. The dorsal-fin spinelet is included as a spine, and the nuchal plate is not included in the predorsal plate row count. Terminology of colour pattern follows <u>Kottelat and Freyhof (2007)</u>.<!--Unless otherwise stated, measurements are expressed as percentages of standard length (SL) or head length (HL).--> The symbolic codes for institutional resource collections follows <u>Sabaj Pérez (2013)</u>. 
+Measurements were taken with dial callipers to a precision of 0.1 mm. All measurements and counts for symmetrical features were taken from the left side of the specimen.  For loricariids, morphometric measurements and meristic counts follow <u>Armbruster (2003)</u>, and terminology for lateral plate rows follows Schaefer (1997). Counts of cheek plate odontodes included only the long, highly hypertrophied odontodes on the posterior part of the plate. The dorsal-fin spinelet is included as a spine, and the nuchal plate is not included in the predorsal plate row count. Terminology of colour pattern follows <u>Kottelat and Freyhof (2007)</u>.<!--Unless otherwise stated, measurements are expressed as percentages of standard length (SL) or head length (HL).--> The symbolic codes for institutional resource collections follows <u>Sabaj Pérez (2013)</u>. We kept terminology partially consistent with original authors, e.g. *Farlowella*.
 
 #### Molecular methods
 
@@ -224,30 +224,43 @@ INPA CTGA14311. 178.3 mm SL.
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12905&t=1" alt="" width="500"></br></br></br>
 
 
-#### *Farlowella xxx* 
+#### *Farlowella nattereri* Steindachner, 1910
 
 ##### Notes
 
-Identification to species level follows <u>Retzer & Page (1997)</u> based on the following characters: seven predorsal plates; dorsal fin located opposite anal fin. 
+Identification to species level follows <u>Retzer & Page (1997)</u> and <u>Retzer (2006)</u> based on the following characters: seven predorsal plates; dorsal fin located opposite anal fin; three rows of abdominal plates; five rows of anterior lateral plates, with middle row incomplete; plates of second lateral row diamond-shaped; fourth row of anterior lateral plates sharply keeled; odontodes on lateral plates small; snout-mouth-length / head-length &gt; 0.5; body-depth / pelvic-fin-length &lt; 0.86; pectoral-fin-length / snout-mouth-length &gt; 0.65; snout-mouth-length / pectoral-fin-length &gt; 1.0; fin spines and rays with dark spots. 
+
+The above characters are consistent with *F. nattereri*, but some key differences in colour pattern are noted. <u>Retzer & Page (1997)</u> report that: for most specimens of *F. nattereri*, the first anal and dorsal fin rays are entirely darkly pigmented (our specimen has spotted rays); a distinct dorso-lateral dark-stripe is present from base of snout to dorsal fin (this stripe was not apparent in the preserved specimen, but was observed in life); upper and lower caudal fin lobes pigmented
+with dark stripes of equal size, with stripes often not reaching caudal fin base (the stripes in our specimen reached the caudal base). <u>Retzer & Page (1997)</u> recognise that *F. nattereri* probably comprises a complex of species.
+
 <!-- HL 56.0 mm .
-SnoutMouthLen 30.5 mm.
+Snout-mouth-length 30.5 mm.
 Anterior lateral plates 11.
 Body depth 11.4 mm.
-pelvic fin length 15.9 mm.
-pectoral fin length 24.7 mm
-distance from pectoral fin origin to pelvic fin origin 25.5
+Pelvic-fin-length 15.9 mm.
+Pectoral-fin-length 24.7 mm
+Distance from pectoral fin origin to pelvic fin origin 25.5
 3 rows of abdominal scutes. 
+diamond shaped plates of second lateral row
 Five rows of anterior lateral scutes, middle row may be complete or incomplete. 
-Snout-mouth length/head length > 0.5. 
-Body depth/pelvic fin length <0.86 
-
-
+Snout-mouth-length / head-length > 0.5. 
+Body-depth / pelvic-fin-length <0.86 
+Pectoral-fin-length / snout-mouth-length > 0.65
+Snout-mouth-length / pectoral-fin-length > 1.0
+Fourth row of anterior lateral plates sharply keeled
+small odontodes on lateral plates
+Fin spines and rays with dark spots
+missing char: first anal and dorsal fin rays entirely darkly pigmented (synap for nattereri)
+dorso-lateral dark stripe not apparent in preserved specimen, but observed in life
+Upper and lower caudal fin lobes pigmented with dark stripes of equal size (stripes reach caudal fin base contra nattereri)
 -->
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
 INPA CTGA14331. 199.8 mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12883&t=1" alt="" width="600"></br></br></br>
 
 #### *Hypancistrus xxx* 
 
@@ -311,7 +324,28 @@ INPA CTGA. 207.0 mm SL.
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12891&t=1" alt="" width="500"></br></br></br>
 
 
-#### *Loricaria xxx* 
+#### *Loricaria cataphracta* Linnaeus, 1758 
+
+##### Notes
+
+Identification to species level follows <u>Isbrücker (1981)</u>, <u>Thomas & Rapp Py-Daniel (2008)</u> and <u>Thomas & Sabaj Pérez (2010)</u> based on the following characters: elongate lip filaments; three premaxillary teeth per ramus; premaxillary teeth approximately twice as long as dentary teeth; developed odontode crests on head and dorsal trunk plates; 34 lateral plates; 19 coalesced lateral plates; dorsal fin spine not elongated (24% of SL); post-orbital notch relatively well developed; abdomen mostly plated (with the exception of an anterior v-shaped naked area over the pectoral girdle); all fins except anal fin with dark sub-distal bands (most prominent on caudal and dorsal fins).
+
+Identification of this species is tentative, as there appears to be considerable variation in the *L. cataphracta* group; we await the forthcoming systematic revision of the genus (Thomas & Sabaj Pérez, 2010).
+
+<!-- 
+basicaudal plate length 6.3
+head length 31.6
+dorsal spine length 35.1
+L. simillima has basicaudal plate 11.7-23.6% HL (our fish is 0.199)
+-->
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA14332.  144.3 mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12880&t=1" alt="" width="500"></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12881&t=1" alt="" width="500"></br></br></br>
 
 #### *Peckoltia vittata* (Steindachner, 1881)
 
@@ -331,7 +365,20 @@ INPA CTGA14316. 115.6 mm SL.
 
 #### *Pseudoloricaria laeviuscula* (Valenciennes, 1840)
 
-#### *Rineloricaria xxx* 
+#### *Rineloricaria lanceolata* (Günther, 1868)
+
+##### Notes
+
+Identification to species level follows <u>Vera-Alcaraz et al. (2012)</u> and <u>Fichberg & Chamon (2008)</u> based on the following characters: postorbital notch present;  inferior lip with short, round papillae; teeth on dentary larger than premaxilla; four rows of lateral plates; all fins with a broad longitudinal dark band parallel to the first rays (fins almost entirely dark in our specimen); lower lip margin with long fringes; dorsal surface of head and predorsal region with two longitudinal dark bands. Note that the characteristic dorsal breeding odontodes of *R. lanceolata* were not visible in this single specimen (probably female).
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA14330.  86.8 mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12876&t=1" alt="" width="500"></br></br></br>
+
+
 
 #### *Calophysus macropterus* (Lichtenstein, 1819)
 
