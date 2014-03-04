@@ -9,9 +9,14 @@ library(rjson)
 key <- name_backbone(name='Siluriformes')$orderKey
 se <- occ_search(taxonKey=key, return='data', minimal=FALSE, limit=150000)# ?occ_search #country = 'BR', 
 head(se)
+tail(se)
 nrow(se)
 se$locality
-se$species[grep('Trombetas', se$locality)]
+se$species[grep('Nhamund', se$locality)]
+
+save(se, file = "/media/1TB/auto_backed_up/LaTeX/nhamunda-checklist/gbif_search_150000max_03-03-14.RData")
+150000
+127330
 
 fy <- occ_search(search="Nhamund", return='data', minimal=FALSE, limit=100)
 
