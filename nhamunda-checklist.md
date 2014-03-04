@@ -6,28 +6,34 @@ A wee abstract
 
 ### Introduction
 
-The Rio Nhamundá is a south draining river of the Guiana Shield. Its ichthyofauna is largely unknown, . Water type is. 
+The Rio Nhamundá is a south draining river of the Guiana Shield <u>(Figure 1)</u>, located between the Uatumã-Jatapú and Trombetas rivers, and comprises the administrative border between the Amazonas and Pará states of Brazil. The river drains into the Amazon, and along with the several others, is considered by the classification of <u>Lujan and Armbruster (2011)</u> as being one of the "southeastern rivers" of the Guiana Shield. Chemically, the Rio Nhamundá is of the clearwater type, being poor in sediments, dissolved minerals, and humic compounds <u>(Crampton, 2011)</u>.
 
-The aim of this study is to report the results of a preliminary survey, and provide biodiversity data in the specimen vouchers, DNA barcodes, georeferenced collection points, and images of both live and preserved materials. We also provide the description of a new suckermouth catfish species which was collected on the trip.
+Similar to many of the other southern Guiana Shield rivers, its ichthyofauna is poorly known in comparison to the northern Brazilian Shield rivers <u>(Lujan and Armbruster, 2011)</u>, and few scientific collections appear to have been made on the river. However, aquarium hobbyists have explored parts of the river in search of new discus (*Symphysodon* spp.) variants (Bleher, 2006/7), and ornamental fish collectors operate on the river (pers. obs.).
+
+The aim of this study is to assess our current knowledge of Siluriformes (catfishes) of the Rio Nhamundá, and to report the results of a preliminary survey of the lower reaches of the river. Our survey results comprises biodiversity data in the specimen vouchers, DNA barcodes, tissue samples, georeferenced collection points, and images of both live and preserved materials. We also provide the description of a new suckermouth catfish species which was collected on the trip.
 
 ### Materials and methods
 
 #### Desk survey
 
-In order to assess the availability of public data on the fishes of the Rio Nhamundá we carried out a survey of the primary Web databases as well as published checklists. We searched Catalog of Fishes ([http://researcharchive.calacademy.org/research/Ichthyology/catalog/fishcatmain.asp](http://researcharchive.calacademy.org/research/Ichthyology/catalog/fishcatmain.asp)), FishBase ([http://www.fishbase.de](http://www.fishbase.de)) and GBIF ([http://www.gbif.org](http://www.gbif.org)) databases, as well as the Checklist of Catfishes <u>(Ferraris, 2006)</u> and CLOFFSCA (insert ref) reveal only a. Given the potential for discrepancies due to the accent on the last letter we searched the following combinations: 'Nhamundá', 'Nhamunda', and 'Nhamund&lt;c3&gt;&lt;a1&gt;'. The FishBase and GBIF searches were conducted using the rfishbase (CITE) and rGBIF (CITE); scripts to repeat these searches where possible are presented in SUPPLEMENTARY.
-
+In order to assess knowledge of the fishes of the Rio Nhamundá we carried out a survey of Web databases as well as published checklists and literature. We searched Catalog of Fishes (Eschmeyer, 2014: [http://researcharchive.calacademy.org/research/Ichthyology/catalog/fishcatmain.asp](http://researcharchive.calacademy.org/research/Ichthyology/catalog/fishcatmain.asp)), FishBase ([http://www.fishbase.de](http://www.fishbase.de)) and the Global Biodiversity Information Facility (GBIF: [http://www.gbif.org](http://www.gbif.org)) databases. Local searches were performed on PDF copies of the Checklist of Catfishes <u>(Ferraris, 2006)</u>, the Check List of the Freshwater Fishes of South and Central America <u>(Reis et al., 2003)</u>, and on over 3,500 articles on neotropical ichthyology in PDF format (search script is available in SUPPLEMENTARY). The FishBase and GBIF searches were conducted using the rfishbase x.x.x  (Boettiger et al., 2012) and rGBIF x.x.x (Chamberlain et al., 2014) packages in the R programming language (R Core Team, 2014); scripts to repeat these searches where possible are presented in SUPPLEMENTARY. Given the potential for discrepancies due to the accent on the last letter we searched only for 'Nhamund'. We also checked the collection records at the Instituto Nacional de Pesquisas da Amazônia (INPA) for records of collections made in the Nhamundá.
+<!-- following combinations: 'Nhamundá', 'Nhamunda', and 'Nhamund&lt;c3&gt;&lt;a1&gt;' -->
 
 #### Field sampling techniques
 
-Fishes were collected in the November 2013 dry season using a combination of methods mostly targeting the larger species: gill netting, rod and line, spear fishing, hand netting, and hand catching using snorkelling equipment. Fishes were photographed alive where possible, and then euthanised using a eugenol (clove oil) solution. Tissue samples&mdash;usually from muscle and fin membranes on the right-side pectoral-fin base&mdash;were taken from some specimens and stored in absolute ethanol. Fishes to be retained as vouchers were then fixed in 10% formalin for several days before being transferred to 70% alcohol for long-term storage. 
+Sampling locations are marked in <u>Figure 1</u>. Fishes were collected over XXX days in the November 2013 dry season using a combination of methods mostly targeting the larger species and less cryptic species: gill netting, rod and line fishing, spear fishing, hand netting, and hand catching using snorkelling equipment. Fishes were photographed alive where possible, and then euthanised using a eugenol (clove oil) solution. Tissue samples&mdash;usually from muscle and fin membranes on the right-side pectoral-fin base&mdash;were taken from some specimens and stored in absolute ethanol. Fishes to be retained as vouchers were then fixed in 10% formalin for several days before being transferred to 70% alcohol for long-term storage. 
 
 #### Measurement and meristic techniques
 
-Measurements were taken with dial callipers to a precision of 0.1 mm. All measurements and counts for symmetrical features were taken from the left side of the specimen.  For loricariids, morphometric measurements and meristic counts follow <u>Armbruster (2003)</u>, and terminology for lateral plate rows follows Schaefer (1997). Counts of cheek plate odontodes included only the long, highly hypertrophied odontodes on the posterior part of the plate. The dorsal-fin spinelet is included as a spine, and the nuchal plate is not included in the predorsal plate row count. Terminology of colour pattern follows <u>Kottelat and Freyhof (2007)</u>.<!--Unless otherwise stated, measurements are expressed as percentages of standard length (SL) or head length (HL).--> The symbolic codes for institutional resource collections follows <u>Sabaj Pérez (2013)</u>. We kept terminology partially consistent with original authors, e.g. *Farlowella*.
+Measurements of preserved material were taken with dial callipers to a precision of 0.1 mm. All measurements and counts for symmetrical features were taken from the left side of the specimen.  For loricariids, morphometric measurements and meristic counts follow <u>Armbruster (2003)</u>, and terminology for lateral plate rows follows <u>Schaefer (1997)</u>. Counts of cheek plate odontodes included only the long, highly hypertrophied odontodes on the posterior part of the plate. The dorsal-fin spinelet is included as a spine, and the nuchal plate is not included in the predorsal plate row count. Terminology of colour pattern follows <u>Kottelat and Freyhof (2007)</u>.<!--Unless otherwise stated, measurements are expressed as percentages of standard length (SL) or head length (HL).--> For the checklist, we tried to keep terminology consistent across the species, but also tried to maintain a degree of agreement with original authors' work to aid in referring back to their characters; for example, when reporting the *Farlowella* spp., we refer to the "scutes" of <u>Retzer & Page (2006)</u> as "plates" following <u>Schaefer (1997)</u>, but maintain reference to the "plates of second lateral row" instead of "mid-dorsal lateral plates" <u>(Schaefer, 1997)</u>. The symbolic codes for institutional resource collections follows <u>Sabaj Pérez (2013)</u>. 
 
 #### Molecular methods
 
 DNA barcodes were generated for one individual per species collected.
+
+### Results: Desk survey
+
+Our survey of online databases, checklists, literature, and collections (INPA) revealed a single record of a siluriform collected in the Nhamundá. 
 
 ### Results: taxon treatment
 
@@ -62,7 +68,7 @@ Within the genus *Pseudolithoxus*, *P. XXX* sp. n. can be distinguished from: *P
 
 The species is currently only known from one location on the main river stem of the lower Rio Nhamundá. The type series was collected in shallow (depth &lt; 1.5 m), fast flowing water over a substrate of eroded bedrock. The fishes were living among the narrow cracks between the rocks, and were abundant at the sampling site. However, this type of  habitat was not frequently encountered on the lower Nhamundá, and we did not find the species associated with the more common woody-debris sites, or the rocky sites lacking any appreciable water current. Water temperature and conductivity were 28.3&deg;C and 6 &micro;s/cm. Syntopic species encountered during the night survey included: *Leporinus*, *Symphysodon*, *Cichla*, *Pimelodella*, and *Gymnotus*. *Pseudolithoxus* was the dominant loricariid in this habitat.
 
-### Checklist of Siluriformes
+### Results: Checklist of Siluriformes
 
 
 
@@ -262,16 +268,27 @@ INPA CTGA14331. 199.8 mm SL.
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12883&t=1" alt="" width="600"></br></br></br>
 
-#### *Hypancistrus xxx* 
+#### *Hypancistrus* sp. "Lower Nhamundá"
+
+##### Notes
+
+Identification to species level follows <u>Armbruster et al. (2007)</u> and <u>Armbruster (2008)</u> based on the following characters: dentaries forming angle of &lt; 90&deg;; dentary teeth almost twice as long as premaxillary teeth; ?dentary teeth widely spaced?; five rows of lateral plates on the caudal peduncle; lateral plates not keeled; ?abdomen naked with patches of platelets on the pectoral girdle?; pattern on body of irregular dark bands (wavy stripes in some individuals); dark bands on body wider than pale bands; dark E-shaped pattern on snout (?with spot?); dorsal fin with complete bands; and caudal fin with vertical bars.
+
+The *Hypancistrus* from the Nhamundá is very similar to *H. furunculus* Armbruster, Lujan & Taphorn (2007), but we hypothesise that this species represents a distinct species due to the dentition, colour pattern and arrangement of platelets. *Hypancistrus* represents a hugely diverse group of mostly undescribed fishes, mainly differing in subtleties in colour pattern and body shape, so description of this species would be premature until characters useful to the group are better characterised, and more collections are made, particularly from other South draining Guiana Shield rivers.
+
+Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+INPA CTGA. ??? mm SL.
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12915&t=1" alt="" width="500"></br></br></br>
+
 
 #### *Hypoptopoma incognitum* Aquino & Schaefer, 2010
 
 ##### Notes
 
-Identification to species level follows <u>Aquino & Schaefer (2010)</u> based on the following characters: flattened head
-with eyes placed ventrolaterally and visible from below; laterally expanded nuchal plate; six pairs of lateral abdominal plates
-posterior to coracoids; thoracic plates present; three midventral plates between cleithral posterior process and first plate of
-ventral series; anal shield composed of single plate; second infraorbital laterally contacting to two ventral dermal plates; patch of odontodes present on anterolateral aspect of cleithrum at opening to branchial chamber; and caudal fin with series of around three dark bands (irregular in our specimens). 
+Identification to species level follows <u>Aquino & Schaefer (2010)</u> based on the following characters: flattened head with eyes placed ventrolaterally and visible from below; laterally expanded nuchal plate; six pairs of lateral abdominal plates posterior to coracoids; thoracic plates present; three midventral plates between cleithral posterior process and first plate of ventral series; anal shield composed of single plate; second infraorbital laterally contacting to two ventral dermal plates; patch of odontodes present on anterolateral aspect of cleithrum at opening to branchial chamber; and caudal fin with series of around three dark bands (irregular in our specimens). 
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
@@ -439,8 +456,11 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 INPA CTGA. 176.0 mm SL <!--biggest one CTGA14497 -->.
 
-### Conclusions
+
+### Discussion and Conclusions
+
+Our desk survey shows that no official ichthyological surveys of the Rio Nhamundá have taken place. 
 
 ### Acknowledgements
 
-Collection permits. Funding. Reviewers. Nathan Lujan for morpho help.
+Collection permits. Funding. Reviewers. Nathan Lujan for morpho help. Manuel Torres (?) other guy (?) and Maria for boat etc.
