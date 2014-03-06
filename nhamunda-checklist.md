@@ -6,7 +6,7 @@ A wee abstract
 
 ### Introduction
 
-The Rio Nhamundá is a south draining river of the Guiana Shield <u>(Figure 1)</u>, located between the Uatumã-Jatapú and Trombetas rivers, and comprises the administrative border between Amazonas and Pará states of Brazil. The river drains directly into the Amazon, and is considered by the classification of <u>Lujan and Armbruster (2011)</u> as being one of the "southeastern rivers" of the Guiana Shield. Chemically, the Rio Nhamundá is of the clearwater type, being poor in sediments, dissolved minerals, and humic compounds <u>(Crampton, 2011)</u>.
+The Rio Nhamundá is a south draining river of the Guiana Shield <u>(Figure 1)</u>, located between the Uatumã-Jatapú and Trombetas rivers, and comprises the administrative border between Amazonas and Pará states of Brazil. The river drains directly into the Amazon, and is considered by the classification of <u>Lujan and Armbruster (2011)</u> as being one of the "southeastern rivers" of the Guiana Shield. Chemically, the Rio Nhamundá is of the clearwater type, being poor in sediments, dissolved minerals, and humic compounds <u>Carvalho de Lima & Araujo-Lima</u><u>(Crampton, 2011)</u>.
 
 Similar to many of the other southern Guiana Shield rivers, its ichthyofauna is poorly known in comparison to the northern Brazilian Shield rivers <u>(Lujan and Armbruster, 2011)</u>, and few scientific collections appear to have been made on the river. Neighbouring rivers better surveyed. However, aquarium hobbyists have explored parts of the river in search of new discus (*Symphysodon* spp.) variants (Bleher, 2006/7), and ornamental fish collectors operate on the river (pers. obs.).
 
@@ -16,8 +16,15 @@ The aim of this study is to assess our current knowledge of Siluriformes (catfis
 
 #### Desk survey
 
-In order to assess knowledge of the fishes of the Rio Nhamundá we carried out a survey of Web databases as well as published checklists and literature. We searched Catalog of Fishes (Eschmeyer, 2014: [http://researcharchive.calacademy.org/research/Ichthyology/catalog/fishcatmain.asp](http://researcharchive.calacademy.org/research/Ichthyology/catalog/fishcatmain.asp)), FishBase ([http://www.fishbase.de](http://www.fishbase.de)) and the Global Biodiversity Information Facility (GBIF: [http://www.gbif.org](http://www.gbif.org)) databases. Local searches were performed on PDF copies of the Checklist of Catfishes <u>(Ferraris, 2006)</u>, the Check List of the Freshwater Fishes of South and Central America <u>(Reis et al., 2003)</u>, and on over 3,500 articles on neotropical ichthyology in PDF format (search script is available in SUPPLEMENTARY). The FishBase and GBIF searches were conducted using the rfishbase 0.2-2  (Boettiger et al., 2012) and rgbif 0.5.0 (Chamberlain et al., 2014) packages in the R programming language (R Core Team, 2014); scripts to repeat these searches are presented in SUPPLEMENTARY. Given the potential for discrepancies due to the accent on the last letter we searched only for 'Nhamund'. We also checked the collection records at the Instituto Nacional de Pesquisas da Amazônia (INPA) for records of collections made from the Nhamundá. We also checked records for the neighbouring Trombetas and Uatumá rivers using rfishbase and rgbif.
-<!-- following combinations: 'Nhamundá', 'Nhamunda', and 'Nhamund&lt;c3&gt;&lt;a1&gt;' -->
+In order to assess knowledge of the fishes of the Rio Nhamundá we carried out a survey of Web databases as well as published checklists and literature. The Web databases searched were FishBase <u>(Froese & Pauly, 2014)</u>, Catalog of Fishes <u>(Eschmeyer, 2014)</u>, and the Global Biodiversity Information Facility (GBIF: [http://www.gbif.org](http://www.gbif.org)). The FishBase and GBIF searches were conducted using the rfishbase 0.2-2  (Boettiger et al., 2012) and rgbif 0.5.0 (Chamberlain et al., 2014) packages in R (R Core Team, 2014); scripts to repeat these searches are presented in SUPPLEMENTARY. The Catalog of Fishes was searched manually using their Web interface (date 05-03-14) using the terms "Nhamundá" and "Nhamunda" to avoid potential for discrepancies due to the accent on the last letter. Local searches were performed on PDF copies of the Checklist of Catfishes <u>(Ferraris, 2006)</u>, the Check List of the Freshwater Fishes of South and Central America <u>(Reis et al., 2003)</u>, and on over 3,500 locally stored articles on Neotropical ichthyology in PDF format (search script is available in SUPPLEMENTARY). We additionally checked records for the neighbouring Trombetas and Uatumá rivers using rfishbase, rgbif, Catalog of Fishes, and Checklist of Catfishes.
+
+We also checked the collection records at the Instituto Nacional de Pesquisas da Amazônia (INPA) for records of collections made from the Nhamundá. 
+<!-- 
+following combinations: 'Nhamundá', 'Nhamunda', and 'Nhamund&lt;c3&gt;&lt;a1&gt;' 
+[http://researcharchive.calacademy.org/research/Ichthyology/catalog/fishcatmain.asp](http://researcharchive.calacademy.org/research/Ichthyology/catalog/fishcatmain.asp)
+[http://www.fishbase.de](http://www.fishbase.de)
+-->
+
 
 #### Field sampling techniques
 
@@ -31,9 +38,18 @@ Measurements of preserved material were taken with dial callipers to a precision
 
 DNA barcodes were generated for one individual per species collected.
 
-### Results: Desk survey
+### Results: desk survey
 
-Our survey of online databases, checklists, literature, and collections (INPA) revealed a single record of a siluriform collected in the Nhamundá. 
+Our survey of online databases and checklists (SUPPLEMENTARY) revealed a single record of a siluriform collected in the Rio Nhamundá, which was an unidentified  *Ossancora*. On further investigation this fish was found to be a paratype of *Ossancora asterophysa* Birindelli & Sabaj Pérez, 2011 (ROM 88244, MZUSP 7838). The literature survey revealed three further species from the river: *Hassar orestis* (Steindachner, 1875) (MZUSP 9547); *Pygidianops amphioxus* de Pinna & Kirovsky, 2011 (MZUSP 104675); and *Centromochlus* sp. (INPA 35087) (Sarmento-Soares et al., 2013). The survey of the INPA collections revealed ... 
+
+By contrast, the survey of online databases and checklists for the Trombetas river listed 44 siluriform species (SUPPLEMENTARY), while the study of 
+<u>Ferreira (1993)</u> listed 95 siluriform species from the Trombetas. From the Uatumã river, the desk survey of online databases and checklists provided five species.
+<!-- 
+*Hassar orestis* (Steindachner, 1875) (MZUSP 9547)
+*Ossancora asterophysa* (ROM 88244, MZUSP 7838)
+*Pygidianops amphioxus* de Pinna & Kirovsky, 2011 (MZUSP 104675)
+*Centromochlus* sp. (INPA 35087) Sarmento-Soares et al., 2013
+-->
 
 ### Results: taxon treatment
 
@@ -68,7 +84,7 @@ Within the genus *Pseudolithoxus*, *P. XXX* sp. n. can be distinguished from: *P
 
 The species is currently only known from one location on the main river stem of the lower Rio Nhamundá. The type series was collected in shallow (depth &lt; 1.5 m), fast flowing water over a substrate of eroded bedrock. The fishes were living among the narrow cracks between the rocks, and were abundant at the sampling site. However, this type of  habitat was not frequently encountered on the lower Nhamundá, and we did not find the species associated with the more common woody-debris sites, or the rocky sites lacking any appreciable water current. Water temperature and conductivity were 28.3&deg;C and 6 &micro;s/cm. Syntopic species encountered during the night survey included: *Leporinus*, *Symphysodon*, *Cichla*, *Pimelodella*, and *Gymnotus*. *Pseudolithoxus* was the dominant loricariid in this habitat.
 
-### Results: Checklist of Siluriformes
+### Results: checklist of Siluriformes
 
 
 
@@ -80,9 +96,9 @@ Identification to species level follows <u>Ferraris et al. (2005)</u> based on t
 Fishes were caught by hand from their lodgements in both woody and rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12865&mode=view" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12865&mode=view" alt="" width="500">
 
-*Auchenipterichthys longimanus* INPA CTGA. 130.0 mm SL <!--biggest one-->.<!-- medium sized one is ctga14502-->
+*Auchenipterichthys longimanus* INPA CTGA. 130.0 mm SL <!--biggest one-->.<!-- medium sized one is ctga14502--></br></br></br>
 
 
 
@@ -94,9 +110,9 @@ Identification to species level follows <u>Britski and Akama (2011)</u> based on
 Fishes were caught at night using gill nets off the main river channel? Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12862&t=1" alt="" width="400"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12862&t=1" alt="" width="400">
 
-*Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->.
+*Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->.</br></br></br>
 
 
 
@@ -117,9 +133,9 @@ La cabeza es completamente oscura, extendiéndose los pigmentos desde la región d
 La aleta dorsal es oscura a nivel de la base y tiene numerosos pigmentos en la espina. Los dos primeros radios ramifícados son oscuros bacia la región media. La aleta pectoral es hialina, sólo la espina y el primer radio tienen pigmentacion. Las aletas pélvicas y anal solo están pigmentadas en la base. La aleta adiposa es hialina, con pocos pigmentos en la base. La aleta caudal es oscura, con varíaciones en diferentes individuos, aunque en la mayoría se presenta una banda oscura tenue hacia la región distal. -->
 
 ##### Figure
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12866&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12866&t=1" alt="" width="500">
 
-INPA CTGA.  47.8 mm SL.
+INPA CTGA.  47.8 mm SL.</br></br></br>
 
 #### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
 
@@ -129,9 +145,9 @@ Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2
 Fishes were caught by hand from their lodgements in mainly rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12864&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12864&t=1" alt="" width="500">
 
-INPA CTGA. 101.0 mm SL <!--biggest one-->.
+INPA CTGA. 101.0 mm SL <!--biggest one-->.</br></br></br>
 
 
 
@@ -145,9 +161,11 @@ Identification to species level follows <u>Sousa (2010)</u> based on the followi
 Fishes were caught by hand at night over a sandy/muddy substrate on the Lower Nhamundá. Water current was minimal. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. 69.7 mm SL <!--biggest one CTGA14540 (labelled wrong as 14440)-->.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12869&mode=view" alt="" width="500"></br></br></br>
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12869&mode=view" alt="" width="500">
+
+INPA CTGA. 69.7 mm SL <!--biggest one CTGA14540 (labelled wrong as 14440)-->.</br></br></br>
 
 <!-- 
 
@@ -190,14 +208,25 @@ Identification to species level follows <u>Eigenmann & Norris (1990)</u> and <u>
 Fishes were caught . Location? Piracutu? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. 134.0 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12870&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12870&t=1" alt="" width="500">
+
+INPA CTGA. 134.0 mm SL.</br></br></br>
 
 
+#### *Pimelodella* ???
 
+##### Notes
 
-#### *Pimelodella megalops* Eigenmann, 1912
+Identification to species level follows <u></u> based on the following characters: 
+
+Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12922&mode=view" alt="" width="500">
+
+INPA CTGA. mm SL.</br></br></br>
 
 #### *Ancistrus dolichopterus*  Kner, 1854
 
@@ -208,13 +237,25 @@ Identification to species level follows <u>Armbruster (2004)</u>, and <u>Kner (1
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA14490. 87.8 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12912&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12912&t=1" alt="" width="500">
 
+INPA CTGA14490. 87.8 mm SL.</br></br></br>
 
 
 #### *Ancistrus* sp. 'busetta' 
+
+##### Notes
+
+Identification to species level follows <u></u> based on the following characters: 
+
+Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12913&t=1" alt="" width="500">
+
+INPA CTGA. mm SL.</br></br></br>
 
 #### *Dekeyseria scaphirhyncha* (Kner, 1854) 
 
@@ -225,9 +266,10 @@ Identification to species level follows <u>Armbruster (2004)</u>, <u>Rapp-Py Dan
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA14311. 178.3 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12905&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12905&t=1" alt="" width="500">
+
+INPA CTGA14311. 178.3 mm SL.</br></br></br>
 
 
 #### *Farlowella nattereri* Steindachner, 1910
@@ -264,9 +306,12 @@ Upper and lower caudal fin lobes pigmented with dark stripes of equal size (stri
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA14331. 199.8 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12883&t=1" alt="" width="600"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12883&t=1" alt="" width="600">
+
+INPA CTGA14331. 199.8 mm SL.</br></br></br>
+
+
 
 #### *Hypancistrus* sp. "Lower Nhamundá"
 
@@ -279,9 +324,11 @@ The *Hypancistrus* from the Nhamundá is very similar to *H. furunculus* Armbrust
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. ??? mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12915&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12915&t=1" alt="" width="500">
+
+INPA CTGA. ??? mm SL.</br></br></br>
+
 
 
 #### *Hypoptopoma incognitum* Aquino & Schaefer, 2010
@@ -293,10 +340,10 @@ Identification to species level follows <u>Aquino & Schaefer (2010)</u> based on
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. ??? mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12877&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12877&t=1" alt="" width="500">
 
+INPA CTGA. ??? mm SL.</br></br></br>
 
 
 #### *Hypostomus carinatus* (Steindachner, 1881)
@@ -308,9 +355,11 @@ Identification to species level follows <u>Zawadzki et al. (2013)</u> and <u>Rap
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA14317. 196.4 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12886&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12886&t=1" alt="" width="500">
+
+INPA CTGA14317. 196.4 mm SL.</br></br></br>
+
 
 
 #### *Lasiancistrus schomburgkii* (Günther, 1864)
@@ -322,9 +371,11 @@ Identification to species level follows <u>Armbruster (2005)</u> based on the fo
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA14329. 45.2 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12906&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12906&t=1" alt="" width="500">
+
+INPA CTGA14329. 45.2 mm SL.</br></br></br>
+
 
 
 #### *Leporacanthicus galaxias* Isbrücker & Nijssen, 1989
@@ -336,9 +387,11 @@ Identification to species level follows <u>Armbruster (2004)</u>, <u>Armbruster 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. 207.0 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12891&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12891&t=1" alt="" width="500">
+
+INPA CTGA. 207.0 mm SL.</br></br></br>
+
 
 
 #### *Loricaria cataphracta* Linnaeus, 1758 
@@ -359,10 +412,13 @@ L. simillima has basicaudal plate 11.7-23.6% HL (our fish is 0.199)
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA14332.  144.3 mm SL.
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12880&t=1" alt="" width="500"></br>
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12881&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12881&t=1" alt="" width="500">
+
+INPA CTGA14332.  144.3 mm SL.</br></br></br>
+
+
 
 #### *Peckoltia vittata* (Steindachner, 1881)
 
@@ -375,12 +431,28 @@ An interesting observation is that our specimens exhibited a great deal of varia
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA14316. 115.6 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12895&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12895&t=1" alt="" width="500">
+
+INPA CTGA14316. 115.6 mm SL.</br></br></br>
+
 
 
 #### *Pseudoloricaria laeviuscula* (Valenciennes, 1840)
+
+##### Notes
+
+Identification to species level follows <u></u> based on the following characters: 
+
+Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
+
+##### Figure
+
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12875&t=1" alt="" width="500">
+
+INPA CTGA. mm SL.</br></br></br>
+
+
 
 #### *Rineloricaria lanceolata* (Günther, 1868)
 
@@ -391,9 +463,10 @@ Identification to species level follows <u>Vera-Alcaraz et al. (2012)</u> and <u
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA14330.  86.8 mm SL.
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12876&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12876&t=1" alt="" width="500">
+
+INPA CTGA14330.  86.8 mm SL.</br></br></br>
 
 
 
@@ -406,9 +479,11 @@ Identification to species level follows <u>Eigenmann & Eigenmann (1890)</u> base
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-INPA CTGA. 254.0 mm SL.
 
-<img src="https://dl.dropboxusercontent.com/u/28709051/piracatinga.jpg" alt="" width="500"></br></br></br>
+<img src="https://dl.dropboxusercontent.com/u/28709051/piracatinga.jpg" alt="" width="500">
+
+INPA CTGA. 254.0 mm SL.</br></br></br>
+
 
 
 #### *Phractocephalus hemioliopterus* (Bloch & Schneider, 1801)
@@ -420,9 +495,12 @@ Identification to species level follows <u>Lundberg & Aguilera (2003)</u> and <u
 Fishes were caught. Location? Specimen not retained as a voucher. Pictured alive in Figure YYY.
 
 ##### Figure
-CTGA. ??? mm SL.
 
-<img src="https://dl.dropboxusercontent.com/u/28709051/pirarara.jpg" alt="" width="500"></br></br></br>
+<img src="https://dl.dropboxusercontent.com/u/28709051/pirarara.jpg" alt="" width="500">
+
+CTGA. ??? mm SL.</br></br></br>
+
+
 
 #### *Pseudoplatystoma reticulatum* Eigenmann & Eigenmann, 1889
 
@@ -435,9 +513,12 @@ While we follow the taxonomy of <u>Buitrago-Suárez & Burr (2007)</u>, we also co
 Fishes were caught. Location? Specimens not retained as vouchers. Pictured alive in Figure YYY.
 
 ##### Figure
-CTGA. ??? mm SL.
 
-<img src="https://dl.dropboxusercontent.com/u/28709051/sorubim.jpg" alt="" width="500"></br></br></br>
+<img src="https://dl.dropboxusercontent.com/u/28709051/sorubim.jpg" alt="" width="500">
+
+CTGA. ??? mm SL.</br></br></br>
+
+
 
 #### *Batrochoglanis villosus* (Eigenmann, 1912)
 
@@ -452,14 +533,16 @@ An important inconsistency should be noted regarding the caudal fin shape. <u>Ei
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
 ##### Figure
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12873&t=1" alt="" width="500"></br></br></br>
+<img src="http://www.planetcatfish.com/forum/download/file.php?id=12873&t=1" alt="" width="500">
 
-INPA CTGA. 176.0 mm SL <!--biggest one CTGA14497 -->.
+INPA CTGA. 176.0 mm SL <!--biggest one CTGA14497 -->.</br></br></br>
+
+
 
 
 ### Discussion and Conclusions
 
-Our desk survey shows that ?no? official ichthyological surveys of the Rio Nhamundá have taken place. Very few records have been made, and our survey is one of the first on the river. 
+Our desk survey shows that few ichthyological surveys of the Rio Nhamundá have taken place. Very few records have been made, and our survey is one of the first to be made on the river. 
 
 The taxonomic composition of the collection is interesting. While many of the species recorded were cosmopolitan species of the lowland Amazon, such as  *Trachycorystes trachycorystes*, *Calophysus macropterus*, *Phractocephalus hemioliopterus*, *Lasiancistrus schomburgkii*, *Hypoptopoma incognitum*, and can be expected to be found in the lower reaches of most rivers, there are suggestions of connections to more specialised faunas. The presence of *Ancistrus dolichopterus*, *Dekeyseria scaphirhyncha*, and *Hypostomus carinatus*, for example, suggest links to the Rio Negro fauna and range extensions for these species. Species previously reported from the neighbouring Uatumã and Trombetas rivers and while *Tatia nigra*. 
 
@@ -468,6 +551,8 @@ Detecting presence of restricted range fishes is important in setting conservati
 This checklist is clearly incomplete, missing entirely, for example, callichthyids, trichomycterids and aspredinids. The igarapé habitats were not sampled, which are more likely to yield these families.
 
 Our results show that even rapid surveys can make valuable additions to biodiversity, with the discovery of new species and the range extensions for known species and adding to the data known on a species. The study also highlights the paucity of neotropical ichthyological data in GBIF data, and makes a small contribution. In addition to the traditional forms of data collected on biodiversity surveys (e.g. preserved specimen vouchers), our study provides "new" types of data in the form of DNA barcodes and images of the specimens' live colour pattern. These data will be invaluable in future studies addressing difficult groups. DNA barcodes from type material.
+
+
 
 ### Acknowledgements
 
