@@ -84,6 +84,11 @@ Within the genus *Pseudolithoxus*, *P. XXX* sp. n. can be distinguished from: *P
 
 The species is currently only known from one location on the main river stem of the lower Rio Nhamundá. The type series was collected in shallow (depth &lt; 1.5 m), fast flowing water over a substrate of eroded bedrock. The fishes were living among the narrow cracks between the rocks, and were abundant at the sampling site. However, this type of  habitat was not frequently encountered on the lower Nhamundá, and we did not find the species associated with the more common woody-debris sites, or the rocky sites lacking any appreciable water current. Water temperature and conductivity were 28.3&deg;C and 6 &micro;s/cm. Syntopic species encountered during the night survey included: *Leporinus*, *Symphysodon*, *Cichla*, *Pimelodella*, and *Gymnotus*. *Pseudolithoxus* was the dominant loricariid in this habitat.
 
+##### Figure
+<img src="https://dl.dropboxusercontent.com/u/28709051/pseudolithoxus.jpg" alt="" width="750">
+
+*Pseudolithoxus XXX* INPA CTGA. mm SL.</br></br></br>
+
 ### Results: checklist of Siluriformes
 
 
