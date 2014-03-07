@@ -1,0 +1,18 @@
+open image
+save as '.xcf'
+duplicate layer
+new layer with black foreground colour
+add black 'layer mask' to new foreground layer
+hide the duplicated layer
+paint over the black layer in white to hide, and in black to reveal
+use airbrush for fine details and to blend
+select the image layer, and use the 'Unsharp mask' (Filters > Enhance > Unsharp Mask)
+to correct marks and bits of shit, use the 'Healing tool'
+
+to export, make a rectangle around the image, right click, and 'copy visible'
+right click again, and 'Edit > Paste as > New image'
+then in the new image, go 'File > Export > Tiff' resizing if required in 'Image > Scale image'
+
+if need to rotate, copy square, and 'Paste as > New layer'
+toggle the other layers on off to make easier, then go to Layer > Transform > Arbitrary rotation'
+repeat export with new rectangle
