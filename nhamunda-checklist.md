@@ -32,7 +32,13 @@ Sampling locations are marked in <u>Figure 1</u>. Fishes were collected over XXX
 
 #### Measurement and meristic techniques
 
-Measurements of preserved material were taken with dial callipers to a precision of 0.1 mm. All measurements and counts for symmetrical features were taken from the left side of the specimen.  For loricariids, morphometric measurements and meristic counts follow <u>Armbruster (2003)</u>, and terminology for lateral plate rows follows <u>Schaefer (1997)</u>. Counts of cheek plate odontodes included only the long, highly hypertrophied odontodes on the posterior part of the plate. The dorsal-fin spinelet is included as a spine, and the nuchal plate is not included in the predorsal plate row count. Terminology of colour pattern follows <u>Kottelat and Freyhof (2007)</u>.<!--Unless otherwise stated, measurements are expressed as percentages of standard length (SL) or head length (HL).--> For the checklist, we tried to keep terminology consistent across the species, but also tried to maintain a degree of agreement with original authors' work to aid in referring back to their characters; for example, when reporting the *Farlowella* spp., we refer to the "scutes" of <u>Retzer & Page (2006)</u> as "plates" following <u>Schaefer (1997)</u>, but maintain reference to the "plates of second lateral row" instead of "mid-dorsal lateral plates" <u>(Schaefer, 1997)</u>. The symbolic codes for institutional resource collections follows <u>Sabaj Pérez (2013)</u>. 
+Measurements of preserved material were taken with dial callipers to a precision of 0.1 mm. All measurements and counts for symmetrical features were taken from the left side of the specimen.  For loricariids, morphometric measurements and meristic counts follow <u>Armbruster (2003)</u>, and terminology for lateral plate rows follows <u>Schaefer (1997)</u>. Counts of cheek plate odontodes included only the long, highly hypertrophied odontodes on the posterior part of the plate. The dorsal-fin spinelet is included as a spine, and the nuchal plate is not included in the predorsal plate row count. Terminology of colour pattern follows <u>Kottelat and Freyhof (2007)</u>.<!--Unless otherwise stated, measurements are expressed as percentages of standard length (SL) or head length (HL).--> 
+
+#### Specimen identification
+
+For the checklist, we used published literature to identify our specimens, and we give the characters found in those references that we used to make identifications. When required, we examined photographs of type material on the All Species Catfish Inventory Web page ([http://acsi.acnatsci.org](http://acsi.acnatsci.org)). We tried to keep terminology consistent across the species, but also tried to maintain a degree of agreement with original authors' work to aid in referring back to their characters; for example, when reporting the *Farlowella* spp., we refer to the "scutes" of <u>Retzer & Page (2006)</u> as "plates" following <u>Schaefer (1997)</u>, but maintain reference to the "plates of second lateral row" instead of "mid-dorsal lateral plates" <u>(Schaefer, 1997)</u>. 
+
+The symbolic codes for institutional resource collections follows <u>Sabaj Pérez (2013)</u>. 
 
 #### Molecular methods
 
@@ -237,7 +243,7 @@ INPA CTGA. mm SL.</br></br></br>
 
 ##### Notes
 
-Identification to species level follows <u>Armbruster (2004)</u>, and <u>Kner (1854)</u> based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; 8-9 branched dorsal-fin rays (three individuals with nine rays and seven individuals with eight rays); and black colour with small white dots (apparent in life, but only apparent on belly in preserved material). We also note that *Ancistrus* (and particularly the Amazonian species) are a group in dire need of taxonomic revision. <!-- 3 with 9 rays and 7 with 8 rays --> <!-- kner PDF page 31 -->
+Identification to species level follows <u>Armbruster (2004)</u>, and <u>Kner (1854)</u> based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; 8-9 branched dorsal-fin rays (three individuals with nine rays and eight individuals with eight rays); and black colour with small white dots (apparent in life, but only apparent on belly in preserved material). We also note that *Ancistrus* (and particularly the Amazonian species) are a group in dire need of taxonomic revision. <!-- 3 with 9 rays and 8 with 8 rays --> <!-- kner PDF page 31 -->
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
@@ -248,11 +254,26 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 INPA CTGA14490. 87.8 mm SL.</br></br></br>
 
 
-#### *Ancistrus* sp. 'busetta' 
+#### *Ancistrus* sp. 'busetta' <!-- or aff. macrophthalmus -->
 
 ##### Notes
 
-Identification to species level follows <u></u> based on the following characters: 
+Identification to species level follows <u>Armbruster (2004)</u>, <u>Kner (1854)</u>, <u>Muller et al. (1994)</u>, <u>Günther (1864)</u>, <u>Pellegrin (1912)</u>, and <u>Eigenmann (1912)</u>  based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; body and head wide and extremely flattened; snout long and pointed; seven branched dorsal rays; three branched anal fin rays; six branched pectoral fin rays; eyes large (orbit diameter approximately 20% of HL) and situated high on the head; narrow gill openings; and colouration black, with small tiny white dots in life.
+
+Among the several similar described *Ancistrus*&mdash;e.g. *A. dolichopterus*  Kner, 1854, *A. hoplogenys* (Günther, 1864), *A. ranunculus* and Muller et al., 1994&mdash;this fish is most similar to *A. macrophthalmus* (Pellegrin, 1912) and , and *A. lithurgicus* Eigenmann, 1912; however, the fish from the lower Nhamundá has just three branched anal-fin rays, compared to four for both of these species. More individuals will need to be collected, and further investigation of available *Ancistrus* names carried in order to be sure that this represents an undescribed species.
+
+<!-- eye size in HL 37mm/7mm (large) 29.5/6.2 (small) 35.3/6 (dolich)
+
+lithurgicus: D. 1,7; A. 1,4; eye 6 in the head in the largest specimen. 
+type at http://acsi.acnatsci.org/base/getthumbnail.php?mode=full&target=134850
+
+hoplogenys: D. 1,7; A.5; P. 1/6; L.lat. 25.
+type of hoplogenys at http://acsi.acnatsci.org/base/getthumbnail.php?mode=full&target=130545 
+
+macrophthalma: D. 1,7; A. 1,4; P. 1,5; V. 1,5;
+type of macrophthalma at http://acsi.acnatsci.org/base/getthumbnail.php?mode=full&target=136308
+
+two predorsal plates,  narrow post-cleithral process, small triangular shaped opercle-->
 
 Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
 
@@ -260,7 +281,7 @@ Fishes were caught . Location? Examples are pictured preserved and alive in Figu
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12913&t=1" alt="" width="500">
 
-INPA CTGA. mm SL.</br></br></br>
+INPA CTGA. 93.1 mm SL.</br></br></br>
 
 #### *Dekeyseria scaphirhyncha* (Kner, 1854) 
 
@@ -318,13 +339,15 @@ INPA CTGA14331. 199.8 mm SL.</br></br></br>
 
 
 
-#### *Hypancistrus* sp. "Lower Nhamundá"
+#### *Hypancistrus* sp. "Lower Nhamundá" <!-- or furunculus-->
 
 ##### Notes
 
-Identification to species level follows <u>Armbruster et al. (2007)</u> and <u>Armbruster (2008)</u> based on the following characters: dentaries forming angle of &lt; 90&deg;; dentary teeth almost twice as long as premaxillary teeth; ?dentary teeth widely spaced?; five rows of lateral plates on the caudal peduncle; lateral plates not keeled; ?abdomen naked with patches of platelets on the pectoral girdle?; pattern on body of irregular dark bands (wavy stripes in some individuals); dark bands on body wider than pale bands; dark E-shaped pattern on snout (?with spot?); dorsal fin with complete bands; and caudal fin with vertical bars.
+Identification to species level follows <u>Armbruster et al. (2007)</u> and <u>Armbruster (2008)</u> based on the following characters: five rows of lateral plates on the caudal peduncle; lateral plates not keeled; dentaries forming angle of &lt; 90&deg;; dentary teeth almost twice as long as premaxillary teeth; dentary teeth widely spaced with medial gap between tooth cups as wide as the tooth cups themselves; supraorbital crests very distinct; dark E-shaped pattern on snout (irregular in some individuals); pattern on body of oblique dark bands (almost horizontal wavy stripes in some individuals), with dark bands generally wider than pale bands (i.e. body more dark coloured than pale coloured); dorsal fin with complete bands; and caudal fin with dark vertical bands.
 
-The *Hypancistrus* from the Nhamundá is very similar to *H. furunculus* Armbruster, Lujan & Taphorn (2007), but we hypothesise that this species represents a distinct species due to the dentition, colour pattern and arrangement of platelets. *Hypancistrus* represents a hugely diverse group of mostly undescribed fishes, mainly differing in subtleties in colour pattern and body shape, so description of this species would be premature until characters useful to the group are better characterised, and more collections are made, particularly from other South draining Guiana Shield rivers.
+The *Hypancistrus* from the Nhamundá is similar to *H. furunculus* Armbruster, Lujan & Taphorn (2007), but we hypothesise that this species represents a distinct species due to the pronounced supraorbital crests, wide gap between the dentary tooth cups, and colour pattern of wide dark bands and thin pale bands. Comparison to the type material of *H. furunculus* is necessary to confirm or refute these hypotheses.
+
+<!--*Hypancistrus* represents a diverse group of which many species are undescribed. They differ mainly in subtleties in colour pattern and body shape, so description of this possible new species would be premature until characters useful to the group are better characterised, and more collections are made, particularly from other South draining Guiana Shield rivers.-->
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
@@ -332,7 +355,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12915&t=1" alt="" width="500">
 
-INPA CTGA. ??? mm SL.</br></br></br>
+INPA CTGA. 60.8 mm SL.</br></br></br>
 
 
 
@@ -431,7 +454,7 @@ INPA CTGA14332.  144.3 mm SL.</br></br></br>
 
 Identification to species level follows <u>Armbruster (2008)</u> based on the following characters: evertible cheek plates with &gt; 10 hypertrophied odontodes; dentaries forming angle of &lt; 90&deg;; deep body, not dorso-ventrally flattened; lips lacking fimbriae; villiform teeth of equal size in premaxilla and dentary; colour pattern of four irregular dorsal saddles (first and second are usually combined in small specimens); dorsal and caudal fins without orange margin (in life); head plates not outlined in black; dark bar between eyes, and e-shaped dark blotch on the snout (broken in some specimens); and fins with dark and light bands of approximately equal width (irregular in some specimens). 
 
-An interesting observation is that our specimens exhibited a great deal of variation in terms if the degree of abdomen squamation and markings: some specimens were almost completely scaled, while others lacked scales, and some in between (<!-- for specimens above 90 mm in the first bag (dymo tags): 2 almost fully scaled and 3 partially scaled-->). The specimens with a scaled abdomen also had markings comprising spots or slightly coalesced spots. 
+An interesting observation is that our specimens exhibited a great deal of variation in terms if the degree of abdomen squamation and markings: some specimens were almost completely scaled, while others lacked scales, and some in between (<!-- for specimens above 90 mm in the first bag (dymo tags): 2 almost fully scaled and 3 partially scaled-->). The specimens with a scaled abdomen also had markings comprising spots or slightly coalesced spots. NEED TO QUANTIFY!
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
