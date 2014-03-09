@@ -260,9 +260,12 @@ INPA CTGA14490. 87.8 mm SL.</br></br></br>
 
 Identification to species level follows <u>Armbruster (2004)</u>, <u>Kner (1854)</u>, <u>Muller et al. (1994)</u>, <u>Günther (1864)</u>, <u>Pellegrin (1912)</u>, and <u>Eigenmann (1912)</u>  based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; body and head wide and extremely flattened; snout long and pointed; seven branched dorsal rays; three branched anal fin rays; six branched pectoral fin rays; eyes large (orbit diameter approximately 20% of HL) and situated high on the head; narrow gill openings; and colouration black, with small tiny white dots in life.
 
-Among the several similar described *Ancistrus*&mdash;e.g. *A. dolichopterus*  Kner, 1854, *A. hoplogenys* (Günther, 1864), *A. ranunculus* and Muller et al., 1994&mdash;this fish is most similar to *A. macrophthalmus* (Pellegrin, 1912) and , and *A. lithurgicus* Eigenmann, 1912; however, the fish from the lower Nhamundá has just three branched anal-fin rays, compared to four for both of these species. More individuals will need to be collected, and further investigation of available *Ancistrus* names carried in order to be sure that this represents an undescribed species.
+Among the several similar described *Ancistrus*&mdash;e.g. *A. dolichopterus*  Kner, 1854, *A. hoplogenys* (Günther, 1864), *A. leucostictus* (Günther, 1864), *A. ranunculus* Muller et al., 1994&mdash;this fish is most similar in shape of head and eyes to *A. macrophthalmus* (Pellegrin, 1912) and *A. lithurgicus* Eigenmann, 1912; however, the fish from the lower Nhamundá has just three branched anal-fin rays, compared to four for both of these species. More individuals will need to be collected, and further investigation of available names in *Ancistrus* carried out in order to be sure that this represents an undescribed species.
 
 <!-- eye size in HL 37mm/7mm (large) 29.5/6.2 (small) 35.3/6 (dolich)
+
+leucostictus: D. 1,7; A.4; P. 1,6; L.lat.25.
+type at http://acsi.acnatsci.org/base/getthumbnail.php?mode=full&target=133570
 
 lithurgicus: D. 1,7; A. 1,4; eye 6 in the head in the largest specimen. 
 type at http://acsi.acnatsci.org/base/getthumbnail.php?mode=full&target=134850
