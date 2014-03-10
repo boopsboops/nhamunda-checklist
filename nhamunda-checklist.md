@@ -229,7 +229,11 @@ INPA CTGA. 134.0 mm SL.</br></br></br>
 
 ##### Notes
 
-Identification to species level follows <u></u> based on the following characters: 
+Identification to species level follows <u>Eigenmann & Eigenmann (1890)</u> and <u>Eigenmann (1917)</u>based on the following characters: occipital process narrow, reaching dorsal plate; fontanel continued to base of occipital process, with bridge above the posterior margin of the eye; dorsal-fin and pectoral-fin spines strong; humeral process spine-like; dorsal fin with six branched rays.
+
+<!-- adipose 11.9 mm (= 0.24 or 4 in SL) 
+Pimelodus stewarti ???!!
+investigate humeral vs postcleithral process-->
 
 Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
 
@@ -237,7 +241,7 @@ Fishes were caught . Location? Examples are pictured preserved and alive in Figu
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12922&mode=view" alt="" width="500">
 
-INPA CTGA. mm SL.</br></br></br>
+INPA CTGA. 48.9 mm SL.</br></br></br>
 
 #### *Ancistrus dolichopterus*  Kner, 1854
 
@@ -254,7 +258,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 INPA CTGA14490. 87.8 mm SL.</br></br></br>
 
 
-#### *Ancistrus* sp. 'busetta' <!-- or aff. macrophthalmus -->
+#### *Ancistrus* sp. 'buceta' <!-- or aff. macrophthalmus -->
 
 ##### Notes
 
@@ -282,7 +286,7 @@ Fishes were caught . Location? Examples are pictured preserved and alive in Figu
 
 ##### Figure
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12913&t=1" alt="" width="500">
+<img src="https://dl.dropboxusercontent.com/u/28709051/busetta.png" alt="" width="600">
 
 INPA CTGA. 93.1 mm SL.</br></br></br>
 
@@ -356,7 +360,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 ##### Figure
 
-<img src="http://www.planetcatfish.com/forum/download/file.php?id=12915&t=1" alt="" width="500">
+<img src="https://dl.dropboxusercontent.com/u/28709051/hypancistrus_grey_bg_small.png" alt="" width="500">
 
 INPA CTGA. 60.8 mm SL.</br></br></br>
 
@@ -473,7 +477,7 @@ INPA CTGA14316. 115.6 mm SL.</br></br></br>
 
 ##### Notes
 
-Identification to species level follows <u></u> based on the following characters: 
+Identification to species level follows <u>Isbrücker & Nijssen (1976)</u> and <u>Covain & Fisch-Muller (2007)</u> based on the following characters: lower lip bilobate with median furrow; whip on upper caudal spine absent; abdomen covered with small plates lacking organisation; elliptical area of abdominal plates at level of pelvic girdle absent; rostrum not strongly pronounced; pelvic-fin spine longer than last pelvic-fin branched ray; colouration comprising dark dots (except ventral surface and anal fin); lower lobe of caudal darker than upper; and basicaudal spot present in juveniles; 
 
 Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
 
@@ -481,7 +485,7 @@ Fishes were caught . Location? Examples are pictured preserved and alive in Figu
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12875&t=1" alt="" width="500">
 
-INPA CTGA. mm SL.</br></br></br>
+INPA CTGA. 216.4 mm SL.</br></br></br>
 
 
 
