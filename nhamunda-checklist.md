@@ -141,7 +141,9 @@ Fishes were mostly caught using a hand net at the surface after attracting insec
 
 La cabeza es completamente oscura, extendiéndose los pigmentos desde la región dorsal hasta debajo de la órbita. En la mandíbula inferior, y debajo de la barbillas, aparece una franja de pigmentos oscuros. La porción membranosa del opérculo no ostenta pigmentación.
 
-La aleta dorsal es oscura a nivel de la base y tiene numerosos pigmentos en la espina. Los dos primeros radios ramifícados son oscuros bacia la región media. La aleta pectoral es hialina, sólo la espina y el primer radio tienen pigmentacion. Las aletas pélvicas y anal solo están pigmentadas en la base. La aleta adiposa es hialina, con pocos pigmentos en la base. La aleta caudal es oscura, con varíaciones en diferentes individuos, aunque en la mayoría se presenta una banda oscura tenue hacia la región distal. -->
+La aleta dorsal es oscura a nivel de la base y tiene numerosos pigmentos en la espina. Los dos primeros radios ramifícados son oscuros bacia la región media. La aleta pectoral es hialina, sólo la espina y el primer radio tienen pigmentacion. Las aletas pélvicas y anal solo están pigmentadas en la base. La aleta adiposa es hialina, con pocos pigmentos en la base. La aleta caudal es oscura, con varíaciones en diferentes individuos, aunque en la mayoría se presenta una banda oscura tenue hacia la región distal. 
+
+http://izt.ciens.ucv.ve/mbucv/peces/Proyecto%20Atlas/PaginaWeb/SILURIFORMES_AUCHENIPTERIDAE_Familia_Tatia%20musaica.htm-->
 
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12866&t=1" alt="" width="500">
@@ -214,7 +216,7 @@ Astrodoras sp. "Fulcrum" can be differentiated from Astrodoras sp. "Without fulc
 
 ##### Notes
 
-Identification to species level follows <u>Eigenmann & Norris (1990)</u> and <u>Eigenmann (1912)</u> based on the following characters: rounded caudal fin with larger lower lobe; distinct cranial fontanelle; maxillary barbels long, extending to caudal (extended only to caudal peduncle in our specimen); dorsal spine notched anteriorly; dark stripe along lateral line (in our specimen this comprised just a elongated blotch under the dorsal fin); base of caudal with dark bar; and obliquely angled dark saddle behind head (from dorsal insertion to base of opercle); body and fins irregularly mottled.
+Identification to species level follows <u>Eigenmann & Norris (1900)</u> and <u>Eigenmann (1912)</u> based on the following characters: rounded caudal fin with larger lower lobe; distinct cranial fontanelle; maxillary barbels long, extending to caudal (extended only to caudal peduncle in our specimen); dorsal spine notched anteriorly; dark stripe along lateral line (in our specimen this comprised just a elongated blotch under the dorsal fin); base of caudal with dark bar; and obliquely angled dark saddle behind head (from dorsal insertion to base of opercle); body and fins irregularly mottled.
 
 Fishes were caught . Location? Piracutu? Examples are pictured preserved and alive in Figure YYY.
 
