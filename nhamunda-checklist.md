@@ -93,7 +93,7 @@ The species is currently only known from one location on the main river stem of 
 ##### Figure
 <img src="https://dl.dropboxusercontent.com/u/28709051/pseudolithoxus.jpg" alt="" width="750">
 
-*Pseudolithoxus XXX* INPA CTGA. mm SL.</br></br></br>
+*Pseudolithoxus XXX* sp. n. INPA CTGA_. mm SL.</br></br></br>
 
 ### Results: checklist of Siluriformes
 
@@ -109,7 +109,7 @@ Fishes were caught by hand from their lodgements in both woody and rocky substra
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12865&mode=view" alt="" width="500">
 
-*Auchenipterichthys longimanus* INPA CTGA. 130.0 mm SL <!--biggest one-->.<!-- medium sized one is ctga14502--></br></br></br>
+*Auchenipterichthys longimanus* INPA CTGA_14501. 130.0 mm SL <!--biggest one-->.<!-- medium sized one is ctga14502--></br></br></br>
 
 
 
@@ -123,7 +123,7 @@ Fishes were caught at night using gill nets off the main river channel? Location
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12862&t=1" alt="" width="400">
 
-*Trachycorystes trachycorystes* INPA CTGA14429. 305.0 mm SL<!--smaller one-->.</br></br></br>
+*Trachycorystes trachycorystes* INPA CTGA_14429. 305.0 mm SL<!--smaller one-->.</br></br></br>
 
 
 
@@ -148,7 +148,7 @@ http://izt.ciens.ucv.ve/mbucv/peces/Proyecto%20Atlas/PaginaWeb/SILURIFORMES_AUCH
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12866&t=1" alt="" width="500">
 
-INPA CTGA.  47.8 mm SL.</br></br></br>
+INPA CTGA_14508.  47.8 mm SL.</br></br></br>
 
 #### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
 
@@ -160,7 +160,7 @@ Fishes were caught by hand from their lodgements in mainly rocky substrates. Loc
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12864&t=1" alt="" width="500">
 
-INPA CTGA. 101.0 mm SL <!--biggest one-->.</br></br></br>
+INPA CTGA_14503. 101.0 mm SL <!--biggest one-->.</br></br></br>
 
 
 
@@ -178,7 +178,7 @@ Fishes were caught by hand at night over a sandy/muddy substrate on the Lower Nh
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12869&mode=view" alt="" width="500">
 
-INPA CTGA. 69.7 mm SL <!--biggest one CTGA14540 (labelled wrong as 14440)-->.</br></br></br>
+INPA CTGA_14540. 69.7 mm SL <!--biggest one CTGA14540 (labelled wrong as 14440)-->.</br></br></br>
 
 <!-- 
 
@@ -224,7 +224,7 @@ Fishes were caught . Location? Piracutu? Examples are pictured preserved and ali
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12870&t=1" alt="" width="500">
 
-INPA CTGA. 134.0 mm SL.</br></br></br>
+INPA CTGA_14537. 134.0 mm SL.</br></br></br>
 
 
 #### *Pimelodella* ???
@@ -243,7 +243,7 @@ Fishes were caught . Location? Examples are pictured preserved and alive in Figu
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12922&mode=view" alt="" width="500">
 
-INPA CTGA. 48.9 mm SL.</br></br></br>
+INPA CTGA_14290. 48.9 mm SL.</br></br></br>
 
 #### *Ancistrus dolichopterus*  Kner, 1854
 
@@ -257,7 +257,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12912&t=1" alt="" width="500">
 
-INPA CTGA14490. 87.8 mm SL.</br></br></br>
+INPA CTGA_14490. 87.8 mm SL.</br></br></br>
 
 
 #### *Ancistrus* sp. 'buceta' <!-- or aff. macrophthalmus -->
@@ -290,7 +290,7 @@ Fishes were caught . Location? Examples are pictured preserved and alive in Figu
 
 <img src="https://dl.dropboxusercontent.com/u/28709051/busetta.png" alt="" width="600">
 
-INPA CTGA. 93.1 mm SL.</br></br></br>
+INPA CTGA_14547. 93.1 mm SL.</br></br></br>
 
 #### *Dekeyseria scaphirhyncha* (Kner, 1854) 
 
@@ -304,7 +304,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12905&t=1" alt="" width="500">
 
-INPA CTGA14311. 178.3 mm SL.</br></br></br>
+INPA CTGA_14311. 178.3 mm SL.</br></br></br>
 
 
 #### *Farlowella nattereri* Steindachner, 1910
@@ -344,7 +344,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12883&t=1" alt="" width="600">
 
-INPA CTGA14331. 199.8 mm SL.</br></br></br>
+INPA CTGA_14331. 199.8 mm SL.</br></br></br>
 
 
 
@@ -356,7 +356,9 @@ Identification to species level follows <u>Armbruster et al. (2007)</u> and <u>A
 
 The *Hypancistrus* from the Nhamundá is similar to *H. furunculus* Armbruster, Lujan & Taphorn (2007), but we hypothesise that this species represents a distinct species due to the pronounced supraorbital crests, wide gap between the dentary tooth cups, and colour pattern of wide dark bands and thin pale bands. Comparison to the type material of *H. furunculus* is necessary to confirm or refute these hypotheses.
 
-<!--*Hypancistrus* represents a diverse group of which many species are undescribed. They differ mainly in subtleties in colour pattern and body shape, so description of this possible new species would be premature until characters useful to the group are better characterised, and more collections are made, particularly from other South draining Guiana Shield rivers.-->
+<!--*Hypancistrus* represents a diverse group of which many species are undescribed. They differ mainly in subtleties in colour pattern and body shape, so description of this possible new species would be premature until characters useful to the group are better characterised, and more collections are made, particularly from other South draining Guiana Shield rivers.
+
+we sampled 12 indivs-->
 
 Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
 
@@ -364,7 +366,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="https://dl.dropboxusercontent.com/u/28709051/hypancistrus_grey_bg_small.png" alt="" width="500">
 
-INPA CTGA. 60.8 mm SL.</br></br></br>
+INPA. (A) 68.6 mm SL; (B) 73.1 mm SL; (C) 64.3 mm SL; (D) 60.8 mm SL.</br></br></br>
 
 
 
@@ -395,7 +397,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12886&t=1" alt="" width="500">
 
-INPA CTGA14317. 196.4 mm SL.</br></br></br>
+INPA CTGA_14317. 196.4 mm SL.</br></br></br>
 
 
 
@@ -411,7 +413,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12906&t=1" alt="" width="500">
 
-INPA CTGA14329. 45.2 mm SL.</br></br></br>
+INPA CTGA_14329. 45.2 mm SL.</br></br></br>
 
 
 
@@ -427,7 +429,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12891&t=1" alt="" width="500">
 
-INPA CTGA. 207.0 mm SL.</br></br></br>
+INPA CTGA_14488. 207.0 mm SL.</br></br></br>
 
 
 
@@ -453,7 +455,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12880&t=1" alt="" width="500"></br>
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12881&t=1" alt="" width="500">
 
-INPA CTGA14332.  144.3 mm SL.</br></br></br>
+INPA CTGA_14332.  144.3 mm SL.</br></br></br>
 
 
 
@@ -471,7 +473,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12895&t=1" alt="" width="500">
 
-INPA CTGA14316. 115.6 mm SL.</br></br></br>
+INPA CTGA_14316. 115.6 mm SL.</br></br></br>
 
 
 
@@ -487,7 +489,7 @@ Fishes were caught . Location? Examples are pictured preserved and alive in Figu
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12875&t=1" alt="" width="500">
 
-INPA CTGA. 216.4 mm SL.</br></br></br>
+INPA CTGA_14542. 216.4 mm SL.</br></br></br>
 
 
 
@@ -519,7 +521,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 
 <img src="https://dl.dropboxusercontent.com/u/28709051/piracatinga.jpg" alt="" width="500">
 
-INPA CTGA. 254.0 mm SL.</br></br></br>
+INPA CTGA_14531. 254.0 mm SL.</br></br></br>
 
 
 
@@ -535,7 +537,7 @@ Fishes were caught. Location? Specimen not retained as a voucher. Pictured alive
 
 <img src="https://dl.dropboxusercontent.com/u/28709051/pirarara.jpg" alt="" width="500">
 
-CTGA. ??? mm SL.</br></br></br>
+CTGA_14459. ??? mm SL.</br></br></br>
 
 
 
@@ -572,7 +574,7 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12873&t=1" alt="" width="500">
 
-INPA CTGA. 176.0 mm SL <!--biggest one CTGA14497 -->.</br></br></br>
+INPA CTGA_14497. 176.0 mm SL <!--biggest one CTGA14497 -->.</br></br></br>
 
 
 
