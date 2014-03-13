@@ -260,11 +260,11 @@ Fishes were caught. Location? Examples are pictured preserved and alive in Figur
 INPA CTGA_14490. 87.8 mm SL.</br></br></br>
 
 
-#### *Ancistrus* sp. 'buceta' <!-- or aff. macrophthalmus -->
+#### *Ancistrus* aff. *macrophthalmus* (Pellegrin, 1912) <!-- or sp. 'buceta'  -->
 
 ##### Notes
 
-Identification to species level follows <u>Armbruster (2004)</u>, <u>Kner (1854)</u>, <u>Muller et al. (1994)</u>, <u>Günther (1864)</u>, <u>Pellegrin (1912)</u>, and <u>Eigenmann (1912)</u>  based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; body and head wide and extremely flattened; snout long and pointed; seven branched dorsal rays; three branched anal fin rays; six branched pectoral fin rays; eyes large (orbit diameter approximately 20% of HL) and situated high on the head; narrow gill openings; and colouration black, with small tiny white dots in life.
+Identification to species level follows <u>Armbruster (2004)</u>, <u>Kner (1854)</u>, <u>Muller et al. (1994)</u>, <u>Günther (1864)</u>, <u>Pellegrin (1912)</u>, and <u>Eigenmann (1912)</u>  based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; body and head wide and extremely flattened; snout long and pointed; seven branched dorsal rays; three branched anal fin rays; six branched pectoral fin rays; eyes large (orbit diameter approximately 20% of HL) and situated high on the head; narrow gill openings; and colouration black, with small tiny yellow-white dots in life.
 
 Among the several similar described *Ancistrus*&mdash;e.g. *A. dolichopterus*  Kner, 1854, *A. hoplogenys* (Günther, 1864), *A. leucostictus* (Günther, 1864), *A. ranunculus* Muller et al., 1994&mdash;this fish is most similar in shape of head and eyes to *A. macrophthalmus* (Pellegrin, 1912) and *A. lithurgicus* Eigenmann, 1912; however, the fish from the lower Nhamundá has just three branched anal-fin rays, compared to four for both of these species. More individuals will need to be collected, and further investigation of available names in *Ancistrus* carried out in order to be sure that this represents an undescribed species.
 
@@ -348,7 +348,7 @@ INPA CTGA_14331. 199.8 mm SL.</br></br></br>
 
 
 
-#### *Hypancistrus* sp. "Lower Nhamundá" <!-- or furunculus-->
+#### *Hypancistrus* aff. *furunculus* Armbruster, Lujan & Taphorn, 2007 <!-- or furunculus-->
 
 ##### Notes
 
