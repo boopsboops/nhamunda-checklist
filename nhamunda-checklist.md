@@ -12,6 +12,13 @@ Similar to many of the other southern Guiana Shield rivers, its ichthyofauna is 
 
 The aim of this study is to assess our current knowledge of Siluriformes (catfishes) of the Rio Nhamundá, and to report the results of a preliminary survey of the lower reaches of the river. Our survey results comprises biodiversity data in the specimen vouchers, DNA barcodes, tissue samples, georeferenced collection points, and images of both live and preserved materials. We also provide the description of a new suckermouth catfish species which was collected on the trip.
 
+##### Figure
+<img src="https://dl.dropboxusercontent.com/u/28709051/nhamunda_map.png" alt="" width="600">
+
+Map of the Nhamundá.</br></br></br>
+
+
+
 ### Materials and methods
 
 #### Desk survey
