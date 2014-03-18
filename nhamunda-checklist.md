@@ -2,20 +2,24 @@
 ------
 ### Abstract
 
-A wee abstract
+The Rio Nhamundá is a poorly known river draining the southern Guiana Shield. In this study
+
+Our survey results comprise modern biodiversity data in the form of specimen vouchers, georeferenced collection points, tissue samples, DNA barcodes, and images of live fishes.
 
 ### Introduction
 
-The Rio Nhamundá is a south draining river of the Guiana Shield <u>(Figure 1)</u>, located between the Uatumã-Jatapú and Trombetas rivers, and comprises the administrative border between Amazonas and Pará states of Brazil. The river drains directly into the Amazon, and is considered by the classification of <u>Lujan and Armbruster (2011)</u> as being one of the "southeastern rivers" of the Guiana Shield. Chemically, the Rio Nhamundá is of the clearwater type, being poor in sediments, dissolved minerals, and humic compounds <u>Carvalho de Lima & Araujo-Lima</u><u>(Crampton, 2011)</u>.
+The Rio Nhamundá is one of the south-draining Guiana Shield tributaries of the Rio Amazonas, Brazil. The river is located between the Uatumã-Jatapú and Trombetas rivers <u>(Figure 1)</u>, and comprises the administrative border between Amazonas State and Pará State. Chemically, the Rio Nhamundá is of the clearwater type (<u>Carvalho de Lima & Araujo-Lima, 2004</u>), being poor in sediments, dissolved minerals, and humic compounds <u>(Crampton, 2011)</u>.
 
-Similar to many of the other southern Guiana Shield rivers, its ichthyofauna is poorly known in comparison to the northern Brazilian Shield rivers <u>(Lujan and Armbruster, 2011)</u>, and few scientific collections appear to have been made on the river. Neighbouring rivers better surveyed. However, aquarium hobbyists have explored parts of the river in search of new discus (*Symphysodon* spp.) variants (Bleher, 2006/7), and ornamental fish collectors operate on the river (pers. obs.).
+<!--  and is considered by the classification of <u>Lujan and Armbruster (2011)</u> as being one of the "southeastern rivers" of the Guiana Shield. -->
 
-The aim of this study is to assess our current knowledge of Siluriformes (catfishes) of the Rio Nhamundá, and to report the results of a preliminary survey of the lower reaches of the river. Our survey results comprises biodiversity data in the specimen vouchers, DNA barcodes, tissue samples, georeferenced collection points, and images of both live and preserved materials. We also provide the description of a new suckermouth catfish species which was collected on the trip.
+The ichthyofauna of the southern Guiana Shield rivers is poorly known in comparison to the northern Brazilian Shield rivers <u>(Lujan and Armbruster, 2011)</u>, and few scientific collections appear to have been made in the area. One exception is the Trombetas river, which has seen extensive surveys over several years <u>(Ferreira, 1993)</u>. Aquarium hobbyists have, however, explored parts of the Rio Nhamundá in search of new discus (*Symphysodon* spp.) variants (Bleher, 2006/7), and ornamental fishermen currently operate on the river, and specialise mainly in the catching of these discus (pers. obs.).
+
+The aim of this study is to assess our current knowledge of Siluriformes (catfishes) of the Rio Nhamundá, and to report the results of a preliminary survey of the lower reaches of the river. We also provide the description of a new suckermouth catfish species which was collected on the trip.
 
 ##### Figure
 <img src="https://dl.dropboxusercontent.com/u/28709051/nhamunda_map.png" alt="" width="600">
 
-Map of the Nhamundá.</br></br></br>
+Figure 1. Map of the Nhamundá.</br></br></br>
 
 
 
@@ -23,7 +27,7 @@ Map of the Nhamundá.</br></br></br>
 
 #### Desk survey
 
-In order to assess knowledge of the fishes of the Rio Nhamundá we carried out a survey of Web databases as well as published checklists and literature. The Web databases searched were FishBase <u>(Froese & Pauly, 2014)</u>, Catalog of Fishes <u>(Eschmeyer, 2014)</u>, and the Global Biodiversity Information Facility (GBIF: [http://www.gbif.org](http://www.gbif.org)). The FishBase and GBIF searches were conducted using the rfishbase 0.2-2  (Boettiger et al., 2012) and rgbif 0.5.0 (Chamberlain et al., 2014) packages in R (R Core Team, 2014); scripts to repeat these searches are presented in SUPPLEMENTARY. The Catalog of Fishes was searched manually using their Web interface (date 05-03-14) using the terms "Nhamundá" and "Nhamunda" to avoid potential for discrepancies due to the accent on the last letter. Local searches were performed on PDF copies of the Checklist of Catfishes <u>(Ferraris, 2006)</u>, the Check List of the Freshwater Fishes of South and Central America <u>(Reis et al., 2003)</u>, and on over 3,500 locally stored articles on Neotropical ichthyology in PDF format (search script is available in SUPPLEMENTARY). We additionally checked records for the neighbouring Trombetas and Uatumá rivers using rfishbase, rgbif, Catalog of Fishes, and Checklist of Catfishes.
+In order to assess the current knowledge of the catfishes of the Rio Nhamundá we carried out a survey of Web databases as well as published checklists and literature. The Web databases searched were FishBase <u>(Froese & Pauly, 2014)</u>, Catalog of Fishes <u>(Eschmeyer, 2014)</u>, and the Global Biodiversity Information Facility (GBIF; [http://www.gbif.org](http://www.gbif.org)). The FishBase and GBIF searches were conducted using the rfishbase 0.2-2  (Boettiger et al., 2012) and rgbif 0.5.0 (Chamberlain et al., 2014) packages in the R programming language (R Core Team, 2014); scripts to repeat these searches are presented in SUPPLEMENTARY. The Catalog of Fishes was searched manually using their Web interface (date 05-03-14) using the terms "Nhamundá" and "Nhamunda" to avoid potential discrepancies due to the accent on the last letter. Local searches were performed on PDF copies of the Checklist of Catfishes <u>(Ferraris, 2006)</u>, the Check List of the Freshwater Fishes of South and Central America <u>(Reis et al., 2003)</u>, and on over 3,500 locally stored articles on Neotropical ichthyology in PDF format (search script is available in SUPPLEMENTARY). We additionally checked records for the neighbouring Trombetas and Uatumã rivers using rfishbase, rgbif, Catalog of Fishes, and Checklist of Catfishes.
 
 We also checked the collection records at the Instituto Nacional de Pesquisas da Amazônia (INPA) for records of collections made from the Nhamundá. 
 <!-- 
@@ -35,28 +39,27 @@ following combinations: 'Nhamundá', 'Nhamunda', and 'Nhamund&lt;c3&gt;&lt;a1&gt;
 
 #### Field sampling techniques
 
-Sampling locations are marked in <u>Figure 1</u>. Fishes were collected over XXX days in the November 2013 dry season using a combination of methods mostly targeting the larger species and less cryptic species: gill netting, rod and line fishing, spear fishing, hand netting, and h	and catching using snorkelling equipment. Fishes were photographed alive where possible, and then euthanised using a eugenol (clove oil) solution. Tissue samples&mdash;usually from muscle and fin membranes on the right-side pectoral-fin base&mdash;were taken from some specimens and stored in absolute ethanol. Fishes to be retained as vouchers were then fixed in 10% formalin for several days before being transferred to 70% alcohol for long-term storage. 
+Fishes were collected during the November 2013 dry season using a combination of methods mostly targeting larger species: gill netting, rod and line fishing, spear fishing, hand netting, and hand catching using snorkelling equipment. Fishes were photographed alive where possible, and then euthanised using a eugenol (clove oil) solution. Tissue samples&mdash;usually from muscle and fin membranes on the right-side pectoral-fin base&mdash;were taken from a subset of specimens and stored in absolute ethanol. Fishes to be retained as vouchers were then fixed in 10% formalin for several days before being transferred to 70% alcohol for long-term storage. 
 
-#### Measurement and meristic techniques
+#### Measurements and meristic techniques
 
 Measurements of preserved material were taken with dial callipers to a precision of 0.1 mm. All measurements and counts for symmetrical features were taken from the left side of the specimen.  For loricariids, morphometric measurements and meristic counts follow <u>Armbruster (2003)</u>, and terminology for lateral plate rows follows <u>Schaefer (1997)</u>. Counts of cheek plate odontodes included only the long, highly hypertrophied odontodes on the posterior part of the plate. The dorsal-fin spinelet is included as a spine, and the nuchal plate is not included in the predorsal plate row count. Terminology of colour pattern follows <u>Kottelat and Freyhof (2007)</u>.<!--Unless otherwise stated, measurements are expressed as percentages of standard length (SL) or head length (HL).--> 
 
 #### Specimen identification
 
-For the checklist, we used published literature to identify our specimens, and we give the characters found in those references that we used to make identifications. When required, we examined photographs of type material on the All Species Catfish Inventory Web page ([http://acsi.acnatsci.org](http://acsi.acnatsci.org)). We tried to keep terminology consistent across the species, but also tried to maintain a degree of agreement with original authors' work to aid in referring back to their characters; for example, when reporting the *Farlowella* spp., we refer to the "scutes" of <u>Retzer & Page (2006)</u> as "plates" following <u>Schaefer (1997)</u>, but maintain reference to the "plates of second lateral row" instead of "mid-dorsal lateral plates" <u>(Schaefer, 1997)</u>. 
+For the checklist, we used published literature to identify our specimens, and we also provide the characters found in those references that we used to make each identification. When required, we examined photographs of type material on the All Species Catfish Inventory Web page ([http://acsi.acnatsci.org](http://acsi.acnatsci.org)). We tried to keep terminology consistent across the species, but also tried to maintain a degree of agreement with original authors' work to aid in referring back to their characters. For example, when reporting the *Farlowella* spp., we refer to the "scutes" of <u>Retzer & Page (2006)</u> as "plates", following <u>Schaefer (1997)</u>, but maintain reference to the "plates of second lateral row" of <u>Retzer & Page (2006)</u> instead of "mid-dorsal lateral plates" of <u>Schaefer (1997)</u>. 
 
 The symbolic codes for institutional resource collections follows <u>Sabaj Pérez (2013)</u>. 
 
 #### Molecular methods
 
-DNA barcodes were generated for one individual per species collected.
+DNA barcodes were generated for one to three individuals per species. DNA was extracted using a ... TBC
 
 ### Results: desk survey
 
-Our survey of online databases and checklists (SUPPLEMENTARY) revealed a single record of a siluriform collected in the Rio Nhamundá, which was an unidentified  *Ossancora*. On further investigation this fish was found to be a paratype of *Ossancora asterophysa* Birindelli & Sabaj Pérez, 2011 (ROM 88244, MZUSP 7838). The literature survey revealed three further species from the river: *Hassar orestis* (Steindachner, 1875) (MZUSP 9547); *Pygidianops amphioxus* de Pinna & Kirovsky, 2011 (MZUSP 104675); and *Centromochlus* sp. (INPA 35087) (Sarmento-Soares et al., 2013). The survey of the INPA collections revealed ... 
+Our survey of online databases and published checklists (SUPPLEMENTARY) revealed a single record of a doradid collected in the Rio Nhamundá, which was an unidentified  *Ossancora* sp. On further investigation these fish were found to be paratypes of *Ossancora asterophysa* Birindelli & Sabaj Pérez, 2011 (ROM 88244, MZUSP 7838). The literature survey revealed three further species from the river: *Hassar orestis* (Steindachner, 1875) (MZUSP 9547); *Pygidianops amphioxus* de Pinna & Kirovsky, 2011 (MZUSP 104675); and *Centromochlus* sp. (INPA 35087). The survey of the INPA collections revealed ... 
 
-By contrast, the survey of online databases and checklists for the Trombetas river listed 44 siluriform species (SUPPLEMENTARY), while the study of 
-<u>Ferreira (1993)</u> listed 95 siluriform species from the Trombetas. From the Uatumã river, the desk survey of online databases and checklists provided five species.
+By contrast, the survey of the Web databases and checklists for the Trombetas river listed 44 siluriform species (SUPPLEMENTARY), while the study of <u>Ferreira (1993)</u> listed 95 siluriform species from the Trombetas. From the Uatumã river, the desk survey of Web databases and checklists provided five species (SUPPLEMENTARY).
 <!-- 
 *Hassar orestis* (Steindachner, 1875) (MZUSP 9547)
 *Ossancora asterophysa* (ROM 88244, MZUSP 7838)
@@ -68,7 +71,7 @@ By contrast, the survey of online databases and checklists for the Trombetas riv
 
 #### Description
 
-The holotype of *Pseudolithoxus flavisetus* sp. n. is pictured in Figure 1. Morphometric measurements and meristic counts are presented in Table 1. Largest specimen collected was 147.4 mm (holotype<!-- PN11 -->). Body extremely dorso-ventrally compressed, with flattened surface both dorsally and ventrally. Head profile shape from dorsal view, rounded to blunted-square. Head with pronounced medial ridge between nares and snout tip. Dorsal operculum of the iris present.
+The holotype of *Pseudolithoxus XXX* sp. n. is pictured in Figure 2. Morphometric measurements and meristic counts are presented in Table 1. Largest specimen collected was 147.4 mm (holotype<!-- PN11 -->). Body extremely dorso-ventrally compressed, with flattened surfaces both dorsally and ventrally. Shape of head-profile from dorsal view rounded to blunted-square. Head with pronounced medial ridge between nares and snout tip. Dorsal operculum of the iris present.
 
 Sucking disk large, approximately as wide as is long, lacking fimbriae, and with the ventral surface bearing small buccal papillae. Maxillary barbels short. Teeth villiform and bicuspid. Lateral cusp of teeth roughly one-half to two-thirds the length of the medial cusp. Premaxillary teeth 42-81 (median 56, holotype 55). Dentary teeth 33-85 (median 65, holotype 69).
 
