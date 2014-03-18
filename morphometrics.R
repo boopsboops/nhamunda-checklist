@@ -1,9 +1,9 @@
 #clear memory
 rm(list = ls())
 #read in morpho table
-tab <- read.table("/home/rupert/LaTeX/nhamunda-checklist/pseudolithoxus_morphometrics_table.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE, row.names="Measurement")#?read.table , 
+tab1 <- read.table("/home/rupert/LaTeX/nhamunda-checklist/pseudolithoxus_morphometrics_table.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE, row.names="Measurement")#?read.table , 
 #remove landmark number, keep abbreviations and convert to Matrix
-tab <- subset(tab, select=-Landmarks)
+tab <- subset(tab1, select=-Landmarks)
 
 ##check data is read in correctly
 #class(tab)
@@ -71,3 +71,18 @@ Mode <- function(x) {
   ux <- unique(x)
   ux[which.max(tabulate(match(x, ux)))]
 }
+
+
+
+jh <- rbind(slp,hlp)
+su <- apply(jh, 1, summary)
+sv <- apply(jh, 1, sd)
+
+
+hol <- c(slp[,"PN11"], hlp[,"PN11"])
+
+fin <- as.data.frame(cbind(rownames(jh), hol, su["Mean",], sv, su["Min.",], su["Max.",]))
+rownames(fin) <- NULL
+colnames(fin) <- c("Cock", "Piss", "Partridge") 
+
+tab1$"Landmarks"
