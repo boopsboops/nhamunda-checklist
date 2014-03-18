@@ -17,7 +17,7 @@ UFAM:CTGA:14540,tbc,Doradidae,Astrodoras,asterifrons,-2.02386,-56.78235,sequence
 UFAM:CTGA:14537,tbc,Heptapteridae,Goeldiella,eques,-1.99702,-57.03758,sequence,yes,,NH10,Río Paratucu
 UFAM:CTGA:14290,tbc,Heptapteridae,Pimelodella,,-1.6909,-57.42231,sequence,yes,,NH05,
 UFAM:CTGA:14320,tbc,Loricariidae,Ancistrus,dolichopterus,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
-UFAM:CTGA:14321,tbc,Loricariidae,Ancistrus,dolichopterus,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
+UFAM:CTGA:14321,tbc,Loricariidae,Ancistrus,dolichopterus,-1.84123,-57.07212,sequence,yes,,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14322,tbc,Loricariidae,Ancistrus,dolichopterus,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14323,tbc,Loricariidae,Ancistrus,dolichopterus,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14324,tbc,Loricariidae,Ancistrus,dolichopterus,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
@@ -61,7 +61,7 @@ UFAM:CTGA:14316,tbc,Loricariidae,Peckoltia,vittata,-1.84123,-57.07212,sequence,y
 UFAM:CTGA:14325,tbc,Loricariidae,Peckoltia,vittata,-1.84123,-57.07212,,yes,10 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14326,tbc,Loricariidae,Peckoltia,vittata,-1.84123,-57.07212,,yes,10 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14327,tbc,Loricariidae,Peckoltia,vittata,-1.84123,-57.07212,,yes,10 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
-UFAM:CTGA:14333,tbc,Loricariidae,Peckoltia,vittata,-1.6909,-57.42231,,yes,10 from NH12,NH05,
+UFAM:CTGA:14333,tbc,Loricariidae,Peckoltia,vittata,-1.6909,-57.42231,sequence,yes,10 from NH12,NH05,
 UFAM:CTGA:14334,tbc,Loricariidae,Peckoltia,vittata,-1.6909,-57.42231,,yes,10 from NH12,NH05,
 UFAM:CTGA:14335,tbc,Loricariidae,Peckoltia,vittata,-1.6909,-57.42231,,yes,10 from NH12,NH05,
 UFAM:CTGA:14423,tbc,Loricariidae,Peckoltia,vittata,-1.71782,-57.36856,,yes,10 from NH12,NH08,
@@ -69,7 +69,7 @@ UFAM:CTGA:14424,tbc,Loricariidae,Peckoltia,vittata,-1.71782,-57.36856,,yes,10 fr
 UFAM:CTGA:14494,tbc,Loricariidae,Peckoltia,vittata,-1.84123,-57.07212,,yes,10 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14495,tbc,Loricariidae,Peckoltia,vittata,-1.84123,-57.07212,,yes,10 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14496,tbc,Loricariidae,Peckoltia,vittata,-1.84123,-57.07212,,yes,10 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
-UFAM:CTGA:14544,tbc,Loricariidae,Peckoltia,vittata,-2.02386,-56.78235,,yes,10 from NH12,NH12,Com. Guariba - rio Nhamundá
+UFAM:CTGA:14544,tbc,Loricariidae,Peckoltia,vittata,-2.02386,-56.78235,sequence,yes,10 from NH12,NH12,Com. Guariba - rio Nhamundá
 UFAM:CTGA:14545,tbc,Loricariidae,Peckoltia,vittata,-2.02386,-56.78235,,yes,10 from NH12,NH12,Com. Guariba - rio Nhamundá
 UFAM:CTGA:14546,tbc,Loricariidae,Peckoltia,vittata,-2.02386,-56.78235,,no,10 from NH12,NH12,Com. Guariba - rio Nhamundá
 UFAM:CTGA:14550,tbc,Loricariidae,Peckoltia,vittata,-2.19081,-56.7084,,yes,10 from NH12,NH01,Pedras de praia em frente de Cidade de Nhamundá
