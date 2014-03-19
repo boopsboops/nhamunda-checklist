@@ -73,16 +73,37 @@ Mode <- function(x) {
 }
 
 
+## create the final table for paper and reorganise the data into correct order
 
-jh <- rbind(slp,hlp)
-su <- apply(jh, 1, summary)
-sv <- apply(jh, 1, sd)
+#get SL for all 
+sl <- as.matrix(subset(tab["Standard_length",], select=-Percents))
+#bind columns for all measurements
+com <- rbind(sl, slp, hlp)
 
+#run the summary functions over the rows
+me <- apply(com, 1, mean)
+sv <- apply(com, 1, sd)
+mn <- apply(com, 1, min)
+mx <- apply(com, 1, max)
 
-hol <- c(slp[,"PN11"], hlp[,"PN11"])
+#subset for the holotype only
+slh <- sl[,"PN11"]
+names(slh) <- rownames(sl)
+holo <- c(slh, slp[,"PN11"], hlp[,"PN11"])
 
-fin <- as.data.frame(cbind(rownames(jh), hol, su["Mean",], sv, su["Min.",], su["Max.",]))
-rownames(fin) <- NULL
-colnames(fin) <- c("Cock", "Piss", "Partridge") 
+#make a vector for the percentage in column
+pof <- c(NA, rep("SL", dim(slp)[1]), rep("HL", dim(hlp)[1]))
 
-tab1$"Landmarks"
+#create data frame of all 
+fintab <- cbind(cbind(as.vector(na.omit(tab1$"Landmarks")), rownames(com)), pof, round(data.frame(cbind(as.numeric(holo), as.numeric(me), as.numeric(sv), as.numeric(mn), as.numeric(mx))), digits=1))
+#label the column names
+colnames(fintab) <- c("Landmarks", "Measurement", "Percentage in", "Holotype", "Mean", "SD", "Min.", "Max.")
+#tidy up the entries
+fintab$Landmarks <- as.factor(gsub("--", "‒", fintab$Landmarks))
+fintab$Measurement <- gsub("--", "-", fintab$Measurement)
+fintab$Measurement <- as.factor(gsub("_", " ", fintab$Measurement))
+#check
+print(fintab)
+
+#save
+write.table(fintab, file = "/media/1TB/auto_backed_up/LaTeX/nhamunda-checklist/final_morpho_table.csv", quote = FALSE, sep = ",", row.names = FALSE, col.names = TRUE)
