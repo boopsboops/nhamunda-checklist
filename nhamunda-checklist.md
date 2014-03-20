@@ -142,8 +142,8 @@ Fishes were caught at night using gill nets off the main river channel? Location
 ##### Notes 
 <!-- need to check INPA specimens of Centromochlus sp. (musaica?) (INPA 35087) collected from the Nhamunda -->
 
-Identification to species level follows <u>Royero (1993)</u>, <u>Sarmento-Soares (2008)</u> and Vari & Ferraris (2013)
-based on the following characters: irregular, mosaic-like black and white colour pattern; bifid third nuchal plate; and long post-cleithral process reaching past the nuchal plates. Our specimens, however, differ from those described/pictured by Royero (1993) in a number of aspects: unpigmented area dorso-posteriorly to the orbit (slightly elongated and smaller than orbit diameter); third nuchal plate larger than that figured by Royero (1993); third nuchal plate unpigmented (including some of the surrounding skin); caudal fin hyaline with oblique dark stripes reaching to tips of upper and lower lobes.
+Identification to species level follows <u>Royero (1993)</u>, <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> and <u>Vari & Ferraris (2013)</u>
+based on the following characters: irregular, mosaic-like black and white colour pattern; bifid third nuchal plate; and long post-cleithral process reaching past the nuchal plates. Our specimens, however, differ from those described/pictured by <u>Royero (1993)</u> in a number of aspects: unpigmented area dorso-posteriorly to the orbit (slightly elongated and smaller than orbit diameter); third nuchal plate larger than that figured by <u>Royero (1993)</u>; third nuchal plate unpigmented (including some of the surrounding skin); caudal fin hyaline with oblique dark stripes reaching to tips of upper and lower lobes.
 
 Fishes were mostly caught using a hand net at the surface after attracting insects&mdash;on which they were feeding&mdash;with a light. They were abundant at the locality on the lower Nhamundá.
 
