@@ -12,8 +12,8 @@ Manuscript is written in markdown.
 * check INPA for collections in Trometas and Lower Nhamunda (Centromochlus)
 * finish intro and conclusion sections
 * write up species habitats
-* write DwC archive and CSV
 * prepare/photoshop the images
+* transfer the paper online
 
 #### Done list:
 * find tissue samples (ask Val)
@@ -21,3 +21,6 @@ Manuscript is written in markdown.
 * choose specimens to barcode
 * count tatias without ctga
 * count pseudolithoxus without ctga
+* write DwC archive and CSV
+* prepare the morphometrics table
+* add al references to online system
