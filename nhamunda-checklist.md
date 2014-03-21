@@ -55,6 +55,8 @@ The symbolic codes for institutional resource collections follows <u>Sabaj Pérez
 
 DNA barcodes were generated for one to three individuals per species. DNA was extracted using a ... TBC
 
+We also searched the Barcode of Life Data Systems (BOLD; [http://www.boldsystems.org/](http://www.boldsystems.org/)) and GenBank ([http://www.ncbi.nlm.nih.gov/nucleotide](http://www.ncbi.nlm.nih.gov/nucleotide)) for deposited COI sequences, in order the evaluate the coverage 
+
 ### Results: desk survey
 
 Our survey of online databases and published checklists (SUPPLEMENTARY) revealed a single record of a doradid collected in the Rio Nhamundá, which was an unidentified  *Ossancora* sp. On further investigation these fish were found to be paratypes of *Ossancora asterophysa* Birindelli & Sabaj Pérez, 2011 (ROM 88244, MZUSP 7838). The literature survey revealed three further species from the river: *Hassar orestis* (Steindachner, 1875) (MZUSP 9547); *Pygidianops amphioxus* de Pinna & Kirovsky, 2011 (MZUSP 104675); and *Centromochlus* sp. (INPA 35087). The survey of the INPA collections revealed ... 
@@ -92,13 +94,16 @@ Following <u>Armbruster and Provenzano (2000)</u>, <u>Armbruster (2004)</u>, and
 Within the genus *Pseudolithoxus*, *P. XXX* sp. n. can be distinguished from: *P. tigris* and *P. kelsorum* by having a colour pattern comprised of spots (vs. bars); from *P. dumus* from having large pale spots on a dark background vs. large dark spots on a light background; and from *P. nicoi* and *P. anthrax* by having a colour pattern comprised of large pale spots generally equal to or larger than pupil diameter posterior to the head on a dark background vs. dots much smaller than pupil diameter on a black background.
 
 #### Etymology
-*Pseudolithoxus XXX* sp. n. is named ...
+*Pseudolithoxus XXX* sp. n. is named ... . In the German aquarium literature, fishes of this genus are known as  due to their wing-like elongated pectoral-fins <u>(Seidel & Evers, 2005)</u>. We propose the English vernacular name "... flyer catfish", and propose the Portuguese vernacular name "acarí-bodó ..." for the species.
 
 #### Ecology and distribution
 
 <!-- What about the 1993 Trombetas specimens at INPA?-->
 
 The species is currently only known from one location on the main river stem of the lower Rio Nhamundá. The type series was collected in shallow (depth &lt; 1.5 m), fast flowing water over a substrate of eroded bedrock. The fishes were living among the narrow cracks between the rocks, and were abundant at the sampling site. However, this type of  habitat was not frequently encountered on the lower Nhamundá, and we did not find the species associated with the more common woody-debris sites, or the rocky sites lacking any appreciable water current. Water temperature and conductivity were 28.3&deg;C and 6 &micro;s/cm. Syntopic species encountered during the night survey included: *Leporinus*, *Symphysodon*, *Cichla*, *Pimelodella*, and *Gymnotus*. *Pseudolithoxus* was the dominant loricariid in this habitat.
+
+#### Molecular data
+Three paratypes of *Pseudolithoxus XXX* sp. n. (CTGA_NNN) were sequenced for the COI DNA barcode region, and following the 'GenSeq' nomenclature of <u>Chakrabarty et al., (2013)</u> these specimens bear the 'genseq-2 COI' annotation. The sequences were NNN bp in length and variability ... TBC. GenBank accession numbers are listed in Materials.
 
 ##### Figure
 <img src="https://dl.dropboxusercontent.com/u/28709051/pseudolithoxus.jpg" alt="" width="750">
@@ -114,7 +119,7 @@ The species is currently only known from one location on the main river stem of 
 ##### Notes
 Identification to species level follows <u>Ferraris et al. (2005)</u> based on the following characters: coracoid not exposed ventrally; pelvic fin with branched rays; anterior teeth on premaxilla not visible when mouth closed; caudal fin emarginate; and body uniform dark colouration without dark spots.
 
-Fishes were caught by hand from their lodgements in both woody and rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
+Three individuals were caught by hand from their lodgements in woody substrates at the margin of the main river stem. Water temperature was 28.9&deg;C. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12865&mode=view" alt="" width="500">
@@ -128,7 +133,7 @@ Fishes were caught by hand from their lodgements in both woody and rocky substra
 ##### Notes
 Identification to species level follows <u>Britski and Akama (2011)</u> based on the following characters: prognathous lower jaw; skull roof covered by thin integument; inner mental barbel reaching base of outer mental barbel; dorsal-fin spine serrated only along anterior margin; and caudal fin emarginate (our specimens had suffered damage to the lobes of the caudal fin, presumably due to piranhas). 
 
-Fishes were caught at night using gill nets off the main river channel? Location? Examples are pictured preserved and alive in Figure YYY.
+Two individuals were caught at night using gill nets \[Val, where were these set?\]. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12862&t=1" alt="" width="400">
@@ -145,7 +150,7 @@ Fishes were caught at night using gill nets off the main river channel? Location
 Identification to species level follows <u>Royero (1993)</u>, <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> and <u>Vari & Ferraris (2013)</u>
 based on the following characters: irregular, mosaic-like black and white colour pattern; bifid third nuchal plate; and long post-cleithral process reaching past the nuchal plates. Our specimens, however, differ from those described/pictured by <u>Royero (1993)</u> in a number of aspects: unpigmented area dorso-posteriorly to the orbit (slightly elongated and smaller than orbit diameter); third nuchal plate larger than that figured by <u>Royero (1993)</u>; third nuchal plate unpigmented (including some of the surrounding skin); caudal fin hyaline with oblique dark stripes reaching to tips of upper and lower lobes.
 
-Fishes were mostly caught using a hand net at the surface after attracting insects&mdash;on which they were feeding&mdash;with a light. They were abundant at the locality on the lower Nhamundá.
+Twelve individuals were caught either by hand from their lodgements in woody substrates, or more effectively using a hand net at the surface after attracting insects&mdash;on which they were feeding&mdash;with a light; under such conditions they appeared abundant on the lower Nhamundá.
 
 <!-- El cuerpo es gris oscuro, o casi negro hacia la región dorsal del cuerpo y en los flancos, con una serie de proyeciones de pigmentación oscura hacia el vientre, a manera de mosaico (Fig. I y 6). La parte subterminal de la mandíbula inferior y toda la región ventral, hasta el origen de la aleta anal, no tiene pigmentación; en el material preservado es de color  blanco. La pigmentación que se proyecta sobre el víentre presenta variaciones, pero en todos los ejemplares examinados dos existe una proyección anterior a la aleta pélvica, otra en la parte anterior de la aleta  anal y otros sobre os pedúnculo caudal.
 
@@ -165,7 +170,7 @@ INPA CTGA_14508.  47.8 mm SL.</br></br></br>
 ##### Notes
 Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> based on the following characters: dark brown body color; and short post-cleithral process (about 60% of head length) not reaching vertical through origin of dorsal fin. 
 
-Fishes were caught by hand from their lodgements in mainly rocky substrates. Location? Examples are pictured preserved and alive in Figure YYY.
+Four individuals were caught by hand from their lodgements in woody substrates at the margin of the main river stem (they were also observed in rocky habitats, but were more difficult to catch in this situation). Water temperature was 28.9&deg;C. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12864&t=1" alt="" width="500">
@@ -181,7 +186,7 @@ INPA CTGA_14503. 101.0 mm SL <!--biggest one-->.</br></br></br>
 
 Identification to species level follows <u>Sousa (2010)</u> based on the following characters: flattened body shape; upper limit of pre-opercular canal not reaching lateral border of the cranium; seven branched rays in the dorsal lobe of the caudal fin; dorsal margin of the orbit high; procurrent rays of the caudal fin expanded into bony shields; and diverticula of the swim bladder simple, with tapered rear end.
 
-Fishes were caught by hand at night over a sandy/muddy substrate on the Lower Nhamundá. Water current was minimal. Location? Examples are pictured preserved and alive in Figure YYY.
+Two individuals were caught by hand-net at night over a sandy/silty substrate in the lake-like lower reaches of the river. Water current was minimal. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -228,7 +233,7 @@ Astrodoras sp. "Fulcrum" can be differentiated from Astrodoras sp. "Without fulc
 
 Identification to species level follows <u>Eigenmann & Norris (1900)</u> and <u>Eigenmann (1912)</u> based on the following characters: rounded caudal fin with larger lower lobe; distinct cranial fontanelle; maxillary barbels long, extending to caudal (extended only to caudal peduncle in our specimen); dorsal spine notched anteriorly; dark stripe along lateral line (in our specimen this comprised just a elongated blotch under the dorsal fin); base of caudal with dark bar; and obliquely angled dark saddle behind head (from dorsal insertion to base of opercle); body and fins irregularly mottled.
 
-Fishes were caught . Location? Piracutu? Examples are pictured preserved and alive in Figure YYY.
+One individual was caught by hand-net on the Rio Paratucu (Rio Nhamundá tributary), and delivered a painful sting, confirming that many heptapterids are venomous <u>(Wright, 2009)</u>. This specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -237,17 +242,19 @@ Fishes were caught . Location? Piracutu? Examples are pictured preserved and ali
 INPA CTGA_14537. 134.0 mm SL.</br></br></br>
 
 
-#### *Pimelodella* ???
+#### *Pimelodella* sp.
 
 ##### Notes
 
-Identification to species level follows <u>Eigenmann & Eigenmann (1890)</u> and <u>Eigenmann (1917)</u>based on the following characters: occipital process narrow, reaching dorsal plate; fontanel continued to base of occipital process, with bridge above the posterior margin of the eye; dorsal-fin and pectoral-fin spines strong; humeral process spine-like; dorsal fin with six branched rays.
+Identification to genus level follows <u>Eigenmann & Eigenmann (1890)</u> and <u>Eigenmann (1917)</u>based on the following characters: occipital process narrow, reaching dorsal plate; fontanel continued to base of occipital process, with bridge above the posterior margin of the eye; dorsal-fin and pectoral-fin spines strong; humeral process spine-like; dorsal fin with six branched rays. 
 
-<!-- adipose 11.9 mm (= 0.24 or 4 in SL) 
+We are currently unable to identify this fish to species level given the large diversity and paucity of modern treatments of the genus. Important characters include the caudal fin lobes of approximately equal length, short barbels, the complete lack of dark longitudinal stripe, the wedge-shaped mark on the dorsal-fin, and the dark saddle anterior to the dorsal fin.
+<!-- 
+adipose 11.9 mm (= 0.24 or 4 in SL) 
 Pimelodus stewarti ???!!
-investigate humeral vs postcleithral process-->
+-->
 
-Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
+One individual was caught by hand-net on a sandy beach habitat. This specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -259,9 +266,9 @@ INPA CTGA_14290. 48.9 mm SL.</br></br></br>
 
 ##### Notes
 
-Identification to species level follows <u>Armbruster (2004)</u>, and <u>Kner (1854)</u> based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; 8-9 branched dorsal-fin rays (three individuals with nine rays and eight individuals with eight rays); and black colour with small white dots (apparent in life, but only apparent on belly in preserved material). We also note that *Ancistrus* (and particularly the Amazonian species) are a group in dire need of taxonomic revision. <!-- 3 with 9 rays and 8 with 8 rays --> <!-- kner PDF page 31 -->
+Identification to species level follows <u>Armbruster (2004)</u>, and <u>Kner (1854)</u> based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; 8-9 branched dorsal-fin rays (three individuals with nine rays and eight individuals with eight rays); and black colour with small white dots (apparent in life, but only apparent on abdomen in preserved material). We also note that *Ancistrus* (and particularly the Amazonian species) are a group in dire need of taxonomic revision. <!-- 3 with 9 rays and 8 with 8 rays --> <!-- kner PDF page 31 -->
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Eleven individuals were caught by hand on both woody and rocky substrates. The species appeared abundant throughout the river. NNN examples of live specimens are pictured in Figure YYY, also illustrating the dorsal-fin rays.
 
 ##### Figure
 
@@ -276,7 +283,7 @@ INPA CTGA_14490. 87.8 mm SL.</br></br></br>
 
 Identification to species level follows <u>Armbruster (2004)</u>, <u>Kner (1854)</u>, <u>Muller et al. (1994)</u>, <u>Günther (1864)</u>, <u>Pellegrin (1912)</u>, and <u>Eigenmann (1912)</u>  based on the following characters: three rows of lateral plates on the caudal peduncle; snout naked with fleshy tentacles lacking odontodes; body and head wide and extremely flattened; snout long and pointed; seven branched dorsal rays; three branched anal fin rays; six branched pectoral fin rays; eyes large (orbit diameter approximately 20% of HL) and situated high on the head; narrow gill openings; and colouration black, with small tiny yellow-white dots in life.
 
-Among the several similar described *Ancistrus*&mdash;e.g. *A. dolichopterus*  Kner, 1854, *A. hoplogenys* (Günther, 1864), *A. leucostictus* (Günther, 1864), *A. ranunculus* Muller et al., 1994&mdash;this fish is most similar in shape of head and eyes to *A. macrophthalmus* (Pellegrin, 1912) and *A. lithurgicus* Eigenmann, 1912; however, the fish from the lower Nhamundá has just three branched anal-fin rays, compared to four for both of these species. More individuals will need to be collected, and further investigation of available names in *Ancistrus* carried out in order to be sure that this represents an undescribed species.
+Among the several similar described *Ancistrus*&mdash;e.g. *A. dolichopterus*  Kner, 1854, *A. hoplogenys* (Günther, 1864), *A. leucostictus* (Günther, 1864), *A. ranunculus* Muller, Rapp Py-Daniel & Zuanon, 1994&mdash;this fish is most similar in shape of head and eyes to *A. macrophthalmus* (Pellegrin, 1912) and *A. lithurgicus* Eigenmann, 1912; however, the fish from the lower Nhamundá has just three branched anal-fin rays, compared to four for both of these species. More individuals will need to be collected, and further investigation of available names in *Ancistrus* carried out in order to be sure that this represents an undescribed species.
 
 <!-- eye size in HL 37mm/7mm (large) 29.5/6.2 (small) 35.3/6 (dolich)
 
@@ -294,7 +301,7 @@ type of macrophthalma at http://acsi.acnatsci.org/base/getthumbnail.php?mode=ful
 
 two predorsal plates,  narrow post-cleithral process, small triangular shaped opercle-->
 
-Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
+Two individuals were caught by hand at night from rocky substrates near the mouth of the river. Water current was minimal, and the temperature was 32.0&deg;C. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -308,7 +315,7 @@ INPA CTGA_14547. 93.1 mm SL.</br></br></br>
 
 Identification to species level follows <u>Armbruster (2004)</u>, <u>Rapp-Py Daniel (1985)</u> and <u>La Monte (1929)</u> based on the following characters: lateral plates with well-developed keels; hypertrophied odontodes present along snout margin; three rows of lateral plates on the caudal peduncle; large interorbital distance; pronounced medial ridge on snout; head plates with sinuous rows of odontodes; interopercular plate with between 15 and 20 strong and distally hooked odontodes; pectoral spine roughly same length as head, with long odontodes; and spots on body roughly same size as those on head.
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Nine individuals were caught by hand from woody substrates in a variety of habitats (main river, lake, igarapé). The species was abundant. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -348,7 +355,7 @@ dorso-lateral dark stripe not apparent in preserved specimen, but observed in li
 Upper and lower caudal fin lobes pigmented with dark stripes of equal size (stripes reach caudal fin base contra nattereri)
 -->
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+One individual was caught by hand from shallow, fast flowing water over a rocky substrate on main river stem. Water temperature was 28.3&deg;C. The live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -370,7 +377,7 @@ The *Hypancistrus* from the Nhamundá is similar to *H. furunculus* Armbruster, L
 
 we sampled 12 indivs-->
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Twelve individuals were caught by hand at night from rocky substrates near the mouth of the river. Water current was minimal, and the temperature was 32.0&deg;C. Four examples of live specimens are pictured in Figure YYY to illustrate variation in colour pattern.
 
 ##### Figure
 
@@ -386,13 +393,13 @@ INPA. (A) 68.6 mm SL; (B) 73.1 mm SL; (C) 64.3 mm SL; (D) 60.8 mm SL.</br></br><
 
 Identification to species level follows <u>Aquino & Schaefer (2010)</u> based on the following characters: flattened head with eyes placed ventrolaterally and visible from below; laterally expanded nuchal plate; six pairs of lateral abdominal plates posterior to coracoids; thoracic plates present; three midventral plates between cleithral posterior process and first plate of ventral series; anal shield composed of single plate; second infraorbital laterally contacting to two ventral dermal plates; patch of odontodes present on anterolateral aspect of cleithrum at opening to branchial chamber; and caudal fin with series of around three dark bands (irregular in our specimens). 
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Thirteen individuals were caught by hand from submerged terrestrial vegetation. Water current was minimal. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12877&t=1" alt="" width="500">
 
-INPA CTGA. ??? mm SL.</br></br></br>
+INPA catalogued specimen.</br></br></br>
 
 
 #### *Hypostomus carinatus* (Steindachner, 1881)
@@ -401,7 +408,7 @@ INPA CTGA. ??? mm SL.</br></br></br>
 
 Identification to species level follows <u>Zawadzki et al. (2013)</u> and <u>Rapp Py-Daniel (1988)</u> based on the following characters: greater than three (around eight to ten) predorsal plates limiting the posterior border of the supraoccipital; elongated caudal peduncle; caudal fin strongly emarginated; dark spots on lighter background; and lower lobe of caudal fin darker than upper lobe.<!-- Steindachner, 1881 plate on PDF page 101 (named Taf. IV. 2.-->
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Five individuals were caught by hand from woody substrates at the margin of the main river stem. Water temperature was 28.9&deg;C. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -417,7 +424,7 @@ INPA CTGA_14317. 196.4 mm SL.</br></br></br>
 
 Identification to species level follows <u>Armbruster (2005)</u> based on the following characters: three rows of lateral plates on the caudal peduncle; bar-shaped opercle; snout plates present; lateral plates not keeled; &gt; 30 teeth per jaw ramus; body and fins (except dorsal and caudal) dark with small pale dots; plates not outlined with dark pigment; and caudal fin with darker lower lobe. We note that the whisker-like odontodes characteristic of the genus were not apparent in our single, juvenile specimen of 45.2 mm, but we did observe bifurcating tentacules on the interopercular plate, and combined with the other characters, are confident that the specimen belongs to *Lasiancistrus schomburgkii* as proposed by <u>Armbruster (2005)</u>.
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Two individuals were caught by hand from woody substrates at the margin of the main river stem. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -433,7 +440,7 @@ INPA CTGA_14329. 45.2 mm SL.</br></br></br>
 
 Identification to species level follows <u>Armbruster (2004)</u>, <u>Armbruster (2008)</u> and <u>Isbrücker & Nijssen (1989)</u> based on the following characters: premaxilla with three teeth, the inner being very long; lips oval, lacking fimbriae on the upper lip; more than four predorsal plates; tall and narrow supraoccipital crest; and dark body with numerous white dots. 
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Three individuals were caught by hand from woody substrates at the margin of the main river stem. Water temperature was 28.9&deg;C. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -458,7 +465,7 @@ dorsal spine length 35.1
 L. simillima has basicaudal plate 11.7-23.6% HL (our fish is 0.199)
 -->
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+One individual was caught by hand from shallow, fast flowing water over a rocky substrate on main river stem. Water temperature was 28.3&deg;C. The live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -475,9 +482,9 @@ INPA CTGA_14332.  144.3 mm SL.</br></br></br>
 
 Identification to species level follows <u>Armbruster (2008)</u> based on the following characters: evertible cheek plates with &gt; 10 hypertrophied odontodes; dentaries forming angle of &lt; 90&deg;; deep body, not dorso-ventrally flattened; lips lacking fimbriae; villiform teeth of equal size in premaxilla and dentary; colour pattern of four irregular dorsal saddles (first and second are usually combined in small specimens); dorsal and caudal fins without orange margin (in life); head plates not outlined in black; dark bar between eyes, and e-shaped dark blotch on the snout (broken in some specimens); and fins with dark and light bands of approximately equal width (irregular in some specimens). 
 
-An interesting observation is that our specimens exhibited a great deal of variation in terms if the degree of abdomen squamation and markings: some specimens were almost completely scaled, while others lacked scales, and some in between (<!-- for specimens above 90 mm in the first bag (dymo tags): 2 almost fully scaled and 3 partially scaled-->). The specimens with a scaled abdomen also had markings comprising spots or slightly coalesced spots. NEED TO QUANTIFY!
+An interesting observation is that our specimens exhibited variation in terms of the degree of abdomen plating and markings: adult specimens from rocky collection points near the mouth of the river showed complete abdomen plating and a vermiculated pattern (Fig YYY); those from further up the river lacked abdomen plating and associated colouration (with the exception of one individual that was partially plated with discrete spots).
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Twenty-eight individuals were caught by hand from both woody substrates and rocky substrates. NNN examples of live specimens are pictured in Figure YYY to illustrate variation in abdomen plating and colour pattern.
 
 ##### Figure
 
@@ -493,7 +500,7 @@ INPA CTGA_14316. 115.6 mm SL.</br></br></br>
 
 Identification to species level follows <u>Isbrücker & Nijssen (1976)</u> and <u>Covain & Fisch-Muller (2007)</u> based on the following characters: lower lip bilobate with median furrow; whip on upper caudal spine absent; abdomen covered with small plates lacking organisation; elliptical area of abdominal plates at level of pelvic girdle absent; rostrum not strongly pronounced; pelvic-fin spine longer than last pelvic-fin branched ray; colouration comprising dark dots (except ventral surface and anal fin); lower lobe of caudal darker than upper; and basicaudal spot present in juveniles; 
 
-Fishes were caught . Location? Examples are pictured preserved and alive in Figure YYY.
+Three individuals were caught by hand-net at night over a sandy/silty substrate in the lake-like lower reaches of the river. Water current was minimal. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -509,7 +516,7 @@ INPA CTGA_14542. 216.4 mm SL.</br></br></br>
 
 Identification to species level follows <u>Vera-Alcaraz et al. (2012)</u> and <u>Fichberg & Chamon (2008)</u> based on the following characters: postorbital notch present;  inferior lip with short, round papillae; teeth on dentary larger than premaxilla; four rows of lateral plates; all fins with a broad longitudinal dark band parallel to the first rays (fins almost entirely dark in our specimen); lower lip margin with long fringes; dorsal surface of head and predorsal region with two longitudinal dark bands. Note that the characteristic dorsal breeding odontodes of *R. lanceolata* were not visible in this single specimen (probably female).
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+One individual was caught by hand from shallow, fast flowing water over a rocky substrate on main river stem. Water temperature was 28.3&deg;C. The live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -525,7 +532,7 @@ INPA CTGA14330.  86.8 mm SL.</br></br></br>
 
 Identification to species level follows <u>Eigenmann & Eigenmann (1890)</u> based on the following characters: two rows of maxillary teeth (posterior row very small and hidden within the skin folds) and one row of dentary teeth; first dorsal and pectoral rays not spinous; adipose fin long; barbels flattened; upper jaw slightly prognathous; and dark spots on flanks and adipose fin.
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Five individuals were caught after being attracted to the boat by suspending a dead-fish bait in the water. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -541,7 +548,7 @@ INPA CTGA_14531. 254.0 mm SL.</br></br></br>
 
 Identification to species level follows <u>Lundberg & Aguilera (2003)</u> and <u>Mol (2012)</u> based on the following characters: dermal bones of the skull coarsely sculpted with reticulated ridges surrounding rounded pits; supraoccipital process greatly expanded laterally; anterior nuchal plate enlarged; colour pattern comprises dark upper and white/yellow lower parts of flank; and caudal fin bright red/orange.
 
-Fishes were caught. Location? Specimen not retained as a voucher. Pictured alive in Figure YYY.
+One individual was caught by baited hand-line in a deep pool of the main river stem. The live specimen is pictured in Figure YYY.
 
 ##### Figure
 
@@ -559,7 +566,7 @@ Identification to species level follows <u>Buitrago-Suárez & Burr (2007)</u> and
 
 While we follow the taxonomy of <u>Buitrago-Suárez & Burr (2007)</u>, we also consider the possibility that *P. reticulatum* Eigenmann & Eigenmann, 1889 is a junior subjective synonym of *P. fasciatum* (Linnaeus), in light of the study of <u>Carvalho-Costa et al. (2011)</u>, who reported minimal genetic differentiation among the taxa considered conspecific with *P. fasciatum* previous to the study of <u>Buitrago-Suárez & Burr (2007)</u>.
 
-Fishes were caught. Location? Specimens not retained as vouchers. Pictured alive in Figure YYY.
+Four individuals were caught at night using gill nets \[Val, where were these set?\]. The *Pseudoplatystoma* specimens were not retained as vouchers. An example of two live specimens is pictured in Figure YYY.
 
 ##### Figure
 
@@ -579,7 +586,7 @@ An important inconsistency should be noted regarding the caudal fin shape. <u>Ei
 
 <!-- Eigenmann pdf page 186, plate X page 631--><!-- remember there is info in Mol -->
 
-Fishes were caught. Location? Examples are pictured preserved and alive in Figure YYY.
+Four individuals were caught by hand from their lodgements in woody substrates at the margin of the main river stem. Water temperature was 28.9&deg;C. An example of a live specimen is pictured in Figure YYY.
 
 ##### Figure
 <img src="http://www.planetcatfish.com/forum/download/file.php?id=12873&t=1" alt="" width="500">
@@ -591,15 +598,29 @@ INPA CTGA_14497. 176.0 mm SL <!--biggest one CTGA14497 -->.</br></br></br>
 
 ### Discussion and Conclusions
 
-Our desk survey shows that few ichthyological surveys of the Rio Nhamundá have taken place. Very few records have been made, and our survey is one of the first to be made on the river. 
+#### Checklist
 
-The taxonomic composition of the collection is interesting. While many of the species recorded were cosmopolitan species of the lowland Amazon, such as  *Trachycorystes trachycorystes*, *Calophysus macropterus*, *Phractocephalus hemioliopterus*, *Lasiancistrus schomburgkii*, *Hypoptopoma incognitum*, and can be expected to be found in the lower reaches of most rivers, there are suggestions of connections to more specialised faunas. The presence of *Ancistrus dolichopterus*, *Dekeyseria scaphirhyncha*, and *Hypostomus carinatus*, for example, suggest links to the Rio Negro fauna and range extensions for these species. Species previously reported from the neighbouring Uatumã and Trombetas rivers and while *Tatia nigra*. 
 
-Detecting presence of restricted range fishes is important in setting conservation priorities <u>(Nogueira et al., 2010)</u>. Two fishes recorded are possibly endemics to the Rio Nhamundá, being *Pseudolithoxus XXX* sp. n. and *Tatia* aff. *musaica*. Further surveys upstream above the rapids may well show more endemics <u>(Alofs et al., 2014)</u>. 
 
-This checklist is clearly incomplete, missing entirely, for example, callichthyids, trichomycterids and aspredinids. The igarapé habitats were not sampled, which are more likely to yield these families.
+Our desk survey shows that few ichthyological surveys of the Rio Nhamundá have taken place, and that our survey is one of the first to be made on the river.  Range extensions for many species
+
+The taxonomic composition of the collection is interesting. While many of the species recorded were cosmopolitan species of the lowland Amazon, such as  *Auchenipterichthys longimanus*, *Trachycorystes trachycorystes*, *Goeldiella eques*, *Hypoptopoma incognitum*, *Lasiancistrus schomburgkii*, *Loricaria cataphracta*, *Pseudoloricaria laeviuscula*, *Rineloricaria lanceolata*, *Calophysus macropterus*, and *Phractocephalus hemioliopterus*&mdash;which can be expected to be found in the lower reaches of many Amazon draining tributaries&mdash;there are suggestions of connections to more specialised faunas. The presence of *Ancistrus dolichopterus*, *Dekeyseria scaphirhyncha*, and *Hypostomus carinatus*, for example, suggest links to the Rio Negro fauna. Some of the species, such as *Tatia nigra* are only known from other south draining rivers of the Guiana Shield, such as the neighbouring Uatumã and Trombetas rivers. Three species appear to have connections with the Orinoco river, being *Hypancistrus* aff. *furunculus*, *Tatia* aff. *musaica*, and *Pseudolithoxus XXX*. The affiliation of some such as *Leporacanthicus galaxias* and *Peckoltia vittata* are from the north draining Brazilian Shield rivers including the Tocantins, Tapajós, and Xingu.
+
+<!-- possibly endemics to the Rio Nhamundá,  -->
+
+Detecting presence of restricted range fishes is important in setting conservation priorities <u>(Nogueira et al., 2010)</u>. Further surveys upstream above the rapids may well show more endemics <u>(Alofs et al., 2014)</u>. 
+
+This checklist is clearly incomplete, missing entirely, for example, callichthyids, trichomycterids and aspredinids. Habitats, such as igarapés&mdash;which are more likely to yield these families&mdash;were only superficially sampled.
 
 Our results show that even rapid surveys can make valuable additions to biodiversity, with the discovery of new species and the range extensions for known species and adding to the data known on a species. The study also highlights the paucity of neotropical ichthyological data in GBIF data, and makes a small contribution. In addition to the traditional forms of data collected on biodiversity surveys (e.g. preserved specimen vouchers), our study provides "new" types of data in the form of DNA barcodes and images of the specimens' live colour pattern. These data will be invaluable in future studies addressing difficult groups. DNA barcodes from type material.
+
+#### New species
+
+<u>Armbruster & Provenzano (2000)</u> described four species of *Lasiancistrus* from the Upper Orinoco drainage, which were later moved by Isbrücker & Werner <u>(Isbrücker et al., 2001)</u> to the new genus *Pseudolithoxus*. <u>Lujan & Birindelli (2011)</u> later added an additional barred species to the genus, *P. kelsorum*, also from the upper Orinoco. 
+
+*Pseudolithoxus XXX* is the first of the genus reported from Brazil, and in particular the first from the Amazon-draining southern rivers of the Guiana Shield, raising interesting biogeographic questions about dispersal routes, vicariant events, and zoogeographic filters. 
+
+<!-- *P. nicoi* from the Casiquiare Canal is likely to be also found in the Upper Rio Negro of Brazil. -->
 
 
 
