@@ -5,6 +5,7 @@ Manuscript is written in markdown.
 ####To do list:
 * find out about the Pinirampus sample
 * GPS for Pinirampus, Pseudoplatystoma, Phractocephalus
+* size of Phractocephalus
 * find specimen CTGA_14289
 * find those that went straight to ethanol (tatias, pseudoloricaria juvs) 
 * do extractions and PCR
@@ -14,6 +15,11 @@ Manuscript is written in markdown.
 * write up species habitats
 * prepare/photoshop the images
 * transfer the paper online
+* check availability of barcodes for each species
+* look into barcode IDs
+* add details of species that were seen but not collected?
+* delete the Amblydoras and the Pinirampus?
+* add the Ossancora, Hassar, Pygidianops, Centromochlus sp. records to the checklist
 
 #### Done list:
 * find tissue samples (ask Val)
