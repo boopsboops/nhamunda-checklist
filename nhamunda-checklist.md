@@ -4,7 +4,11 @@
 
 The Rio Nhamundá is a poorly known river draining the southern Guiana Shield. In this study
 
-Our survey results comprise modern biodiversity data in the form of specimen vouchers, georeferenced collection points, tissue samples, DNA barcodes, and images of live fishes.
+Our survey results comprise modern biodiversity data in the form of specimen vouchers, georeferenced collection points, tissue samples, DNA barcodes, and images of live fishes.   Range extensions for many species. In addition to the traditional forms of data collected on biodiversity surveys (e.g. preserved specimen vouchers), our study provides "new" types of data in the form of DNA barcodes and images of live colour pattern, data which will be invaluable in future studies addressing difficult groups. 
+
+<!-- 
+We also provide DNA barcodes from type material of the new *Pseudolithoxus* species, data which will aim to assist in establishing the authenticity of sequences from collected materials <u>(Chakrabarty et al., 2013)</u>
+-->
 
 ### Introduction
 
@@ -598,32 +602,39 @@ INPA CTGA_14497. 176.0 mm SL <!--biggest one CTGA14497 -->.</br></br></br>
 
 ### Discussion and Conclusions
 
-#### Checklist
-
-
-
-Our desk survey shows that few ichthyological surveys of the Rio Nhamundá have taken place, and that our survey is one of the first to be made on the river.  Range extensions for many species
-
-The taxonomic composition of the collection is interesting. While many of the species recorded were cosmopolitan species of the lowland Amazon, such as  *Auchenipterichthys longimanus*, *Trachycorystes trachycorystes*, *Goeldiella eques*, *Hypoptopoma incognitum*, *Lasiancistrus schomburgkii*, *Loricaria cataphracta*, *Pseudoloricaria laeviuscula*, *Rineloricaria lanceolata*, *Calophysus macropterus*, and *Phractocephalus hemioliopterus*&mdash;which can be expected to be found in the lower reaches of many Amazon draining tributaries&mdash;there are suggestions of connections to more specialised faunas. The presence of *Ancistrus dolichopterus*, *Dekeyseria scaphirhyncha*, and *Hypostomus carinatus*, for example, suggest links to the Rio Negro fauna. Some of the species, such as *Tatia nigra* are only known from other south draining rivers of the Guiana Shield, such as the neighbouring Uatumã and Trombetas rivers. Three species appear to have connections with the Orinoco river, being *Hypancistrus* aff. *furunculus*, *Tatia* aff. *musaica*, and *Pseudolithoxus XXX*. The affiliation of some such as *Leporacanthicus galaxias* and *Peckoltia vittata* are from the north draining Brazilian Shield rivers including the Tocantins, Tapajós, and Xingu.
-
-<!-- possibly endemics to the Rio Nhamundá,  -->
-
-Detecting presence of restricted range fishes is important in setting conservation priorities <u>(Nogueira et al., 2010)</u>. Further surveys upstream above the rapids may well show more endemics <u>(Alofs et al., 2014)</u>. 
-
-This checklist is clearly incomplete, missing entirely, for example, callichthyids, trichomycterids and aspredinids. Habitats, such as igarapés&mdash;which are more likely to yield these families&mdash;were only superficially sampled.
-
-Our results show that even rapid surveys can make valuable additions to biodiversity, with the discovery of new species and the range extensions for known species and adding to the data known on a species. The study also highlights the paucity of neotropical ichthyological data in GBIF data, and makes a small contribution. In addition to the traditional forms of data collected on biodiversity surveys (e.g. preserved specimen vouchers), our study provides "new" types of data in the form of DNA barcodes and images of the specimens' live colour pattern. These data will be invaluable in future studies addressing difficult groups. DNA barcodes from type material.
-
 #### New species
 
-<u>Armbruster & Provenzano (2000)</u> described four species of *Lasiancistrus* from the Upper Orinoco drainage, which were later moved by Isbrücker & Werner <u>(Isbrücker et al., 2001)</u> to the new genus *Pseudolithoxus*. <u>Lujan & Birindelli (2011)</u> later added an additional barred species to the genus, *P. kelsorum*, also from the upper Orinoco. 
+<u>Armbruster & Provenzano (2000)</u> described four *Lasiancistrus* from the Upper Orinoco drainage, species which were later moved by Isbrücker & Werner <u>(Isbrücker et al., 2001)</u> to the new genus *Pseudolithoxus*. <u>Lujan & Birindelli (2011)</u> later added an additional barred species also from the upper Orinoco, *P. kelsorum*, to the genus. <u>Lujan & Birindelli (2011)</u> also list the homoplastic synapomorphies of *Pseudolithoxus* following <u>Armbruster (2008)</u>, viz. "posteromedial invagination of ceratobranchial 5 present (vs. absent), dorsomedial process on pterotic-supracleithrum present (vs. absent), and three to eight vertebrae from the first normal neural spine behind dorsal fin to spine under preadipose plate (vs. nine or more)". The genus *Pseudolithoxus* was found by both <u>Armbruster (2008)</u> with morphological data and <u>Covain & Fisch-Muller (2012)</u> with molecular data, to be the sistergroup to *Ancistrus*+*Lasiancistrus*. 
 
-*Pseudolithoxus XXX* is the first of the genus reported from Brazil, and in particular the first from the Amazon-draining southern rivers of the Guiana Shield, raising interesting biogeographic questions about dispersal routes, vicariant events, and zoogeographic filters. 
+*Pseudolithoxus XXX* is the first of the genus reported from Brazil, and in particular it is the first recorded from the Amazon-draining southern rivers of the Guiana Shield, raising interesting biogeographic questions about the dispersal routes, vicariant events, and zoogeographic filters of the region <u>(Winemiller et al., 2008)</u>. Regardless, only a molecular treatment of the genus will allow detailed hypotheses regarding the group's distribution to be tested. Whether the genus has a wider distribution than currently known awaits confirmation, but <u>Seidel & Evers (2005)</u> illustrate a fish purportedly from the Rio Guaporé (upper Madeira drainage) on the Brazil-Bolivia border, a highly disjunct location from the current known distribution of the genus on the Guiana Shield.
 
 <!-- *P. nicoi* from the Casiquiare Canal is likely to be also found in the Upper Rio Negro of Brazil. -->
+
+#### Checklist
+
+Our desk survey shows that few ichthyological surveys of the Rio Nhamundá have taken place, and that our collection is one of the first to be made on the river. The checklist is far from complete however, missing entirely the callichthyids and aspredinids, for example (we sampled habitats more likely to yield these families, such as igarapés, only superficially). Despite this, we feel that rapid publication of even modest datasets and small-scale surveys can make valuable additions to biodiversity science in the Amazon, by both presenting the early discovery of new species and the extension of ranges for known species. The study also highlights the paucity of neotropical ichthyological data in GBIF/GenBank, and makes a small contribution. 
+
+We applied a conservative approach to applying names to the species we collected, and where individuals differed from published literature we avoided identifying these simply as "sp." (unless the species was truly undetermined, as was the case for the *Pimelodella*). For example, the revision by <u>Armbruster (2008)</u> proposed *Peckoltia vittata* to be a wide ranging species of the Orinoco and Lower Amazon, whereas the aquarium industry refer to approximately ten populations of *Peckoltia*&mdash;which could be considered *P. vittata* by <u>Armbruster (2008)</u>&mdash;as separate species each designated its own L (Loricariidae) number for putatively undescribed taxa in the trade <u>(Seidel & Evers, 2005)</u>. While future molecular and morphological analysis may show that some of these populations are in fact supported as distinct species, referring to them as such at this stage would hamper such efforts by atomising biodiversity data associated with related species/populations. Therefore, where a species was thought to be distinct, we preferred the *aff.* and *cf.* terminology to link the records to other collection events/species.
+
+#### Biogeography
+
+The biogeographic composition of the collection is interesting. While many of the species recorded were cosmopolitan species of the lowland Amazon&mdash;e.g. *Auchenipterichthys longimanus*, *Trachycorystes trachycorystes*, *Goeldiella eques*, *Hypoptopoma incognitum*, *Lasiancistrus schomburgkii*, *Loricaria cataphracta*, *Pseudoloricaria laeviuscula*, *Rineloricaria lanceolata*, *Calophysus macropterus*, and *Phractocephalus hemioliopterus*&mdash;there are suggestions of connections to more specialised faunas. For example: the presence of *Ancistrus dolichopterus*, *Dekeyseria scaphirhyncha* and *Hypostomus carinatus*, suggest links to the Rio Negro fauna; *Tatia nigra*, however, is only known from the neighbouring Uatumã and Trombetas rivers, both south draining rivers of the Guiana Shield; three species&mdash;*Tatia* aff. *musaica*, *Ancistrus* aff. *macrophthalmus* and *Pseudolithoxus XXX* (see discussion above)&mdash;appear to have connections with the Orinoco river; while the presence of *Leporacanthicus galaxias* in particular is strange, because although possibly similar forms are reported from the Orinoco and Madeira drainages <u>(Seidel & Evers, 2005)</u>, this is a species known from the Rio Tocantins, a north draining Brazilian Shield river far to the east.
+
+Thus, the ichthyofauna of the Rio Nhamundá appears to have some interesting affiliations to several faunal areas. This is perhaps exemplified by the best known fish from the river, the discus cichlid *Symphysodon*. Specimens exported from this locality are famous in the aquarium trade for their phenotypic variation <u>(Bleher, 2006)</u>. Genetic groups of both the Heckel (*S. discus*) and brown (*S. aequifasciatus*) discus species are found in sympatry in the Nhamundá, which may in fact comprise an area of natural hybridisation between the two species <u>(Villar Amado et al., 2011)</u>. 
+
+<!-- possibly endemics to the Rio Nhamundá,  with many possible hypotheses that could be tested. location to , test hypothesis of endemicity and phylogeography with molecular data. , which certainly warrants further attention with regard to phylogeography and molecular data.   In the Nhamundá, considerable diversity in phenotypic variation is reported to occur in this fish, with b
+*Hypancistrus* aff. *furunculus* 
+and *Peckoltia vittata*
+s including the , Tapajós, and Xingu-->
+
+In summary, the Nhamundá may therefore be an important location  the Detecting presence of restricted range fishes is important in setting conservation priorities <u>(Nogueira et al., 2010)</u>. Further surveys are required in the upper section of the river above the rapids, and these  may well show possibly endemic species <u>(Alofs et al., 2014)</u>. 
+
+
+
+
 
 
 
 ### Acknowledgements
 
-Collection permits. Funding. Reviewers. Nathan Lujan for morpho help. Heok Hee Ng for literature. Manuel Torres (?) other guy (?) and Maria for boat etc.
+Collection permits? Funding? Reviewers. We thank: Nathan Lujan for assistance with landmarks and discussion on *Pseudolithoxus*;  Heok Hee Ng for help with literature; Manuel Torres (correct spelling?), other guy (forgot his name) and Maria() for access to the boat and collecting expertise.
