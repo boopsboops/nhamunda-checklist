@@ -9,6 +9,8 @@ use airbrush for fine details and to blend
 select the image layer, and use the 'Unsharp mask' (Filters > Enhance > Unsharp Mask)
 to correct marks and bits of shit, use the 'Healing tool'
 
+if need colour other than black, select the colour box in the layers list, and apply the 'bucket fill'
+
 to export, make a rectangle around the image, right click, and 'copy visible'
 right click again, and 'Edit > Paste as > New image'
 then in the new image, go 'File > Export > Tiff' resizing if required in 'Image > Scale image'
@@ -16,3 +18,5 @@ then in the new image, go 'File > Export > Tiff' resizing if required in 'Image 
 if need to rotate, copy square, and 'Paste as > New layer'
 toggle the other layers on off to make easier, then go to Layer > Transform > Arbitrary rotation'
 repeat export with new rectangle
+
+best to copy the rotated and cropped selection into a new, temporary image, and then rescale to 3000px followed by subtle unsharp mask (radius 3, amount 0.35). save at 90% to get around 1mb file.
