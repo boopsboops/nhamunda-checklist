@@ -12,14 +12,10 @@ Manuscript is written in markdown.
 * take specimens to INPA and get accessions
 * check INPA for collections in Trometas and Lower Nhamunda (Centromochlus)
 * finish intro and conclusion sections
-* write up species habitats
-* prepare/photoshop the images
-* transfer the paper online
-* check availability of barcodes for each species
 * look into barcode IDs
 * add details of species that were seen but not collected?
 * delete the Amblydoras and the Pinirampus?
-* add the Ossancora, Hassar, Pygidianops, Centromochlus sp. records to the checklist
+
 
 #### Done list:
 * find tissue samples (ask Val)
@@ -30,3 +26,8 @@ Manuscript is written in markdown.
 * write DwC archive and CSV
 * prepare the morphometrics table
 * add al references to online system
+* write up species habitats
+* prepare/photoshop the images
+* transfer the paper online
+* check availability of barcodes for each species
+* add the Ossancora, Hassar, Pygidianops, Centromochlus sp. records to the checklist
