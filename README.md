@@ -5,7 +5,7 @@ Manuscript is written in markdown.
 ####To do list:
 * find out about the Pinirampus sample
 * GPS for Pinirampus, Pseudoplatystoma, Phractocephalus
-* size of Phractocephalus
+* size of Phractocephalus and Pseudoplatystoma
 * find specimen CTGA_14289
 * find those that went straight to ethanol (tatias, pseudoloricaria juvs) 
 * do extractions and PCR
@@ -15,6 +15,7 @@ Manuscript is written in markdown.
 * look into barcode IDs
 * add details of species that were seen but not collected?
 * delete the Amblydoras and the Pinirampus?
+* redo the map adding accent to Jatapu, filling in the place square markers, and increasing map size
 
 
 #### Done list:
