@@ -2,9 +2,9 @@
 ------
 ### Abstract
 
-The Rio Nhamundá is a poorly known river draining the southern Guiana Shield. In this study
+The Rio Nhamundá is a poorly-known clearwater river draining the southern Guiana Shield of Brazil. In this study we report the findings of a preliminary ichthyological survey of the river, focusing here on catfishes (Siluriformes). We identify a total of 32 species (seven families) from the river, and include four species already known from museum collections. One suckermouth catfish species (Loricariidae, *Pseudolithoxus* sp. n.) collected on the survey we describe as new, and can be distinguished from its congeners on the basis of unique colour pattern: body with large pale spots on a dark background (versus bars in *P. kelsorum* and *P. tigris*; large dark spots on a pale background in *P. dumus*; and small white dots on a black background in *P. nicoi* and *P. anthrax*). This species represents the first *Pseudolithoxus* from the Amazon basin of Brazil. Overall, our survey results show that even rapid surveys can provide important information on Amazon fish biodiversity, providing a new species description, range extensions for many species, and additionally highlighting taxa in need of taxonomic revision and genetic study. As well as the traditional forms of data collected on biodiversity surveys (i.e. preserved specimen vouchers), our study also provides "new" types of data in the form of DNA barcodes and images of live colour pattern, information which will be invaluable in future studies addressing those difficult groups.
 
-Our survey results comprise modern biodiversity data in the form of specimen vouchers, georeferenced collection points, tissue samples, DNA barcodes, and images of live fishes.   Range extensions for many species. In addition to the traditional forms of data collected on biodiversity surveys (e.g. preserved specimen vouchers), our study provides "new" types of data in the form of DNA barcodes and images of live colour pattern, data which will be invaluable in future studies addressing difficult groups. 
+<!-- specimen vouchers, georeferenced collection points, tissue samples, DNA barcodes, and images of live fishes. -->  
 
 <!-- 
 We also provide DNA barcodes from type material of the new *Pseudolithoxus* species, data which will aim to assist in establishing the authenticity of sequences from collected materials <u>(Chakrabarty et al., 2013)</u>
@@ -172,7 +172,7 @@ INPA CTGA_14508.  47.8 mm SL.</br></br></br>
 #### *Tatia nigra* Sarmento-Soares & Martins-Pinheiro, 2008
 
 ##### Notes
-Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> based on the following characters: dark brown body color; and short post-cleithral process (about 60% of head length) not reaching vertical through origin of dorsal fin. 
+Identification to species level follows <u>Sarmento-Soares & Martins-Pinheiro (2008)</u> based on the following characters: dark brown body colour; and short post-cleithral process (about 60% of head length) not reaching vertical through origin of dorsal fin. 
 
 Four individuals were caught by hand from their lodgements in woody substrates at the margin of the main river stem (they were also observed in rocky habitats, but were more difficult to catch in this situation). Water temperature was 28.9&deg;C. An example of a live specimen is pictured in Figure YYY.
 
