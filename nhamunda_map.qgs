@@ -4,10 +4,10 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>-62.00779015671863448</xmin>
-            <ymin>-5.89483728425391718</ymin>
-            <xmax>-52.57676630688150254</xmax>
-            <ymax>-0.01575748175804681</ymax>
+            <xmin>-57.16769737643633675</xmin>
+            <ymin>-2.11669668166371272</ymin>
+            <xmax>-56.87297788112891794</xmax>
+            <ymax>-1.92771624192460456</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -23,20 +23,20 @@
             </spatialrefsys>
         </destinationsrs>
     </mapcanvas>
-    <legend updateDrawingOrder="false" activeLayer="hidro_tot_linha20131104103720697">
-        <legendlayer drawingOrder="5" open="false" checked="Qt::Checked" name="shade" showFeatureCount="0">
+    <legend updateDrawingOrder="false" activeLayer="shade20131104103658267">
+        <legendlayer drawingOrder="5" open="false" checked="Qt::Unchecked" name="shade" showFeatureCount="0">
             <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="shade20140317165115094" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="shade20140317165115094" visible="0"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="1" open="true" checked="Qt::Unchecked" name="hidro_tot_poligono" showFeatureCount="0">
+        <legendlayer drawingOrder="1" open="true" checked="Qt::Checked" name="hidro_tot_poligono" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="hidro_tot_poligono20131104103743370" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="hidro_tot_poligono20131104103743370" visible="1"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="0" open="true" checked="Qt::Unchecked" name="sedes_mun_nhamunda" showFeatureCount="0">
+        <legendlayer drawingOrder="0" open="true" checked="Qt::Checked" name="sedes_mun_nhamunda" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="sedes_mun_nhamunda20140317153703704" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="sedes_mun_nhamunda20140317153703704" visible="1"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="2" open="true" checked="Qt::Unchecked" name="sedes_mun" showFeatureCount="0">
@@ -44,67 +44,25 @@
                 <legendlayerfile isInOverview="0" layerid="sedes_mun20140317142441647" visible="0"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="3" open="true" checked="Qt::Unchecked" name="hidro_tot_linha" showFeatureCount="0">
-            <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="hidro_tot_linha20131104103720697" visible="0"/>
-            </filegroup>
-        </legendlayer>
         <legendlayer drawingOrder="4" open="false" checked="Qt::Checked" name="shade" showFeatureCount="0">
             <filegroup open="false" hidden="false">
                 <legendlayerfile isInOverview="0" layerid="shade20131104103658267" visible="1"/>
             </filegroup>
         </legendlayer>
+        <legendlayer drawingOrder="3" open="false" checked="Qt::Checked" name="hidro_tot_linha" showFeatureCount="0">
+            <filegroup open="false" hidden="false">
+                <legendlayerfile isInOverview="0" layerid="hidro_tot_linha20131104103720697" visible="1"/>
+            </filegroup>
+        </legendlayer>
     </legend>
-    <Composer title="map_print_inset" visible="0">
-        <Composition printResolution="300" paperWidth="304.8" snapGridOffsetX="0" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="254" alignmentSnapTolerance="2" printAsRaster="0">
-            <ComposerMap keepLayerSet="false" overviewFrameMap="0" id="1" previewMode="Cache" drawCanvasItems="true">
-                <overviewFrame overviewBlendMode="0" overviewFrameMap="0" overviewInverted="false">
+    <Composer title="map_print_inset" visible="1">
+        <Composition printResolution="300" paperWidth="300" snapGridOffsetX="0" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="200" alignmentSnapTolerance="2" printAsRaster="0">
+            <ComposerMap keepLayerSet="true" overviewFrameMap="2" id="0" previewMode="Cache" drawCanvasItems="true">
+                <overviewFrame overviewBlendMode="0" overviewFrameMap="2" overviewInverted="false">
                     <symbol alpha="0.3" type="fill" name="">
                         <layer pass="0" class="SimpleFill" locked="0">
                             <prop k="border_width_unit" v="MM"/>
                             <prop k="color" v="0,0,0,255"/>
-                            <prop k="color_border" v="114,133,132,255"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="style" v="solid"/>
-                            <prop k="style_border" v="solid"/>
-                            <prop k="width_border" v="0.26"/>
-                        </layer>
-                    </symbol>
-                </overviewFrame>
-                <Extent ymin="-9.8517" xmin="-81.798" ymax="13.9054" xmax="-48.4432"/>
-                <LayerSet/>
-                <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
-                    <symbol alpha="1" type="line" name="">
-                        <layer pass="0" class="SimpleLine" locked="0">
-                            <prop k="capstyle" v="flat"/>
-                            <prop k="color" v="0,0,0,255"/>
-                            <prop k="customdash" v="5;2"/>
-                            <prop k="customdash_unit" v="MM"/>
-                            <prop k="joinstyle" v="bevel"/>
-                            <prop k="offset" v="0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="penstyle" v="solid"/>
-                            <prop k="use_custom_dash" v="0"/>
-                            <prop k="width" v="0.3"/>
-                            <prop k="width_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Ubuntu,11,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
-                        <fontColor red="0" blue="0" green="0"/>
-                    </Annotation>
-                </Grid>
-                <ComposerItem width="142.776" x="160.024" transparency="0" y="1.54893" rotation="0" height="101.693" positionMode="0" frame="true" outlineWidth="0.5" zValue="7" lastValidViewScaleFactor="1.54976" uuid="{dbcdbed4-d117-458b-97fa-d0862daee82a}" id="" background="false" blendMode="0" positionLock="false">
-                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
-                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-                </ComposerItem>
-            </ComposerMap>
-            <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="false">
-                <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
-                    <symbol alpha="0.3" type="fill" name="">
-                        <layer pass="0" class="SimpleFill" locked="0">
-                            <prop k="border_width_unit" v="MM"/>
-                            <prop k="color" v="255,0,0,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
                             <prop k="offset_unit" v="MM"/>
@@ -114,12 +72,10 @@
                         </layer>
                     </symbol>
                 </overviewFrame>
-                <Extent ymin="-4.57653" xmin="-61.9776" ymax="2.11016" xmax="-53.9536"/>
+                <Extent ymin="-13.6838" xmin="-83.3917" ymax="12.6641" xmax="-33.3575"/>
                 <LayerSet>
-                    <Layer>sedes_mun_nhamunda20140317153703704</Layer>
-                    <Layer>hidro_tot_poligono20131104103743370</Layer>
-                    <Layer>hidro_tot_linha20131104103720697</Layer>
                     <Layer>shade20131104103658267</Layer>
+                    <Layer>shade20140317165115094</Layer>
                 </LayerSet>
                 <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
                     <symbol alpha="1" type="line" name="">
@@ -141,7 +97,54 @@
                         <fontColor red="0" blue="0" green="0"/>
                     </Annotation>
                 </Grid>
-                <ComposerItem width="304.8" x="0" transparency="0" y="0" rotation="0" height="254" positionMode="0" frame="false" outlineWidth="0.3" zValue="6" lastValidViewScaleFactor="1.54976" uuid="{c7b71d49-34e7-4fa8-a375-83f2e451cead}" id="" background="true" blendMode="0" positionLock="false">
+                <ComposerItem width="150.146" x="144.073" transparency="0" y="6.59365" rotation="0" height="79.0666" positionMode="0" frame="true" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="3.03322" uuid="{daa0fcaf-7285-45cf-9c61-9f861adbe590}" id="" background="true" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerMap>
+            <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="2" previewMode="Cache" drawCanvasItems="true">
+                <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+                    <symbol alpha="0.3" type="fill" name="">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="255,0,0,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="no"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </overviewFrame>
+                <Extent ymin="-4.52286" xmin="-62.0635" ymax="2.52327" xmax="-51.3248"/>
+                <LayerSet>
+                    <Layer>sedes_mun_nhamunda20140317153703704</Layer>
+                    <Layer>hidro_tot_poligono20131104103743370</Layer>
+                    <Layer>hidro_tot_linha20131104103720697</Layer>
+                    <Layer>shade20131104103658267</Layer>
+                </LayerSet>
+                <Grid gridStyle="1" crossLength="0" intervalX="1" offsetX="0" intervalY="1" offsetY="0" gridFrameStyle="1" gridFrameWidth="0.5" gridBlendMode="0" show="1">
+                    <symbol alpha="1" type="line" name="">
+                        <layer pass="0" class="SimpleLine" locked="0">
+                            <prop k="capstyle" v="flat"/>
+                            <prop k="color" v="0,0,0,255"/>
+                            <prop k="customdash" v="5;2"/>
+                            <prop k="customdash_unit" v="MM"/>
+                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="offset" v="0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="penstyle" v="solid"/>
+                            <prop k="use_custom_dash" v="0"/>
+                            <prop k="width" v="0.3"/>
+                            <prop k="width_unit" v="MM"/>
+                        </layer>
+                    </symbol>
+                    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="2" precision="1" leftDirection="1" rightPosition="2" bottomPosition="1" frameDistance="1" show="1" font="Ubuntu,11,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+                        <fontColor red="0" blue="0" green="0"/>
+                    </Annotation>
+                </Grid>
+                <ComposerItem width="292.429" x="5.27492" transparency="0" y="2.63746" rotation="0" height="191.875" positionMode="0" frame="false" outlineWidth="0" zValue="3" lastValidViewScaleFactor="3.03322" uuid="{2564d299-9c82-4ad0-8c7e-579e20c299ae}" id="" background="false" blendMode="0" positionLock="false">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -758,7 +761,7 @@
             <excludeAttributesWFS/>
             <attributeactions/>
         </maplayer>
-        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
             <id>sedes_mun_nhamunda20140317153703704</id>
             <datasource>../../Research/Maps/base/Politico/Amazonia legal/municipios_orig/sedes_mun_nhamunda.shp</datasource>
             <title></title>
@@ -792,11 +795,11 @@
                             <prop k="name" v="rectangle"/>
                             <prop k="offset" v="0,0"/>
                             <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
+                            <prop k="outline_width" v="0.01"/>
+                            <prop k="outline_width_unit" v="MapUnit"/>
                             <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
+                            <prop k="size" v="0.08"/>
+                            <prop k="size_unit" v="MapUnit"/>
                         </layer>
                     </symbol>
                 </symbols>
@@ -991,7 +994,7 @@
             </customproperties>
             <provider>gdal</provider>
             <pipe>
-                <rasterrenderer opacity="0.741176" alphaBand="-1" band="1" type="paletted">
+                <rasterrenderer opacity="0.74902" alphaBand="-1" band="1" type="paletted">
                     <rasterTransparency/>
                     <colorPalette>
                         <paletteEntry value="0" color="#000000"/>
