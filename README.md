@@ -3,20 +3,22 @@
 Manuscript is written in markdown.
 
 ####To do list:
-* find out about the Pinirampus sample
+
 * GPS for Pinirampus, Pseudoplatystoma, Phractocephalus
-* find specimen CTGA_14289
-* find those that went straight to ethanol (tatias, pseudoloricaria juvs) 
 * do extractions and PCR
 * take specimens to INPA and get accessions
 * check INPA for collections in Trombetas and Lower Nhamunda (Centromochlus)
-* finish intro and conclusion sections
 * look into barcode IDs
-* add details of species that were seen but not collected?
-* delete the Amblydoras and the Pinirampus?
+* delete the Amblydoras?
 
 
 #### Done list:
+* write mol methods
+* finish intro and conclusion sections
+* add details of species that were seen but not collected?
+* find out about the Pinirampus sample
+* find specimen CTGA_14289
+* find those that went straight to ethanol (tatias, pseudoloricaria juvs) 
 * find tissue samples (ask Val)
 * get spreadsheet from Val
 * choose specimens to barcode
