@@ -2,9 +2,13 @@ occurrenceID,associatedSequences,family,genus,specificEpithet,decimalLatitude,de
 UFAM:CTGA:14289,tbc,Auchenipteridae,Auchenipterichthys,longimanus,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14501,tbc,Auchenipteridae,Auchenipterichthys,longimanus,-1.84123,-57.07212,sequence,yes,,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14502,tbc,Auchenipteridae,Auchenipterichthys,longimanus,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
-UFAM:CTGA:14421,tbc,Auchenipteridae,Tatia,musaica,-1.71782,-57.36856,,yes,9 from NH12. 2 in ethanol,NH08,
-UFAM:CTGA:14507,tbc,Auchenipteridae,Tatia,musaica,-1.84123,-57.07212,,yes,9 from NH12. 2 in ethanol,NH04,Río en frente de Lagoa Sete Ilhas
-UFAM:CTGA:14508,tbc,Auchenipteridae,Tatia,musaica,-1.84123,-57.07212,sequence,yes,9 from NH12. 2 in ethanol,NH04,Río en frente de Lagoa Sete Ilhas
+UFAM:CTGA:14421,tbc,Auchenipteridae,Tatia,musaica,-1.71782,-57.36856,,yes,9 from NH12,NH08,
+UFAM:CTGA:14038,tbc,Auchenipteridae,Tatia,musaica,-1.71782,-57.36856,,no,9 from NH12,NH08,
+UFAM:CTGA:14039,tbc,Auchenipteridae,Tatia,musaica,-1.71782,-57.36856,,no,9 from NH12,NH08,
+UFAM:CTGA:14507,tbc,Auchenipteridae,Tatia,musaica,-1.84123,-57.07212,,yes,9 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
+UFAM:CTGA:14508,tbc,Auchenipteridae,Tatia,musaica,-1.84123,-57.07212,sequence,yes,9 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
+UFAM:CTGA:14040,tbc,Auchenipteridae,Tatia,musaica,-1.84123,-57.07212,,no,9 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
+UFAM:CTGA:14041,tbc,Auchenipteridae,Tatia,musaica,-1.84123,-57.07212,,no,9 from NH12,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14503,tbc,Auchenipteridae,Tatia,nigra,-1.84123,-57.07212,sequence,yes,,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14504,tbc,Auchenipteridae,Tatia,nigra,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
 UFAM:CTGA:14505,tbc,Auchenipteridae,Tatia,nigra,-1.84123,-57.07212,,yes,,NH04,Río en frente de Lagoa Sete Ilhas
@@ -83,7 +87,12 @@ UFAM:CTGA:14486,tbc,Loricariidae,Pseudolithoxus,sp. n.,-1.71782,-57.36856,,yes,1
 UFAM:CTGA:14541,tbc,Loricariidae,Pseudoloricaria,laeviuscula,-2.02386,-56.78235,,yes,,NH12,Com. Guariba - rio Nhamundá
 UFAM:CTGA:14542,tbc,Loricariidae,Pseudoloricaria,laeviuscula,-2.02386,-56.78235,sequence,yes,,NH12,Com. Guariba - rio Nhamundá
 UFAM:CTGA:14543,tbc,Loricariidae,Pseudoloricaria,laeviuscula,-2.02386,-56.78235,,yes,,NH12,Com. Guariba - rio Nhamundá
+UFAM:CTGA:14042,tbc,Loricariidae,Pseudoloricaria,laeviuscula,-1.6909,-57.42231,,no,,NH05,
+UFAM:CTGA:14043,tbc,Loricariidae,Pseudoloricaria,laeviuscula,-1.6909,-57.42231,,no,,NH05,
+UFAM:CTGA:14046,tbc,Loricariidae,Pseudoloricaria,laeviuscula,-1.6909,-57.42231,,no,,NH05,
+UFAM:CTGA:14047,tbc,Loricariidae,Pseudoloricaria,laeviuscula,-1.6909,-57.42231,,no,,NH05,
 UFAM:CTGA:14330,tbc,Loricariidae,Rineloricaria,lanceolata,-1.6909,-57.42231,sequence,yes,,NH05,
+UFAM:CTGA:14044,tbc,Loricariidae,Rineloricaria,lanceolata,-1.6909,-57.42231,,no,,NH05,
 UFAM:CTGA:14408,tbc,Pimelodidae,Calophysus,macropterus,-1.67511,-57.47678,,yes,,,Chave_rio Nhamundá
 UFAM:CTGA:14528,tbc,Pimelodidae,Calophysus,macropterus,-2.02386,-56.78235,,yes,,NH12,Com. Guariba - rio Nhamundá
 UFAM:CTGA:14529,tbc,Pimelodidae,Calophysus,macropterus,-2.02386,-56.78235,,yes,,NH12,Com. Guariba - rio Nhamundá
