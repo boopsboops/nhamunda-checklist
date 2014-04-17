@@ -2,17 +2,29 @@
 
 Manuscript is written in markdown.
 
-####To do list:
-
-* GPS for Pinirampus, Pseudoplatystoma, Phractocephalus
+#### To do list:
 * do extractions and PCR
 * take specimens to INPA and get accessions
+* add accessions to materials
+* submit data to GenBank
 * check INPA for collections in Trombetas and Lower Nhamunda (Centromochlus)
 * look into barcode IDs
 * delete the Amblydoras?
+* change Pseudolithoxus species name in text and in materials
+* do funding (email Tomas)
+* ask Val to check spelling of Manoel Torres etc 
+
+#### Acknowledgements:
+* Nathan Lujan for assistance with landmarks and discussion on Pseudolithoxus;  Heok Hee Ng for help with literature;
+* Collection permits?
+* Reviewers. 
 
 
 #### Done list:
+* do author contributions (not doing?)
+* upload supplementary files 
+* do keywords
+* GPS for Pinirampus, Pseudoplatystoma, Phractocephalus
 * write mol methods
 * finish intro and conclusion sections
 * add details of species that were seen but not collected?
