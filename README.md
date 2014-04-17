@@ -12,7 +12,8 @@ Manuscript is written in markdown.
 * delete the Amblydoras?
 * change Pseudolithoxus species name in text and in materials
 * do funding (email Tomas)
-* ask Val to check spelling of Manoel Torres etc 
+* ask Val to check spelling of Manoel Torres etc
+* Portuguese abstract
 
 #### Acknowledgements:
 * Nathan Lujan for assistance with landmarks and discussion on Pseudolithoxus;  Heok Hee Ng for help with literature;
