@@ -14,6 +14,7 @@ Manuscript is written in markdown.
 * do funding (email Tomas)
 * ask Val to check spelling of Manoel Torres etc
 * Portuguese abstract
+* measure and find paratype in Fig 3 live colour 
 
 #### Acknowledgements:
 * Nathan Lujan for assistance with landmarks and discussion on Pseudolithoxus;  Heok Hee Ng for help with literature;
