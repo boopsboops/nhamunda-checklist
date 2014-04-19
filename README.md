@@ -15,6 +15,8 @@ Manuscript is written in markdown.
 * ask Val to check spelling of Manoel Torres etc
 * Portuguese abstract
 * measure and find paratype in Fig 3 live colour 
+* add approx length for hypoptopoma figure
+* check about aff. and sp. in species headings
 
 #### Acknowledgements:
 * Nathan Lujan for assistance with landmarks and discussion on Pseudolithoxus;  Heok Hee Ng for help with literature;
