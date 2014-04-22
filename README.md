@@ -8,14 +8,14 @@ Manuscript is written in markdown.
 * add accessions to materials
 * submit data to GenBank
 * remember to remove BARCODE genbank annotations fromm specimens without vouchers
-* check INPA for collections in Trombetas and Lower Nhamunda (Centromochlus)
+* check INPA for collections in Trombetas and Lower Nhamunda (Centromochlus INPA 35087)
 * look into barcode IDs
 * delete the Amblydoras?
 * change Pseudolithoxus species name in text and in materials
 * do funding (email Tomas)
 * ask Val to check spelling of Manoel Torres etc
 * Portuguese abstract
-* measure and find paratype in Fig 3 live colour 
+* measure and find Pseudolithoxus paratype in Fig 3 live colour 
 * add approx length for hypoptopoma figure
 * check about aff. and sp. in species headings
 * find and measure Peckoltias used the figure
