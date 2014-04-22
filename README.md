@@ -7,6 +7,7 @@ Manuscript is written in markdown.
 * take specimens to INPA and get accessions
 * add accessions to materials
 * submit data to GenBank
+* remember to remove BARCODE genbank annotations fromm specimens without vouchers
 * check INPA for collections in Trombetas and Lower Nhamunda (Centromochlus)
 * look into barcode IDs
 * delete the Amblydoras?
@@ -17,9 +18,10 @@ Manuscript is written in markdown.
 * measure and find paratype in Fig 3 live colour 
 * add approx length for hypoptopoma figure
 * check about aff. and sp. in species headings
+* find and measure Peckoltias used the figure
 
 #### Acknowledgements:
-* Nathan Lujan for assistance with landmarks and discussion on Pseudolithoxus;  Heok Hee Ng for help with literature;
+* Nathan Lujan for assistance with landmarks and discussion on Pseudolithoxus; Heok Hee Ng for help with literature;
 * Collection permits?
 * Reviewers. 
 
