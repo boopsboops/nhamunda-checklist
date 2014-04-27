@@ -11,17 +11,11 @@ Manuscript is written in markdown.
 * check INPA for collections in Trombetas and Lower Nhamunda (Centromochlus INPA 35087)
 * look into barcode IDs
 * do funding (email Tomas)
-* Portuguese abstract
 * check about aff. and sp. in species headings
+* finalise percent divergence of Scorpiodoras and maybe add tree/script for ID.
 
-
-#### Acknowledgements:
-* Nathan Lujan for assistance with landmarks and discussion on Pseudolithoxus; Heok Hee Ng for help with literature;
-* Collection permits?
-* Reviewers. 
-
-
-#### Done list
+#### Done list:
+* Portuguese abstract
 * ask Val to check spelling of Manoel Torres etc
 * change Pseudolithoxus species name in text and in materials
 * photograph the holotype
@@ -55,3 +49,9 @@ Manuscript is written in markdown.
 * size of Phractocephalus and Pseudoplatystoma
 * capture technique for sacos and Pseudoplatystoma
 * redo the map adding accent to Jatapu, filling in the place square markers, and increasing map size
+
+
+#### Acknowledgements:
+* Nathan Lujan for assistance with landmarks and discussion on Pseudolithoxus; Heok Hee Ng for help with literature;
+* Collection permits?
+* Reviewers. 
