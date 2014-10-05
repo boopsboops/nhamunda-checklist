@@ -1,4 +1,5 @@
 # rm(list = ls())
+require("ape")
 
 # open table
 tab <- read.table("/home/rupert/LaTeX/nhamunda-checklist/seq_siluriformes_nhamunda.csv", header=TRUE, sep=",", stringsAsFactors=FALSE)
@@ -18,6 +19,13 @@ com <- paste(nam, stab$sequence, sep="\n")
 #export the file
 write(com, file="file")#?write
 
+## NJ tree check
+
+nam <- paste(">", gsub("UFAM:CTGA:", "", stab$occurrenceID), "|", stab$genus, "_", stab$specificEpithet, sep="")
+com <- paste(nam, stab$sequence, sep="\n")
+write(com, file="nhamunda_seqs.fas")
+ns <- read.dna(file="nhamunda_seqs_alignment.fasta", format="fasta")
+plot(nj(dist.dna(ns, model="raw", pairwise.deletion=TRUE)))
 
 ### for the SOURCE MODIFIERS
 
