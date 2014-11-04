@@ -2,7 +2,7 @@
 require("ape")
 
 # open table
-tab <- read.table("/home/rupert/LaTeX/nhamunda-checklist/seq_siluriformes_nhamunda.csv", header=TRUE, sep=",", stringsAsFactors=FALSE)
+tab <- read.table("/home/rupert/Projects/nhamunda-checklist/seq_siluriformes_nhamunda.csv", header=TRUE, sep=",", stringsAsFactors=FALSE)
 
 # subset the sequenced individuals
 stab <- tab[tab$to_sequence == "sequence",]
@@ -12,8 +12,9 @@ stab <- tab[tab$to_sequence == "sequence",]
 
 nam <- paste(">", gsub("UFAM:CTGA:", "", stab$occurrenceID), "|", stab$genus, "_", stab$specificEpithet, sep="")
 com <- paste(nam, stab$sequence, sep="\n")
-write(com, file="nhamunda_seqs.fas")
-ns <- read.dna(file="nhamunda_seqs_alignment.fasta", format="fasta")
+write(com, file="/home/rupert/Projects/nhamunda-checklist/sequences/nhamunda_seqs.fas")
+#align externally
+ns <- read.dna(file="/home/rupert/Projects/nhamunda-checklist/sequences/nhamunda_seqs_aligned.fasta", format="fasta")
 plot(nj(dist.dna(ns, model="raw", pairwise.deletion=TRUE)))
 
 
