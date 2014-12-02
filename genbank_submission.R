@@ -35,7 +35,7 @@ write(com, file="/home/rupert/Projects/nhamunda-checklist/genbank/sequences.fast
 # create a new dataframe
 frm <- data.frame(cbind(
 gsub("UFAM:CTGA:", "", stab$occurrenceID), 
-rep("Valéria Nogueira Machado, Emanuell Duarte Ribeiro, Rupert A. Collins", length(stab$occurrenceID)), 
+#rep("Valéria Nogueira Machado, Emanuell Duarte Ribeiro, Rupert A. Collins", length(stab$occurrenceID)), 
 rep("Nov-2013", length(stab$occurrenceID)), 
 rep("Brazil", length(stab$occurrenceID)), 
 rep("Rupert A. Collins", length(stab$occurrenceID)), 
