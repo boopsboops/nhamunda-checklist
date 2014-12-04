@@ -3,18 +3,24 @@
 Manuscript is written in markdown.
 
 #### To do list:
-* do extractions and PCR
-* take specimens to INPA and get accessions
-* add accessions to materials
+* check INPA for collections of further specimens from lower Nhamunda
+* add collection code ("Peixes"?) for the INPA material into all materials on paper
+* add Hypostomus plecostomus to checklist
+* confirm ID of all Hypostomus
+* sequence all Hypostomus
+* add Hypostomus macushi, if can be justified
 * submit data to GenBank
-* remember to remove BARCODE genbank annotations fromm specimens without vouchers
-* check INPA for collections in Trombetas and Lower Nhamunda (Centromochlus INPA 35087)
-* look into barcode IDs
-* do funding (email Tomas)
-* check about aff. and sp. in species headings
-* finalise percent divergence of Scorpiodoras and maybe add tree/script for ID.
+* add GB accessions to materials
+* check MS and make sure all corrections were carried out
 
 #### Done list:
+* finalise percent divergence of Scorpiodoras and maybe add tree/script for ID.
+* check about aff. and sp. in species headings
+* do funding (email Tomas)
+* look into barcode IDs
+* remember to remove BARCODE genbank annotations fromm specimens without vouchers
+* take specimens to INPA and get accessions
+* do extractions and PCR
 * Portuguese abstract
 * ask Val to check spelling of Manoel Torres etc
 * change Pseudolithoxus species name in text and in materials
