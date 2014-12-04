@@ -4,16 +4,17 @@ Manuscript is written in markdown.
 
 #### To do list:
 * check INPA for collections of further specimens from lower Nhamunda
-* add collection code ("Peixes"?) for the INPA material into all materials on paper
 * add Hypostomus plecostomus to checklist
-* confirm ID of all Hypostomus
 * sequence all Hypostomus
 * add Hypostomus macushi, if can be justified
+* add Tatia melanoleuca details to paper
 * submit data to GenBank
 * add GB accessions to materials
 * check MS and make sure all corrections were carried out
 
 #### Done list:
+* add collection code ("Peixes"?) for the INPA material into all materials on paper (does not seem to exist)
+* confirm ID of all other Hypostomus
 * finalise percent divergence of Scorpiodoras and maybe add tree/script for ID.
 * check about aff. and sp. in species headings
 * do funding (email Tomas)
