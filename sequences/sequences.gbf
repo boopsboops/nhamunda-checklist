@@ -1,0 +1,2321 @@
+LOCUS       KP772569                 597 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Tatia musaica bio-material UFAM CTGA 14031 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772569
+VERSION     KP772569
+KEYWORDS    .
+SOURCE      mitochondrion Tatia musaica
+  ORGANISM  Tatia musaica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Auchenipteridae; Centromochlinae; Tatia.
+REFERENCE   1  (bases 1 to 597)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 597)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..597
+                     /organism="Tatia musaica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="UFAM CTGA 14031"
+                     /db_xref="taxon:1642586"
+                     /country="Colombia"
+                     /lat_lon="4.02883 N 67.70458 W"
+                     /collection_date="May-2014"
+                     /collected_by="Tomas Hrbek, Jose Gregorio Martinez,
+                     Joiciane Goncalves Farias"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>597
+                     /gene="COI"
+     CDS             <1..>597
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91763"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLN"
+ORIGIN
+        1 ctctacttag tatttggtgc ctgagcaggg atagttggaa ccgcccttag tcttctaatt
+       61 cgagctgaac tagctcagcc cggcgcccta ctaggtgacg atcaaattta taatgttatc
+      121 gtcactgccc acgcttttgt aataattttc ttcatagtta tgccaatcat aattggaggt
+      181 ttcggaaatt gacttgtacc cctcatgatt ggagctcccg atatagcatt tccacgaata
+      241 aacaatataa gcttttgact actccctccc tccttcttac tactacttgc ctcttcaggg
+      301 gtagaagctg gggcggggac aggatggact gtttaccccc ctcttgccgg caacctcgca
+      361 catgcaggcg cctccgtaga cctaaccatc ttctctctgc atttggcagg tgtctcttcc
+      421 attcttgggg ccatcaactt tatcacaaca attattaaca taaaacctcc cgccatttca
+      481 cagtatcaaa caccattatt tgtatgagca gttctaatta cggcagtgct actactcttg
+      541 tcactccccg tacttgctgc cggcattaca atactactaa cagatcgaaa tctaaac
+//
+LOCUS       KP772570                 606 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Tatia musaica bio-material UFAM CTGA 14032 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772570
+VERSION     KP772570
+KEYWORDS    .
+SOURCE      mitochondrion Tatia musaica
+  ORGANISM  Tatia musaica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Auchenipteridae; Centromochlinae; Tatia.
+REFERENCE   1  (bases 1 to 606)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 606)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Tatia musaica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="UFAM CTGA 14032"
+                     /db_xref="taxon:1642586"
+                     /country="Colombia"
+                     /lat_lon="4.02883 N 67.70458 W"
+                     /collection_date="May-2014"
+                     /collected_by="Tomas Hrbek, Jose Gregorio Martinez,
+                     Joiciane Goncalves Farias"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>606
+                     /gene="COI"
+     CDS             <1..>606
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91764"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTF"
+ORIGIN
+        1 ctctacttag tatttggtgc ctgagcaggg atagttggaa ccgcccttag tcttctaatt
+       61 cgagctgaac tagctcagcc cggcgcccta ctaggtgacg atcaaattta taatgttatc
+      121 gtcactgccc acgcttttgt aataattttc ttcatagtta tgccaatcat aattggaggt
+      181 ttcggaaatt gacttgtacc cctcatgatt ggagctcccg atatagcatt tccacgaata
+      241 aacaatataa gcttttgact actccctccc tccttcttac tactacttgc ctcttcaggg
+      301 gtagaagctg gggcggggac aggatggact gtttaccccc ctcttgccgg caacctcgca
+      361 catgcaggcg cctccgtaga cctaaccatc ttctctctgc atttggcagg tgtctcttcc
+      421 attcttgggg ccatcaactt tatcacaaca attattaaca taaaacctcc cgccatttca
+      481 cagtatcaaa caccattatt tgtatgagca gttctaatta cggcagtgct actactcttg
+      541 tcactccccg tacttgctgc cggcattaca atactactaa cagatcgaaa tctaaacact
+      601 actttc
+//
+LOCUS       KP772571                 615 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Tatia musaica bio-material UFAM CTGA 14033 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772571
+VERSION     KP772571
+KEYWORDS    .
+SOURCE      mitochondrion Tatia musaica
+  ORGANISM  Tatia musaica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Auchenipteridae; Centromochlinae; Tatia.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Tatia musaica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="UFAM CTGA 14033"
+                     /db_xref="taxon:1642586"
+                     /country="Colombia"
+                     /lat_lon="4.02883 N 67.70458 W"
+                     /collection_date="May-2014"
+                     /collected_by="Tomas Hrbek, Jose Gregorio Martinez,
+                     Joiciane Goncalves Farias"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>615
+                     /gene="COI"
+     CDS             <1..>615
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91765"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN
+        1 ctctacttag tatttggtgc ctgagcaggg atagttggaa ccgcccttag tcttctaatt
+       61 cgagctgaac tagctcagcc cggcgcccta ctaggtgacg atcaaattta taatgttatc
+      121 gtcactgccc acgcttttgt aataattttc ttcatagtta tgccaatcat aattggaggt
+      181 ttcggaaatt gacttgtacc cctcatgatt ggagctcccg atatagcatt tccacgaata
+      241 aacaatataa gcttttgact actccctccc tccttcttac tactacttgc ctcttcaggg
+      301 gtagaagctg gggcggggac aggatggact gtttaccccc ctcttgccgg caacctcgca
+      361 catgcaggcg cctccgtaga cctaaccatc ttctctctgc atttggcagg tgtctcttcc
+      421 attcttgggg ccatcaactt tatcacaaca attattaaca taaaacctcc cgccatttca
+      481 cagtatcaaa caccattatt tgtatgagca gttctaatta cggcagtgct actactcttg
+      541 tcactccccg tacttgctgc cggcattaca atactactaa cagatcgaaa tctaaacact
+      601 actttctttg accca
+//
+LOCUS       KP772572                 600 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Pimelodella sp. 'INPA 43890' bio-material UFAM CTGA 14290
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772572
+VERSION     KP772572
+KEYWORDS    .
+SOURCE      mitochondrion Pimelodella sp. 'INPA 43890'
+  ORGANISM  Pimelodella sp. 'INPA 43890'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Heptapteridae; Pimelodella.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Pimelodella sp. 'INPA 43890'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43890"
+                     /bio_material="UFAM CTGA 14290"
+                     /db_xref="taxon:1642583"
+                     /country="Brazil"
+                     /lat_lon="1.6909 S 57.42231 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91766"
+                     /translation="FGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAHAFVM
+                     IFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGVG
+                     TGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPAISQYQT
+                     PLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFD"
+ORIGIN
+        1 tttggtgcct gagccggaat ggttggaact gctcttagcc tactaattcg ggcagagctg
+       61 gcccaacccg gcgccctcct tggtgatgac cagatctata atgttattgt aactgctcat
+      121 gccttcgtaa taattttctt tatagtaata ccaattataa ttggaggctt tggaaactga
+      181 ttagtgccct taataattgg ggcaccagat atggccttcc cacgaataaa taatataagc
+      241 ttctgactgc tccctccatc atttttactc ctgcttgcct catctggggt cgaagcaggg
+      301 gtgggaacag gatgaaccgt atacccccca cttgccggaa acctagcaca tgcaggagca
+      361 tctgtagatc tggccatttt ttcccttcat ttagcaggtg tatcttcaat cctgggggcc
+      421 attaatttta ttacaactat tattaacatg aaacccccag ctatctcaca ataccagaca
+      481 cccttatttg tgtgggccgt tttaattaca gcagtactcc ttctgctctc cctcccagtc
+      541 ctggctgctg gtatcacaat actattaaca gaccgaaatc taaatactac attctttgac
+//
+LOCUS       KP772573                 594 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Hypoptopoma incognitum bio-material UFAM CTGA 14306 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772573
+VERSION     KP772573
+KEYWORDS    .
+SOURCE      mitochondrion Hypoptopoma incognitum
+  ORGANISM  Hypoptopoma incognitum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypoptopomatinae; Hypoptopoma.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Hypoptopoma incognitum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43865"
+                     /bio_material="UFAM CTGA 14306"
+                     /db_xref="taxon:1642578"
+                     /country="Brazil"
+                     /lat_lon="2.17525 S 56.7115 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>594
+                     /gene="COI"
+     CDS             <1..>594
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91767"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNL"
+ORIGIN
+        1 ctctacctgg tatttggtgc ttgagctggg atagttggaa cagccctcag cctcttaatc
+       61 cgggccgagc taagccaacc tggctcccta ctaggcgacg accagatcta caatgttatt
+      121 gttactgcac atgccttcgt aataatcttc tttatagtaa tacccatcat gatcggaggc
+      181 tttggtaact gactcgtacc tctcatgatt ggcgcaccag atatagcatt ccctcgaatg
+      241 aacaacatga gcttttggct ccttcctcca tccttcctcc tactgctggc ctcctccgga
+      301 gttgaagcag gagctggcac aggctgaaca gtataccccc cacttgccgg gaatctagcc
+      361 catgcaggag cttcagtaga cctgaccatc ttctcactcc acctagccgg tgtttcctca
+      421 attttaggcg ctattaactt tattaccaca atcattaaca tgaaaccccc ggccatctct
+      481 caataccaaa cccccctatt cgtctgagcc gtacttgtaa cagccgtcct cctcttactc
+      541 tcactacctg tcctagctgc aggaattaca atactactta cagaccgaaa cttg
+//
+LOCUS       KP772574                 618 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Dekeyseria scaphirhyncha bio-material UFAM CTGA 14311 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772574
+VERSION     KP772574
+KEYWORDS    .
+SOURCE      mitochondrion Dekeyseria scaphirhyncha
+  ORGANISM  Dekeyseria scaphirhyncha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Dekeyseria.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Dekeyseria scaphirhyncha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43878"
+                     /bio_material="UFAM CTGA 14311"
+                     /db_xref="taxon:337763"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>618
+                     /gene="COI"
+     CDS             <1..>618
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91768"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPA"
+ORIGIN
+        1 ctttacctgg tatttggtgc ctgagccgga atggttggta cagccctcag cctcttaatt
+       61 cgggccgagc taagccaacc cggctcccta ctgggtgacg accaaatcta taacgtcatc
+      121 gttactgcac atgcctttgt aataattttc tttatagtta taccaatcat aattggaggt
+      181 tttggaaatt gactggtacc actaataatt ggggcccctg atatggcttt ccctcgaata
+      241 aataacataa gcttttgatt attaccccca tcattccttc tcttgctagc ctcctcaggg
+      301 gttgaagcgg gggcgggaac aggttgaacc gtatatcccc cattagctgg aaatctagcc
+      361 catgcaggag cctcagtaga cctaaccatt ttttcacttc acctagctgg tgtttcctca
+      421 attcttgggg caattaattt tattaccaca atcatcaaca taaaaccccc ggccatctca
+      481 caatatcaaa ccccattatt cgtttgatct gttttaatta cagccgtcct gctcctactc
+      541 tcactacctg ttctagctgc tggtattaca atattattaa cagaccgaaa cttaaacacc
+      601 accttctttg atcctgca
+//
+LOCUS       KP772575                 621 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Peckoltia cf. vittata 'INPA 43881' bio-material UFAM CTGA 14316
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772575
+VERSION     KP772575
+KEYWORDS    .
+SOURCE      mitochondrion Peckoltia cf. vittata 'INPA 43881'
+  ORGANISM  Peckoltia cf. vittata 'INPA 43881'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Peckoltia.
+REFERENCE   1  (bases 1 to 621)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 621)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..621
+                     /organism="Peckoltia cf. vittata 'INPA 43881'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43881"
+                     /bio_material="UFAM CTGA 14316"
+                     /db_xref="taxon:1642581"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>621
+                     /gene="COI"
+     CDS             <1..>621
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91769"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGIE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAG"
+ORIGIN
+        1 ctttacttag tatttggtgc ctgagccgga atagttggca cagctctcag ccttttaatc
+       61 cgagctgaat tgagtcaacc cggctcccta ctaggcgatg accaaattta taatgtcatc
+      121 gtcactgcac atgcctttgt aataattttt tttatggtaa taccaattat gattggaggt
+      181 tttggaaatt gactagtacc actgatgatt ggggcccccg atatggcctt cccacgaata
+      241 aataatatga gcttctgatt actcccccca tcatttcttc tcttgctagc ctcttcagga
+      301 attgaagcag gggcaggaac aggttgaact gtataccctc ccctcgctgg aaatttagct
+      361 cacgcaggag cttcagttga cctgactatc ttttcacttc acctagctgg tgtttcttca
+      421 attctaggag caattaattt tattactact attattaaca taaaaccccc agccatttct
+      481 cagtaccaaa ctcctttatt tgtatgagct gtgcttatca cagctgttct acttcttctt
+      541 tcacttcccg ttttggccgc tggtattaca atactgctaa cagaccgaaa tttaaatact
+      601 accttcttcg accctgctgg a
+//
+LOCUS       KP772576                 594 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Hypostomus carinatus bio-material UFAM CTGA 14317 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772576
+VERSION     KP772576
+KEYWORDS    .
+SOURCE      mitochondrion Hypostomus carinatus
+  ORGANISM  Hypostomus carinatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypostominae; Hypostomus.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Hypostomus carinatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43879"
+                     /bio_material="UFAM CTGA 14317"
+                     /db_xref="taxon:1642579"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>594
+                     /gene="COI"
+     CDS             <1..>594
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91770"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNL"
+ORIGIN
+        1 ctttacttag tatttggtgc ctgagccgga atggttggca cagctctcag ccttttaatt
+       61 cgggctgagt tgagccaacc cggctcccta ctaggtgatg accaaattta taatgtcatc
+      121 gttactgcac atgccttcgt aataattttc tttatagtaa tgccaattat aattgggggc
+      181 tttgggaact gattagttcc actaatgatt ggagcacccg acatggcctt cccacgaata
+      241 aacaatatga gcttctgatt actccctcca tcgtttcttc tcttgttagc ttcctcagga
+      301 gttgaagcgg gagcaggaac aggttgaact gtatatccac ctctcgctgg aaacttagcc
+      361 catgcaggag cttcagttga tctaaccatc ttttcacttc acctggctgg tgtttcttca
+      421 attttgggag caattaactt tattactact attattaata taaaaccccc agctatttct
+      481 caatatcaaa ctcctttatt tgtatgagct gtacttgtca cagctgttct actcctgctc
+      541 tcactaccag ttctagccgc tggtattaca atattgctaa cagaccgaaa ttta
+//
+LOCUS       KP772577                 594 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Hypostomus carinatus bio-material UFAM CTGA 14318 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772577
+VERSION     KP772577
+KEYWORDS    .
+SOURCE      mitochondrion Hypostomus carinatus
+  ORGANISM  Hypostomus carinatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypostominae; Hypostomus.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Hypostomus carinatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43879"
+                     /bio_material="UFAM CTGA 14318"
+                     /db_xref="taxon:1642579"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>594
+                     /gene="COI"
+     CDS             <1..>594
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91771"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNL"
+ORIGIN
+        1 ctttacttag tatttggtgc ctgagccgga atggttggca cagctctcag ccttttaatt
+       61 cgggctgagt tgagccaacc cggctcccta ctaggtgatg accaaattta taatgtcatc
+      121 gttactgcac atgccttcgt aataattttc tttatagtaa tgccaattat aattgggggc
+      181 tttgggaact gattagttcc actaatgatt ggagcacccg acatggcctt cccacgaata
+      241 aacaatatga gcttctgatt actccctcca tcgtttcttc tcttgttagc ttcctcagga
+      301 gttgaagcgg gagcaggaac aggttgaact gtatatccac ctctcgctgg aaacttagcc
+      361 catgcaggag cttcagttga tctaaccatc ttttcacttc acctggctgg tgtttcttca
+      421 attttggggg caattaactt tattactact attattaata taaaaccccc agctatttct
+      481 caatatcaaa ctcctttatt tgtatgagct gtacttgtta cagctgttct actcctgctc
+      541 tcactaccag ttctagccgc tggtattaca atattgctaa cagaccgaaa ttta
+//
+LOCUS       KP772578                 600 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Ancistrus dolichopterus bio-material UFAM CTGA 14321 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772578
+VERSION     KP772578
+KEYWORDS    .
+SOURCE      mitochondrion Ancistrus dolichopterus (bushymouth catfish)
+  ORGANISM  Ancistrus dolichopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Ancistrus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Ancistrus dolichopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43877"
+                     /bio_material="UFAM CTGA 14321"
+                     /db_xref="taxon:52073"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91772"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNT"
+ORIGIN
+        1 ctttacctag tgtttggtgc ttgagccgga atggtcggta cagccctcag tctcttaatt
+       61 cgagctgagt tgagccaacc cggttctcta ttaggtgatg accagatcta taatgtcatc
+      121 gttaccgcac atgctttcgt aataattttc tttatagtta tgccaattat aatcgggggc
+      181 tttggaaatt gactagtccc actaatgatc ggagcgcccg acatagcctt cccacgaata
+      241 aataacataa gcttctgact actcccccct tcattccttc tcttactagc ctcgtcagga
+      301 gtcgaggcag gagcagggac aggttgaact gtatacccgc cccttgccgg aaacttggcc
+      361 cacgcagggg cttcagttga cctaactatc ttttcactac acctagctgg tgtgtcctca
+      421 attcttggtg caattaactt cattactaca attattaata taaaaccccc agctatttca
+      481 caatatcaga ccccattgtt tgtgtgggcc gtacttgtaa cagcggttct gctcctgctt
+      541 tccttacccg ttctagctgc cggtattaca atactactaa cagatcgaaa tctaaatacc
+//
+LOCUS       KP772579                 615 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Lasiancistrus schomburgkii bio-material UFAM CTGA 14329 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772579
+VERSION     KP772579
+KEYWORDS    .
+SOURCE      mitochondrion Lasiancistrus schomburgkii
+  ORGANISM  Lasiancistrus schomburgkii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Lasiancistrus.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Lasiancistrus schomburgkii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43886"
+                     /bio_material="UFAM CTGA 14329"
+                     /db_xref="taxon:1137584"
+                     /country="Brazil"
+                     /lat_lon="1.6909 S 57.42231 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>615
+                     /gene="COI"
+     CDS             <1..>615
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91773"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN
+        1 ctttacttgg tatttggtgc ctgagccgga atggttggga cagctctcag tctcttaatc
+       61 cgagctgagc taagccaacc cggttcccta ctaggtgacg accaaatcta taacgtcatc
+      121 gtcaccgcac atgccttcgt aataattttc tttatggtaa taccaattat gattggaggc
+      181 tttggaaact gactagtgcc actaataatt ggagcgcctg atatagcctt cccacgaata
+      241 aataatataa gcttctgact actcccccca tcattccttc tcctattggc ctcttcaggt
+      301 gttgaagcag gggcaggaac aggctgaacc gtatatcccc ctcttgccgg aaatctggcc
+      361 cacgcaggag cttcagtaga cctgaccatc ttttcacttc acctagcggg tgtctcttca
+      421 attctgggtg caattaactt tattactaca atcatcaaca tgaaaccccc agctatctcg
+      481 cagtaccaga cccccttatt tgtgtgggct gtgcttatta cagccgtcct gctcctactt
+      541 tcactgccag ttttagctgc cggcattaca atactgctaa cagaccgaaa cctaaacact
+      601 acattcttcg accct
+//
+LOCUS       KP772580                 528 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Rineloricaria lanceolata bio-material UFAM CTGA 14330 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772580
+VERSION     KP772580
+KEYWORDS    .
+SOURCE      mitochondrion Rineloricaria lanceolata (chocolate-colored catfish)
+  ORGANISM  Rineloricaria lanceolata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Loricariinae; Rineloricaria.
+REFERENCE   1  (bases 1 to 528)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 528)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..528
+                     /organism="Rineloricaria lanceolata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43896"
+                     /bio_material="UFAM CTGA 14330"
+                     /db_xref="taxon:503132"
+                     /country="Brazil"
+                     /lat_lon="1.6909 S 57.42231 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>528
+                     /gene="COI"
+     CDS             <1..>528
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91774"
+                     /translation="GTALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPI
+                     MIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPP
+                     LAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAISQYQTPLFVWAVL
+                     VTAVLLLLSLPVLAAG"
+ORIGIN
+        1 ggcacagctc ttagcctgct gattcgggct gaactaagcc aaccgggctc cctactgggc
+       61 gatgaccaaa tttataatgt tatcgttact gcacatgcct tcgtaataat cttcttcata
+      121 gtaataccca ttatgattgg tggcttcggg aactggctgg tacccttaat aattggtgca
+      181 cctgatatag catttccacg aataaacaac ataagtttct gactactccc cccatcattc
+      241 ctacttttac tagcctcatc aggagttgaa gccggggctg gaacggggtg aaccgtatac
+      301 ccgcctcttg ccggaaacct agcccatgca ggggcttctg ttgatctaac catcttctca
+      361 ctacacctgg caggtgtctc ctctattttg ggggcaatca acttcattac tacaattatt
+      421 aatataaaac ccccagccat ttcacaatac caaactccct tattcgtctg ggctgtccta
+      481 gttacagcag tcctactcct cttatccctc ccagtcctag ctgctgga
+//
+LOCUS       KP772581                 588 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Farlowella nattereri bio-material UFAM CTGA 14331 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772581
+VERSION     KP772581
+KEYWORDS    .
+SOURCE      mitochondrion Farlowella nattereri
+  ORGANISM  Farlowella nattereri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Loricariinae; Farlowella.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Farlowella nattereri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43891"
+                     /bio_material="UFAM CTGA 14331"
+                     /db_xref="taxon:503136"
+                     /country="Brazil"
+                     /lat_lon="1.6909 S 57.42231 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>588
+                     /gene="COI"
+     CDS             <1..>588
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91775"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDR"
+ORIGIN
+        1 ctctacctgg tatttggtgc ctgagccgga atagtcggca cagcccttag cctgttaatc
+       61 cgagccgaac taagtcagcc cggctccttg ctaggcgatg accaaattta taatgtaatc
+      121 gtcactgcac atgccttcgt aataattttc ttcatagtga tacccattat aattggaggc
+      181 tttggaaact gactagtgcc cctaatgatc ggggcaccag acatagcgtt tccacgaata
+      241 aacaacataa gcttttgatt acttccccca tcattcttac ttctgctagc ctcctctgga
+      301 gttgaagcag gagccggaac aggctgaacc gtgtaccccc ctcttgccgg aaatttagcc
+      361 cacgcgggag cttcagttga ccttaccatc ttctccctcc atctagcagg ggtctcttct
+      421 attctcggag caatcaactt cattactaca attattaaca taaaaccccc agccatctca
+      481 cagtaccaaa cccctctatt tgtctgagcc gtattagtca cagccgtcct gcttttgctc
+      541 tccctaccag tcttagctgc cgggattact atactgttaa cagaccga
+//
+LOCUS       KP772582                 627 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Loricaria cataphracta bio-material UFAM CTGA 14332 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772582
+VERSION     KP772582
+KEYWORDS    .
+SOURCE      mitochondrion Loricaria cataphracta
+  ORGANISM  Loricaria cataphracta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Loricariinae; Loricaria.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Loricaria cataphracta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43893"
+                     /bio_material="UFAM CTGA 14332"
+                     /db_xref="taxon:881899"
+                     /country="Brazil"
+                     /lat_lon="1.6909 S 57.42231 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>627
+                     /gene="COI"
+     CDS             <1..>627
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91776"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGG"
+ORIGIN
+        1 ctctacctag tatttggtgc atgagccgga atagtaggca cagctcttag cctgctaatt
+       61 cgggccgaac taagccaacc aggttcccta ttgggcgatg accaaattta taatgtcatc
+      121 gttactgcac atgccttcgt aataattttc ttcatagtaa tgcctattat aattggaggc
+      181 tttggaaatt gattagtgcc attaataatt ggggcaccag atatggcatt cccacgtata
+      241 aataatataa gcttttgact acttcccccc tcatttttac ttctactagc ctcatcagga
+      301 gtagaagcag gggcgggaac aggctgaaca gtatatcccc cccttgcagg aaacctagcc
+      361 catgcaggag cctcagttga cctaaccatc ttttcactgc acttagcagg ggtctcatcc
+      421 atccttgggg caattaattt tatcaccaca atcattaata tgaaacctcc agccatctca
+      481 caatatcaaa cccccctatt cgtatgggcc gtattagtta cggccgtcct actactccta
+      541 tccctcccag tcttagctgc cggaattacc atattactaa cagaccgaaa tctaaacact
+      601 accttctttg accctgcagg aggaggc
+//
+LOCUS       KP772583                 552 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Peckoltia cf. vittata 'INPA 43894' bio-material UFAM CTGA 14333
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772583
+VERSION     KP772583
+KEYWORDS    .
+SOURCE      mitochondrion Peckoltia cf. vittata 'INPA 43894'
+  ORGANISM  Peckoltia cf. vittata 'INPA 43894'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Peckoltia.
+REFERENCE   1  (bases 1 to 552)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 552)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="Peckoltia cf. vittata 'INPA 43894'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43894"
+                     /bio_material="UFAM CTGA 14333"
+                     /db_xref="taxon:1642582"
+                     /country="Brazil"
+                     /lat_lon="1.6909 S 57.42231 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>552
+                     /gene="COI"
+     CDS             <1..>552
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91777"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGIE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPV"
+ORIGIN
+        1 ctttacttag tatttggtgc ctgagccgga atagttggca cagctctcag ccttttaatc
+       61 cgagctgaat tgagtcaacc cggctcccta ctaggcgatg accaaattta taatgtcatc
+      121 gtcactgcac atgcctttgt aataattttt tttatggtaa taccaattat gattggaggt
+      181 tttggaaatt gactagtacc actgatgatt ggggcccccg atatggcctt cccacgaata
+      241 aataatatga gcttctgatt actcccccca tcatttcttc tcttgctagc ctcttcagga
+      301 attgaagcag gggcaggaac aggttgaact gtataccctc ccctcgctgg aaatttagct
+      361 cacgcaggag cttcagttga cctgactatc ttttcacttc acctagctgg tgtttcttca
+      421 attctaggag caattaattt tattactact attattaaca taaaaccccc agccatttct
+      481 cagtaccaaa ctcctttatt tgtatgagct gtgcttatca cagctgttct acttcttctt
+      541 tcacttcccg tt
+//
+LOCUS       KP772584                 588 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Pseudolithoxus sp. 'INPA 43888' bio-material UFAM CTGA 14422
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772584
+VERSION     KP772584
+KEYWORDS    .
+SOURCE      mitochondrion Pseudolithoxus sp. 'INPA 43888'
+  ORGANISM  Pseudolithoxus sp. 'INPA 43888'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Pseudolithoxus.
+REFERENCE   1  (bases 1 to 588)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 588)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..588
+                     /organism="Pseudolithoxus sp. 'INPA 43888'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43889"
+                     /bio_material="UFAM CTGA 14422"
+                     /db_xref="taxon:1642584"
+                     /country="Brazil"
+                     /lat_lon="1.71782 S 57.36856 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>588
+                     /gene="COI"
+     CDS             <1..>588
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91778"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDR"
+ORIGIN
+        1 ctttatttag tatttggtgc ctgagccgga atagttggta cagctcttag cctcctaatt
+       61 cgagctgagc taagccaacc cggttctcta ttaggtgacg atcaaattta taacgtcatc
+      121 gttactgcac atgccttcgt aataattttc tttatagtaa taccaattat gattgggggc
+      181 tttggaaatt gactagtacc tctaatgatt ggagcacccg atatagcctt tccccgaata
+      241 aataatatga gcttctgatt gcttccccca tcattcctac tattattagc ctcctcagga
+      301 gttgaagcag gagcaggaac aggctgaact gtatatcccc ctcttgccgg aaacctggcc
+      361 cacgcagggg cttcagttga cctaactatc ttctctcttc acctagctgg tgtttcctca
+      421 attcttgggg caattaactt tattactaca attatcaata taaaaccccc agctatttca
+      481 caataccaaa ctcccttatt tgtgtgagct gttcttgtta cagctgtcct actcctactc
+      541 tcactacccg tcctagccgc tggcattaca atactactta cagaccga
+//
+LOCUS       KP772585                 522 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Hypostomus macushi bio-material UFAM CTGA 14425 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772585
+VERSION     KP772585
+KEYWORDS    .
+SOURCE      mitochondrion Hypostomus macushi
+  ORGANISM  Hypostomus macushi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypostominae; Hypostomus.
+REFERENCE   1  (bases 1 to 522)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 522)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..522
+                     /organism="Hypostomus macushi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 46973"
+                     /bio_material="UFAM CTGA 14425"
+                     /db_xref="taxon:1633064"
+                     /country="Brazil"
+                     /lat_lon="1.71782 S 57.36856 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>522
+                     /gene="COI"
+     CDS             <1..>522
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91779"
+                     /translation="SQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPL
+                     MIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLAGNLAHAGASV
+                     DLTIFSLHLAGVSSILGAINFITTIINMKPPAISQYQTPLFVWAVLVTAVLLLLSLPV
+                     LAAGITMLLTDRNL"
+ORIGIN
+        1 agccaacccg gctccctact aggtgatgac caaatttata atgttatcgt tactgcacat
+       61 gccttcgtaa taatcttctt tatagtaatg ccaattataa ttgggggctt tggtaactga
+      121 ttagttccac taatgattgg agcacccgac atggccttcc cacgaataaa caatatgagc
+      181 ttctgattac tccctccatc gttccttctc ttgttagctt cctcaggagt tgaagcgggg
+      241 gcaggaacag gttgaactgt atatccgccc ctcgctggaa acttagctca tgcaggagct
+      301 tcagttgatc taaccatctt ttcactccac ctggctggtg tttcttcaat tttgggagca
+      361 attaacttta ttactactat tattaatata aaacccccag ctatttctca ataccaaact
+      421 cctttatttg tatgagctgt acttgtcaca gctgttctac tcctgctctc actaccagtt
+      481 ctagccgctg gtattacaat attactaaca gaccgaaatt ta
+//
+LOCUS       KP772586                 627 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Trachycorystes trachycorystes bio-material UFAM CTGA 14429
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772586
+VERSION     KP772586
+KEYWORDS    .
+SOURCE      mitochondrion Trachycorystes trachycorystes
+  ORGANISM  Trachycorystes trachycorystes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Auchenipteridae; Auchenipterinae; Trachycorystes.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Trachycorystes trachycorystes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43897"
+                     /bio_material="UFAM CTGA 14429"
+                     /db_xref="taxon:1312671"
+                     /country="Brazil"
+                     /lat_lon="1.67511 S 57.47678 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>627
+                     /gene="COI"
+     CDS             <1..>627
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91780"
+                     /translation="LYLIFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGG"
+ORIGIN
+        1 ctatacctaa tctttggtgc ctgggcagga atagttggta ctgccctcag cctgctaatt
+       61 cgagcagaat tagcccagcc aggcgcccta ctgggcgatg accaaattta caacgtcatt
+      121 gtcactgctc atgcctttgt aataattttc tttatagtaa tgccaatcat aatcgggggt
+      181 tttggaaact gactagtccc attaataatt ggagcgcctg acatggcatt tccccgaata
+      241 aataatataa gcttttgact actacccccg tctttcctat tactactagc ttcctccgga
+      301 gtagaggcag gggcagggac agggtggacc gtgtaccccc ctcttgccgg gaaccttgca
+      361 catgccggag cttccgttga tttaaccatc ttctcactcc acctggcggg agtctcatct
+      421 atcctaggcg ctatcaattt cattacaaca attatcaaca tgaaacctcc agctatctca
+      481 caatatcaaa cacctttatt tgtgtgggcg atcctaatta cagcagtact gctcttacta
+      541 tcccttccag tgcttgctgc tggcatcaca atgctgctaa cagaccgtaa cctaaataca
+      601 acattctttg accctgcggg agggggg
+//
+LOCUS       KP772587                 633 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Pinirampus pirinampu bio-material UFAM CTGA 14443 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772587
+VERSION     KP772587
+KEYWORDS    .
+SOURCE      mitochondrion Pinirampus pirinampu
+  ORGANISM  Pinirampus pirinampu
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Pimelodidae; Pinirampus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Pinirampus pirinampu"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="UFAM CTGA 14443"
+                     /db_xref="taxon:337629"
+                     /country="Brazil"
+                     /lat_lon="1.67511 S 57.47678 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>633
+                     /gene="COI"
+     CDS             <1..>633
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91781"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN
+        1 ctttacttag tatttggtgc ctgagccgga atagtcggca cagcccttag cctattaatt
+       61 cgggcagagt tagctcaacc tggcgccctt ctaggtgatg atcagattta taatgtcatc
+      121 gttactgctc atgcctttgt aataattttc tttatagtaa taccaattat aattggaggt
+      181 ttcgggaact gattggtccc cctaataatc ggggcaccag acatggcatt tccccgaata
+      241 aataatataa gcttctgact gctgccaccg tctttcctac tcctgcttgc atcctcgggg
+      301 gtagaagccg gggcaggtac gggctgaact gtctacccgc ctctcgctgg gaacctggca
+      361 cacgcagggg cttccgtaga cctaactatt ttttccctac acctagcagg tgtatcatca
+      421 attttaggag ccatcaattt tatcacaacc attatcaaca taaaaccacc agctatttca
+      481 caatatcaaa caccactatt tgtatggtcc gtcttaatta cagcagtact gcttctatta
+      541 tcacttccag tactggccgc aggtattaca atattactta cggaccgaaa cctaaacaca
+      601 actttctttg acccagcagg aggaggggac cca
+//
+LOCUS       KP772588                 633 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Pseudoplatystoma reticulatum bio-material UFAM CTGA 14451
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772588
+VERSION     KP772588
+KEYWORDS    .
+SOURCE      mitochondrion Pseudoplatystoma reticulatum
+  ORGANISM  Pseudoplatystoma reticulatum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Pimelodidae; Pseudoplatystoma.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Pseudoplatystoma reticulatum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="UFAM CTGA 14451"
+                     /db_xref="taxon:594006"
+                     /country="Brazil"
+                     /lat_lon="1.67511 S 57.47678 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>633
+                     /gene="COI"
+     CDS             <1..>633
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91782"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGAFLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPSIS
+                     QYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN
+        1 ctctacctag tatttggtgc ctgagccgga atagttggta cagcccttag cctactaatt
+       61 cgggcagagc tggcccaacc cggcgccttt ctaggtgatg accaaattta caacgtcatt
+      121 gtaactgctc atgcctttgt aataattttc tttatagtga tacccattat gatcggggga
+      181 tttggaaact gattaatccc actaataatt ggggcacccg acatagcatt cccacgaata
+      241 aataacataa gcttctgact acttccccca tccttcttac ttctgcttgc ctcgtctggg
+      301 gtagaagcag gagcaggaac aggctgaact gtctatcctc cccttgcagg gaatctagca
+      361 cacgccggag cttctgtaga tctaactatt ttctccctac atctagcagg ggtgtcatcc
+      421 atcctaggag ccattaactt tattacaacc atcatcaaca taaaaccccc ctctatctca
+      481 caatatcaaa caccattatt tgtatgatca gtcctaatta cagctgtact tcttctacta
+      541 tccctccccg tcttagccgc aggcattaca atgttactaa cagaccgaaa cctaaatact
+      601 acattctttg acccagcagg aggaggagac cca
+//
+LOCUS       KP772589                 633 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Phractocephalus hemioliopterus bio-material UFAM CTGA 14459
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772589
+VERSION     KP772589
+KEYWORDS    .
+SOURCE      mitochondrion Phractocephalus hemioliopterus (redtail catfish)
+  ORGANISM  Phractocephalus hemioliopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Pimelodidae; Phractocephalus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Phractocephalus hemioliopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="UFAM CTGA 14459"
+                     /db_xref="taxon:221419"
+                     /country="Brazil"
+                     /lat_lon="1.67511 S 57.47678 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>633
+                     /gene="COI"
+     CDS             <1..>633
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91783"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN
+        1 ctctacttag tatttggtgc ctgagccgga atagttggta cagctcttag cctattaatt
+       61 cgggcagagc tagcccaacc aggtgccctc ctaggtgatg atcaaattta caatgttatt
+      121 gttaccgctc atgccttcgt aataattttc ttcatagtta taccaattat gatcggggga
+      181 tttggaaatt gactagtccc actaataatc ggggcaccag acatggcatt cccacgaata
+      241 aataacataa gtttctgact acttccccca tccttcctac tactacttgc ctcgtctggg
+      301 gtagaagctg gggcggggac aggttgaacc gtgtatcccc ctcttgctgg aaatcttgca
+      361 cacgcaggag cttcggtaga tttaactatc ttctcactcc acctagcagg ggtgtcgtct
+      421 attcttggag ccattaactt cattacaact attattaaca taaaaccccc agccatttca
+      481 caataccaaa caccactatt tgtatgggcc attctaatta cagctgtact actactatta
+      541 tcactaccag tattggccgc aggcattaca atgttattaa cagaccgaaa cttaaacacc
+      601 acattcttcg acccagcagg agggggagac cca
+//
+LOCUS       KP772590                 627 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Pseudolithoxus sp. 'INPA 43888' bio-material UFAM CTGA 14483
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772590
+VERSION     KP772590
+KEYWORDS    .
+SOURCE      mitochondrion Pseudolithoxus sp. 'INPA 43888'
+  ORGANISM  Pseudolithoxus sp. 'INPA 43888'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Pseudolithoxus.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Pseudolithoxus sp. 'INPA 43888'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43889"
+                     /bio_material="UFAM CTGA 14483"
+                     /db_xref="taxon:1642584"
+                     /country="Brazil"
+                     /lat_lon="1.71782 S 57.36856 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>627
+                     /gene="COI"
+     CDS             <1..>627
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91784"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGG"
+ORIGIN
+        1 ctttatttag tatttggtgc ctgagccgga atagttggta cagctcttag cctcctaatt
+       61 cgagctgagc taagccaacc cggttctcta ttaggtgacg atcaaattta taacgtcatc
+      121 gttactgcac atgccttcgt aataattttc tttatagtaa taccaattat gattgggggc
+      181 tttggaaatt gactagtacc tctaatgatt ggagcacccg atatagcctt tccccgaata
+      241 aataatatga gcttctgatt gcttccccca tcattcctac tattattagc ctcctcagga
+      301 gttgaagcag gagcaggaac aggctgaact gtatatcccc ctcttgccgg aaacctggcc
+      361 cacgcagggg cttcagttga cctaactatc ttctctcttc acctagctgg tgtttcctca
+      421 attcttgggg caattaactt tattactaca attatcaata taaaaccccc agctatttca
+      481 caataccaaa ctcccttatt tgtgtgagct gttcttgtta cagctgtcct actcctactc
+      541 tcactacccg tcctagccgc tggcattaca atactactta cagaccgaaa cctaaacacc
+      601 acattcttcg accctgcagg gggcgga
+//
+LOCUS       KP772591                 618 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Pseudolithoxus sp. 'INPA 43888' bio-material UFAM CTGA 14485
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772591
+VERSION     KP772591
+KEYWORDS    .
+SOURCE      mitochondrion Pseudolithoxus sp. 'INPA 43888'
+  ORGANISM  Pseudolithoxus sp. 'INPA 43888'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Pseudolithoxus.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 618)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Pseudolithoxus sp. 'INPA 43888'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43889"
+                     /bio_material="UFAM CTGA 14485"
+                     /db_xref="taxon:1642584"
+                     /country="Brazil"
+                     /lat_lon="1.71782 S 57.36856 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>618
+                     /gene="COI"
+     CDS             <1..>618
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91785"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPA"
+ORIGIN
+        1 ctttatttag tatttggtgc ctgagccgga atagttggta cagctcttag cctcctaatt
+       61 cgagctgagc taagccaacc cggttctcta ttaggtgacg atcaaattta taacgtcatc
+      121 gttactgcac atgccttcgt aataattttc tttatagtaa taccaattat gattgggggc
+      181 tttggaaatt gactagtacc tctaatgatt ggagcacccg atatagcctt tccccgaata
+      241 aataatatga gcttctgatt gcttccccca tcattcctac tattattagc ctcctcagga
+      301 gttgaagcag gagcaggaac aggctgaact gtatatcccc ctcttgccgg aaacctggcc
+      361 cacgcagggg cttcagttga cctaactatc ttctctcttc acctagctgg tgtttcctca
+      421 attcttgggg caattaactt tattactaca attatcaata taaaaccccc agctatttca
+      481 caataccaaa ctcccttatt tgtgtgagct gttcttgtta cagctgtcct actcctactc
+      541 tcactacccg tcctagccgc tggcattaca atactactta cagaccgaaa cctaaacacc
+      601 acattcttcg accctgca
+//
+LOCUS       KP772592                 633 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Leporacanthicus galaxias bio-material UFAM CTGA 14488 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772592
+VERSION     KP772592
+KEYWORDS    .
+SOURCE      mitochondrion Leporacanthicus galaxias
+  ORGANISM  Leporacanthicus galaxias
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Leporacanthicus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Leporacanthicus galaxias"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43880"
+                     /bio_material="UFAM CTGA 14488"
+                     /db_xref="taxon:1633152"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>633
+                     /gene="COI"
+     CDS             <1..>633
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91786"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWALLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN
+        1 ctttacttag tattcggtgc ctgagccgga atggttggca cagccctcag ccttttaatc
+       61 cgagctgagc taagccaacc cggctctcta ctgggcgatg accaaattta taatgtcatc
+      121 gttactgcac atgccttcgt aatgattttc ttcatagtaa tgccaattat aattgggggc
+      181 tttggaaatt gactagtgcc actaatgatt ggggcccccg acatggcctt tccacgaata
+      241 aataatatga gcttctgatt actccccccg tcattcctcc tactcttagc ctcttcaggg
+      301 gttgaggcag gagcagggac tggttggact gtataccccc ctctcgccgg gaacttagct
+      361 cacgcagggg cctcagtaga cctaactatt ttttcacttc atctagctgg tgtgtcctca
+      421 attcttgggg caattaattt tattactaca attattaaca taaaaccccc agccatttca
+      481 caatatcaaa cccctctatt tgtatgagct ttacttatta cagctgtcct tctccttctc
+      541 tcactacctg tcctagctgc cggcattaca atattactaa cagaccgaaa tctgaatact
+      601 accttcttcg accctgcagg gggcggagat cca
+//
+LOCUS       KP772593                 600 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Ancistrus dolichopterus bio-material UFAM CTGA 14490 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772593
+VERSION     KP772593
+KEYWORDS    .
+SOURCE      mitochondrion Ancistrus dolichopterus (bushymouth catfish)
+  ORGANISM  Ancistrus dolichopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Ancistrus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Ancistrus dolichopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43877"
+                     /bio_material="UFAM CTGA 14490"
+                     /db_xref="taxon:52073"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>600
+                     /gene="COI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91787"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNT"
+ORIGIN
+        1 ctttacctag tgtttggtgc ttgagccgga atggtcggta cagccctcag tctcttaatt
+       61 cgagctgagt tgagccaacc cggttctcta ttaggtgatg accagatcta taatgtcatc
+      121 gttaccgcac atgctttcgt aataattttc tttatagtta tgccaattat aatcgggggc
+      181 tttggaaatt gactagtccc actaatgatc ggagcgcccg acatagcctt cccacgaata
+      241 aataacataa gcttctgact actcccccct tcattccttc tcttactagc ctcgtcagga
+      301 gtcgaggcag gagcagggac aggttgaact gtatacccgc cccttgccgg aaacttggcc
+      361 cacgcagggg cttcagttga cctaactatc ttttcactac acctagctgg tgtgtcctca
+      421 attcttggtg caattaactt cattactaca attattaata taaaaccccc agctatttca
+      481 caatatcaga ccccattgtt tgtgtgggcc gtacttgtaa cagcggttct gctcctgctt
+      541 tccttacccg ttctagctgc cggtattaca atactactaa cagatcgaaa tctaaatacc
+//
+LOCUS       KP772594                 606 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Batrochoglanis villosus bio-material UFAM CTGA 14497 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772594
+VERSION     KP772594
+KEYWORDS    .
+SOURCE      mitochondrion Batrochoglanis villosus
+  ORGANISM  Batrochoglanis villosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Pseudopimelodidae; Batrochoglanis.
+REFERENCE   1  (bases 1 to 606)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 606)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Batrochoglanis villosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43882"
+                     /bio_material="UFAM CTGA 14497"
+                     /db_xref="taxon:337764"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>606
+                     /gene="COI"
+     CDS             <1..>606
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91788"
+                     /translation="AWAGMVGTALSLLIRAELAQPGAFLGDDQIYNVIVTAHAFVMIF
+                     FMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGVGTG
+                     WTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPAISQYQTPL
+                     FVWATLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGG"
+ORIGIN
+        1 gcctgggccg gaatagttgg cacagccctt agccttctaa ttcgggcaga gctggcccaa
+       61 cccggtgctt ttctaggcga tgaccaaatt tataacgtta tcgttactgc ccatgccttc
+      121 gtaataattt tctttatagt aatacctatt ataattgggg gcttcggaaa ctggcttatt
+      181 ccactaatga ttggggcacc agacatagca ttcccccgga taaataacat aagcttctgg
+      241 ttgttgcccc cctccttcct acttctgctt gcctcatcag gcgttgaagc aggagttggc
+      301 acagggtgaa ccgtttatcc ccccctcgcc ggaaatctag cacatgctgg ggcctccgta
+      361 gatctagcca ttttctccct ccaccttgca ggggtgtcct ccattctagg ggcaatcaat
+      421 tttattacga ccattattaa tataaaaccc ccggccattt cacagtatca gacaccccta
+      481 tttgtatggg ccaccctaat tacggcagta ctactactac tatcactccc agtcttagct
+      541 gctggtatta caatactgct aacagatcga aacttaaata ccacattctt tgaccccgca
+      601 ggaggg
+//
+LOCUS       KP772595                 630 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Auchenipterichthys longimanus bio-material UFAM CTGA 14501
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772595
+VERSION     KP772595
+KEYWORDS    .
+SOURCE      mitochondrion Auchenipterichthys longimanus
+  ORGANISM  Auchenipterichthys longimanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Auchenipteridae; Auchenipterinae; Auchenipterichthys.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Auchenipterichthys longimanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43874"
+                     /bio_material="UFAM CTGA 14501"
+                     /db_xref="taxon:1642576"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>630
+                     /gene="COI"
+     CDS             <1..>630
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91789"
+                     /translation="LYLIFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFMLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGD"
+ORIGIN
+        1 ctctacctaa tctttggtgc ctgggcagga atagttggta ccgccctcag cctgttaatt
+       61 cgagcagaac tagctcagcc aggggccctt ctgggagacg accaaattta taacgtaatt
+      121 gtcactgccc atgcctttgt aataattttc tttatagtaa taccaattat gatcggagga
+      181 tttggaaact gacttatccc actaatgatt ggagccccag acatagcatt tcctcgaata
+      241 aacaacatga gtttttgatt actgcccccc tctttcatac tattgttggc ctcctctgga
+      301 gtagaggccg gggcaggaac aggatgaact gtataccccc cccttgccgg gaatcttgcc
+      361 cacgcagggg cttccgttga tttaaccatt ttctccctcc acttggcagg tgtgtcctca
+      421 atcttgggcg ccatcaattt tatcacaaca attattaata taaaaccccc agctatttca
+      481 caatatcaaa caccattgtt cgtatgggca atcctgatta cagcagtgct gctactatta
+      541 tccctgccag tgctcgccgc cggtatcaca atgttactga cagaccgaaa tctaaataca
+      601 acattctttg accccgcagg agggggggac
+//
+LOCUS       KP772596                 633 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Tatia nigra bio-material UFAM CTGA 14503 cytochrome oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772596
+VERSION     KP772596
+KEYWORDS    .
+SOURCE      mitochondrion Tatia nigra
+  ORGANISM  Tatia nigra
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Auchenipteridae; Centromochlinae; Tatia.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Tatia nigra"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43876"
+                     /bio_material="UFAM CTGA 14503"
+                     /db_xref="taxon:1642587"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>633
+                     /gene="COI"
+     CDS             <1..>633
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91790"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN
+        1 ctctatctag tcttcggtgc ctgagcagga atagttggca cagcccttag tcttctaatt
+       61 cgagctgaac tagctcaacc cggcgcacta ctaggggatg accaaattta caatgttatc
+      121 gttactgccc acgcttttgt aataattttc ttcatagtta tacctatcat gattggtggc
+      181 ttcggaaatt gacttattcc cctaataatt ggagcccccg acatagcatt tccccgaatg
+      241 aacaatataa gcttttgatt gcttcccccc tccttcctat tattacttgc ctcttctgga
+      301 gtagaggctg gtgcaggaac aggatgaacg gtctatcccc ctcttgccgg taacctcgca
+      361 catgcagggg cttcagtaga tctaaccatc ttctctcttc atttggcagg ggtttcttcc
+      421 atccttggag ccattaattt tattacaaca attattaata tgaaacctcc agccatctca
+      481 caatatcaaa cgcccctatt tgtatgagca gttctaatca ccgcagtatt actacttcta
+      541 tcccttccag tacttgcagc cggtattaca atgctactaa cagatcgaaa tctaaatact
+      601 acattttttg atccggcagg cggaggagac cca
+//
+LOCUS       KP772597                 633 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Tatia aff. musaica 'INPA 43875' bio-material UFAM CTGA 14508
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772597
+VERSION     KP772597
+KEYWORDS    .
+SOURCE      mitochondrion Tatia aff. musaica 'INPA 43875'
+  ORGANISM  Tatia aff. musaica 'INPA 43875'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Auchenipteridae; Centromochlinae; Tatia.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Tatia aff. musaica 'INPA 43875'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43875"
+                     /bio_material="UFAM CTGA 14508"
+                     /db_xref="taxon:1642585"
+                     /country="Brazil"
+                     /lat_lon="1.84123 S 57.07212 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>633
+                     /gene="COI"
+     CDS             <1..>633
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91791"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN
+        1 ctctacttag tattcggcgc ctgagcagga atagttggta ccgcccttag tcttctaatt
+       61 cgagctgaac tagctcagcc cggtgcccta ctaggtgacg atcaaattta taatgttatc
+      121 gttaccgccc atgctttcgt aataattttc ttcatagtca tgccaatcat gattgggggc
+      181 ttcggaaatt gactcgtacc ccttatgatt ggggcccccg acatagcatt tccacgaata
+      241 aacaatataa gcttttgact actccctccc tccttcctac tactacttgc ctcttcaggt
+      301 gtagaagctg gggcgggaac aggatggact gtttaccccc ctcttgccgg caacctcgca
+      361 catgcaggcg cctccgtaga cctcaccatc ttctctctgc atttggcagg tgtctcctcc
+      421 attcttgggg ccatcaactt tatcacaaca attattaaca taaaaccccc cgccatttca
+      481 cagtatcaaa caccgttatt tgtatgggca gttctaatta cggcagtact actgctatta
+      541 tcactccccg tacttgctgc cggtattaca atactgctaa cagatcgaaa tctaaacact
+      601 actttctttg acccagcagg agggggagac cca
+//
+LOCUS       KP772598                 630 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Calophysus macropterus bio-material UFAM CTGA 14531 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772598
+VERSION     KP772598
+KEYWORDS    .
+SOURCE      mitochondrion Calophysus macropterus (zamurito)
+  ORGANISM  Calophysus macropterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Pimelodidae; Calophysus.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Calophysus macropterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43871"
+                     /bio_material="UFAM CTGA 14531"
+                     /db_xref="taxon:747773"
+                     /country="Brazil"
+                     /lat_lon="2.02386 S 56.78235 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>630
+                     /gene="COI"
+     CDS             <1..>630
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91792"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVVVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGD"
+ORIGIN
+        1 ctctacttag tatttggtgc ctgagccgga atagttggca cagcccttag cctgttaatt
+       61 cgggcagagc tggcccaacc tggcgccctc ctaggtgatg accagattta taatgttgtt
+      121 gttactgctc atgcctttgt aataattttc tttatagtaa taccaattat aattggaggc
+      181 ttcggaaact gattggtccc cttaataatt ggggcaccag acatggcctt cccacgaata
+      241 aataatatga gcttctggct actgccgccg tcttttctcc tcctccttgc atcatcagga
+      301 gtagaggccg gggcaggaac aggctgaact gtctacccgc ctctcgctgg gaacctagca
+      361 catgcaggag cctccgtaga cctaactatt ttttccctac atctggcagg tgtgtcatcc
+      421 attttaggag ctattaattt tattacaacc atcattaaca taaaaccacc agccatctca
+      481 cagtatcaaa caccgttgtt tgtatggtcc gtcttgatta cagcagtgct gcttctcctg
+      541 tcacttccag tattggccgc aggcattaca atattattaa cagaccggaa tctaaacaca
+      601 acattctttg atcctgcagg agggggggac
+//
+LOCUS       KP772599                 630 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Goeldiella eques bio-material UFAM CTGA 14537 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772599
+VERSION     KP772599
+KEYWORDS    .
+SOURCE      mitochondrion Goeldiella eques
+  ORGANISM  Goeldiella eques
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Heptapteridae; Goeldiella.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Goeldiella eques"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43873"
+                     /bio_material="UFAM CTGA 14537"
+                     /db_xref="taxon:337661"
+                     /country="Brazil"
+                     /lat_lon="1.99702 S 57.03758 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>630
+                     /gene="COI"
+     CDS             <1..>630
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91793"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGVGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGD"
+ORIGIN
+        1 ctttatttag tatttggtgc ctgagccgga atagttggta ctgctcttag cctattaatt
+       61 cgggcagagc tagcccaacc cggcgccctc cttggtgacg accagattta taatgttatc
+      121 gtaactgctc atgccttcgt aataattttc tttatagtaa tgcctattat aattggaggc
+      181 tttggaaatt gactagtccc cctaatgatt ggtgcaccag atatggcctt tccacgaata
+      241 aataatataa gcttttgact gctccctccc tccttcttac ttctactcgc ctcatctggg
+      301 gttgaggcag gggtgggaac aggatgaact gtttaccccc ctcttgccgg aaaccttgca
+      361 catgctgggg cttctgtaga ccttgccatc ttttctctcc accttgcagg tgtatcttct
+      421 attcttggag ccattaattt tattacaact atcattaaca tgaaaccacc agccatctca
+      481 caataccaaa caccattatt tgtatgagcc atcctaatta cagcagtcct ccttctttta
+      541 tccctcccag ttctagctgc tggcattaca atactattaa cagatcgaaa tttaaatacc
+      601 acattctttg atcccgcagg agggggagat
+//
+LOCUS       KP772600                 558 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Scorpiodoras heckelii bio-material UFAM CTGA 14538 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772600
+VERSION     KP772600
+KEYWORDS    .
+SOURCE      mitochondrion Scorpiodoras heckelii
+  ORGANISM  Scorpiodoras heckelii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Doradidae; Scorpiodoras.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="Scorpiodoras heckelii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43872"
+                     /bio_material="UFAM CTGA 14538"
+                     /db_xref="taxon:1312669"
+                     /country="Brazil"
+                     /lat_lon="1.99702 S 57.03758 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>558
+                     /gene="COI"
+     CDS             <1..>558
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91794"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAILITAVLLLLSLPVLA"
+ORIGIN
+        1 ctctacctag tctttggtgc ctgagccggg atagttggta ccgccctcag cctcttaatt
+       61 cgggcagaac ttgctcaacc gggggccctg ctgggtgatg accaaatcta caatgttatt
+      121 gtaaccgctc atgcctttgt tataattttc tttatagtaa tgccaattat gattggaggc
+      181 ttcgggaact gactcgtgcc cctaatgatc ggggcgccag acatggcatt tccccgaata
+      241 aacaatataa gcttttgact actcccccca tctttcctgc tactattagc ttcctctggt
+      301 gtagaggcag gagcaggaac tgggtgaacc gtctaccctc ctcttgctgg aaaccttgca
+      361 catgcagggg catctgtaga cctaaccatt ttctccctgc acctggcagg tgtctcatct
+      421 attctgggcg ccatcaattt cattacaaca attattaaca taaaaccacc agccatctca
+      481 caatatcaga cacctctgtt tgtatgagca attctaatta ctgccgtact tctattgcta
+      541 tcactgcctg tcctggct
+//
+LOCUS       KP772601                 624 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Astrodoras asterifrons bio-material UFAM CTGA 14540 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772601
+VERSION     KP772601
+KEYWORDS    .
+SOURCE      mitochondrion Astrodoras asterifrons
+  ORGANISM  Astrodoras asterifrons
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Doradidae; Astrodoras.
+REFERENCE   1  (bases 1 to 624)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 624)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..624
+                     /organism="Astrodoras asterifrons"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43868"
+                     /bio_material="UFAM CTGA 14540"
+                     /db_xref="taxon:1312656"
+                     /country="Brazil"
+                     /lat_lon="2.02386 S 56.78235 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>624
+                     /gene="COI"
+     CDS             <1..>624
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91795"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELAQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGG"
+ORIGIN
+        1 ctttacttag tcttcggtgc ctgagctggg atagttggta ctgccctaag cctcttaatt
+       61 cgagcagaac ttgctcagcc aggggctctc ttgggcgatg accaaatcta caatgttatt
+      121 gtaactgccc acgcctttgt tataattttc tttatagtaa taccaatcat gattgggggc
+      181 tttggaaact gactcgtacc tctaatgatt ggagcgcctg acatggcatt ccctcgcatg
+      241 aataatataa gcttctggct acttccccct tcttttctac tcctactagc ttcctccggc
+      301 gtagaagccg gggccggaac aggctggacc gtatatcccc ctcttgctgg caatcttgca
+      361 catgcaggag catctgtaga cctaaccatc ttttccctcc acctagcagg tgtatcatct
+      421 atcttaggag ctatcaactt tatcacaaca atcatcaaca taaaaccccc ggccatttca
+      481 cagtaccaaa caccactatt tgtatgagca atcctcatca ctgctgtcct tctactatta
+      541 tccttgccag tcctagccgc aggtattaca atactactaa ctgaccgtaa cctaaacacc
+      601 acattctttg accccgcagg aggg
+//
+LOCUS       KP772602                 633 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Pseudoloricaria laeviuscula bio-material UFAM CTGA 14542 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772602
+VERSION     KP772602
+KEYWORDS    .
+SOURCE      mitochondrion Pseudoloricaria laeviuscula
+  ORGANISM  Pseudoloricaria laeviuscula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Loricariinae; Pseudoloricaria.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Pseudoloricaria laeviuscula"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43870"
+                     /bio_material="UFAM CTGA 14542"
+                     /db_xref="taxon:1642590"
+                     /country="Brazil"
+                     /lat_lon="2.02386 S 56.78235 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>633
+                     /gene="COI"
+     CDS             <1..>633
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91796"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN
+        1 ctctacctag tatttggtgc atgagcagga atagttggca cagctctcag cctattaatt
+       61 cgggccgaac taagtcaacc aggctcctta ttaggtgatg atcagattta taatgtcatc
+      121 gttactgcac acgccttcgt aataatcttc ttcatagtaa tacccattat gattggaggg
+      181 tttgggaact gattagtgcc cctaataatt ggggcaccgg acatagcatt cccacgcatg
+      241 aataacataa gcttctgact acttccaccc tcatttctac ttttactagc ctcatcagga
+      301 gttgaagcgg gggctggaac aggttgaact gtatatcccc cacttgccgg aaacctggcc
+      361 catgcaggag cttcagttga cctaaccatc ttctcactac atctagcagg tgtttcatct
+      421 attctaggag caattaattt tattaccaca attattaata taaaaccccc agctatctca
+      481 caatatcaaa ccccactatt cgtttgagct gtactagtta cagccgtcct tctcctcctc
+      541 tccctcccag tactagctgc tggcattacg atattattaa ctgaccgaaa tttaaatacc
+      601 actttctttg accctgcagg aggaggtgac ccc
+//
+LOCUS       KP772603                 582 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Peckoltia cf. vittata 'INPA 43869' bio-material UFAM CTGA 14544
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772603
+VERSION     KP772603
+KEYWORDS    .
+SOURCE      mitochondrion Peckoltia cf. vittata 'INPA 43869'
+  ORGANISM  Peckoltia cf. vittata 'INPA 43869'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Peckoltia.
+REFERENCE   1  (bases 1 to 582)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 582)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Peckoltia cf. vittata 'INPA 43869'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43869"
+                     /bio_material="UFAM CTGA 14544"
+                     /db_xref="taxon:1642580"
+                     /country="Brazil"
+                     /lat_lon="2.02386 S 56.78235 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>582
+                     /gene="COI"
+     CDS             <1..>582
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91797"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGIE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLT"
+ORIGIN
+        1 ctttacttag tatttggtgc ctgagccgga atagttggca cagctctcag ccttttaatc
+       61 cgagctgaat tgagtcaacc cggctcccta ctaggcgatg accaaattta taatgtcatc
+      121 gtcactgcac atgcctttgt aataattttt tttatggtaa taccaattat gattggaggt
+      181 tttggaaatt gactagtacc actgatgatt ggggcccccg atatggcctt cccacgaata
+      241 aataatatga gcttctgatt actcccccca tcatttcttc tcttgctagc ctcttcagga
+      301 attgaagcag gggcaggaac aggttgaact gtataccctc ccctcgctgg aaatttagct
+      361 cacgcaggag cttcagttga cctgactatc ttttcacttc acctagctgg tgtttcttca
+      421 attctaggag caattaattt tattactact attattaaca taaaaccccc agccatttct
+      481 cagtaccaaa ctcctttatt tgtatgagct gtgcttatca cagctgttct acttcttctt
+      541 tcacttcccg ttttggccgc tggtattaca atactgctaa ca
+//
+LOCUS       KP772604                 633 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Ancistrus sp. 'INPA 43862' bio-material UFAM CTGA 14547 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KP772604
+VERSION     KP772604
+KEYWORDS    .
+SOURCE      mitochondrion Ancistrus sp. 'INPA 43862'
+  ORGANISM  Ancistrus sp. 'INPA 43862'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Ancistrus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Ancistrus sp. 'INPA 43862'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43862"
+                     /bio_material="UFAM CTGA 14547"
+                     /db_xref="taxon:1642575"
+                     /country="Brazil"
+                     /lat_lon="2.19081 S 56.7084 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>633
+                     /gene="COI"
+     CDS             <1..>633
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91798"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDP"
+ORIGIN
+        1 ctttacctag tgtttggtgc ttgagccgga atggttggta cagccctcag tctcttaatt
+       61 cgagctgagt taagccaacc cggttctcta ttaggcgatg accagatcta caatgtcatc
+      121 gttaccgcac atgctttcgt aataattttc tttatagtta taccaattat gatcgggggc
+      181 tttggaaatt gactagttcc actaatgatt ggagcgcccg acatagcctt cccacgaata
+      241 aacaacatga gcttctgact tctcccccct tcattccttc tcttactagc ctcttcggga
+      301 gttgaagcag gggcagggac aggttgaact gtatacccac cccttgccgg aaacttagcc
+      361 cacgcaggag cttcagttga cctaactatt ttctcactac acctagctgg tgtatcttca
+      421 attctaggtg caattaactt cattactaca attatcaaca taaaaccccc agctatttca
+      481 caatatcaaa cccccctatt tgtgtgggcc gtacttgtta cagcggtcct gctcctgctt
+      541 tcattacccg ttttggctgc cggtattaca atgctactaa cagatcgaaa cctaaacacc
+      601 acattctttg accctgcagg cggtggagat cca
+//
+LOCUS       KP772605                 597 bp    DNA     linear   VRT 17-APR-2015
+DEFINITION  Hypancistrus sp. 'INPA 43863' bio-material UFAM CTGA 14555
+            cytochrome oxidase subunit I (COI) gene, partial cds;
+            mitochondrial.
+ACCESSION   KP772605
+VERSION     KP772605
+KEYWORDS    .
+SOURCE      mitochondrion Hypancistrus sp. 'INPA 43863'
+  ORGANISM  Hypancistrus sp. 'INPA 43863'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Ancistrinae; Hypancistrus.
+REFERENCE   1  (bases 1 to 597)
+  AUTHORS   Collins,R.A., Ribeiro,E.D., Machado,V.N., Farias,I.P. and Hrbek,T.
+  TITLE     A preliminary inventory of the catfishes of the lower Rio Nhamunda,
+            Brazil (Ostariophysi, Siluriformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 597)
+  AUTHORS   Collins,R.A. and Ribeiro,E.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2015) Laboratorio de Evolucao e Genetica Animal,
+            Departamento de Biologia, Universidade Federal do Amazonas, Av.
+            Rodrigo Otavio, Manaus, Amazonas 69077-000, Brazil
+FEATURES             Location/Qualifiers
+     source          1..597
+                     /organism="Hypancistrus sp. 'INPA 43863'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INPA 43863"
+                     /bio_material="UFAM CTGA 14555"
+                     /db_xref="taxon:1642577"
+                     /country="Brazil"
+                     /lat_lon="2.19081 S 56.7084 W"
+                     /collection_date="Nov-2013"
+                     /collected_by="Valeria Nogueira Machado, Emanuell Duarte
+                     Ribeiro, Rupert A. Collins"
+                     /PCR_primers="fwd_name: FishF1, fwd_seq:
+                     tcaaccaaccacaaagacattggcac, rev_name: FishR2, rev_seq:
+                     acttcagggtgaccgaagaatcagaa"
+     gene            <1..>597
+                     /gene="COI"
+     CDS             <1..>597
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AKC91799"
+                     /translation="AWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIF
+                     FMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTG
+                     WTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAISQYQTPL
+                     FVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDP"
+ORIGIN
+        1 gcctgagccg gaatagttgg tacagctctc agccttttaa ttcgggctga attaagccaa
+       61 cccggctccc tactaggcga tgaccaaatt tataatgtca tcgttactgc acatgccttc
+      121 gtaataattt tctttatggt aataccaatt ataattggag gttttggaaa ttgactagta
+      181 ccactaataa ttggggcccc agatatggcc ttcccacgaa taaataatat gagtttctga
+      241 ctactacccc catcatttct ccttttacta gcctcttcag gagttgaagc aggagcagga
+      301 acaggttgaa ctgtataccc tcccctcgct ggaaacttag ctcacgcagg agcttcagtt
+      361 gacttaacca tcttttcact tcacctagct ggtgtttctt caattctagg agcaattaat
+      421 tttattacta ctattattaa cataaaacct ccagctattt ctcagtacca aactccttta
+      481 tttgtatggg ctgtgcttat tacagctgtc ctacttcttc tttcacttcc tgttctagcc
+      541 gctgggatta caatactgct aacagaccga aatttaaata ctaccttctt cgatccc
+//
