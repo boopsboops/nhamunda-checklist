@@ -1,4 +1,4 @@
-## A preliminary inventory of the catfishes of the lower Rio Nhamundá, Brazil (Siluriformes, Loricariidae) 
+## A preliminary inventory of the catfishes of the lower Rio Nhamundá, Brazil (Siluriformes) 
 ------
 ### Abstract
 
